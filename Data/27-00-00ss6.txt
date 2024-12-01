@@ -1,0 +1,5 @@
+t=The following flight controls position information is displayed to the pilots on the lower portion of the EICAS: Flap and slat position, speed brake position, aileron trim-, rudder trim- and horizontal stabilizer trim position. The FCS synoptic page displays position, status and failure information of the primary flight controls, ailerons, rudder, elevator and multi-function spoilers and the ground spoilers.
+
+
+
+

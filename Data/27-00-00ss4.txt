@@ -1,0 +1,12 @@
+t=The Flight Control System electronics provide two basic modes of operation: In the normal mode the FCM provides software-based airspeed gain schedules and control limits to the Primary Actuator Control Electronic (P-ACE), as well as high level functions such as airspeed augmetation, angle-Off-attack, elevator thrust compensation, rudder flight authority an yaw damper / turn coordination. For example, with increasing airspeed, surface movement will be reduced. In the direct mode the FCM is removed from the control loop (for example due to loss of airspeed data). Control limits default to values set by the hardware in the Primary-ACE and high-level functions are not available.
+
+
+
+
+
+
+
+
+
+
+

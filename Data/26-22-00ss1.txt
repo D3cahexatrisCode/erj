@@ -1,0 +1,9 @@
+t=The APU Fire Extinguishing Subsystem is used to discharge one fire extinguishing bottle, which is installed in the rear fuselage, into the APU fire compartment.  The fire extinguishing bottle discharge is controlled by command from the cockpit. The fire extinguishing bottle pressure, power supply, cartridge integrity and related harnesses are continuously monitored. In case of a failure, a message will illuminate on the EICAS and on the CMC.
+
+
+
+
+
+
+
+

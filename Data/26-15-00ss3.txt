@@ -1,0 +1,7 @@
+t=The forward cargo compartment smoke detection system has a different configuration, as optional, it is equipped with an air circulation fan and ventilation outflow valve.  If only a single detector goes into alarm, fan operation is terminated, and the ventilation outflow valve is closed. The shutdown sequence starts in the forward cargo compartment without any cockpit annunciation activated. The air circulation fan is shut down for 60 seconds and the remaining smoke detectors are monitored for 45 seconds an alarm condition. Successful completion a the built-in-test, and absence of an alarm condition will result in the alarm being treated as a fault. Only if another detector goes into alarm within the 45 seconds is a “CRG FWD SMOKE” annunciated in the cockpit.
+
+
+
+
+
+

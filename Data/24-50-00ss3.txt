@@ -1,0 +1,12 @@
+t=The right integrated control center provides power distribution and protection for AC bus 2 and DC bus 2.  Line replaceable modules in the RICC are the transformer rectifier unit 2, generator control unit GCU, auxilary generator control unit AGCU, DC essential bus 2 and several thermal circuit breakers. Note: the DC essential bus 2 is located in the right integrated control center instead of the emergency integrated control center. This provides DC essential loads in case of damage to the forward E-bay, where the EICC is located.
+
+
+
+
+
+
+
+
+
+
+

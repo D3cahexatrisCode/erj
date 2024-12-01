@@ -1,0 +1,11 @@
+t=The primary flight control electronics are generally comprised of two complementary parts, the P-ACE (Primary Actuator Control Electronics) and the FCM (Flight Control Module). The Primary-ACE effectively replaces the control cables of a conventional aircraft. Its logic connects the control column directly to the respective control surface, providing direct analog control of the surface actuators. Each Primary-ACE independently controls two surface actuators, or PCUs. The FCMs provide software-based assistance to the Primary-ACE. Pilot inputs through the control column are combined with the digital control inputs from the FCM to allow for high level functions. The FCM connects the flight control system to other aircraft systems via the ASCB bus, also referred to as Avionics Standard Communications Bus.
+
+
+
+
+
+
+
+
+
+

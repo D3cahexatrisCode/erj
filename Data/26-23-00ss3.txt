@@ -1,0 +1,9 @@
+t=The fire extinguishing system can be used even without a cargo smoke warning. The high rate bottle is armed by pushing a cargo fire extinguisher button, and is indicated by the red button light and EICAS message. If the button is pushed again within the next 2 minutes, the high rate bottle will be discharged. Depending on whether or not the aircraft is weight on wheels, the sequence for the low rate bottle is automatic in flight, or manual on ground. In flight the second bottle will fire automatically after 1 minute; on ground the button has to be pushed twice to arm and to fire the low rate bottle. If the button is not pressed a second time within 2 minutes after arming, the system will reset. When the fire test button is pressed the system will reset.
+
+
+
+
+
+
+
+

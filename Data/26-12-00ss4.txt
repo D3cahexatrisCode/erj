@@ -1,0 +1,10 @@
+t=A test button on the fire control panel is used to manually test the APU fire detection system. When pressed, the following will occur: Illumination of APU emergency stop and APU fire extinguishing buttons, the master warning push buttons, APU FIRE CAS message and aural fire warning. This test button will also test the main engine fire detection system and the cargo smoke detection system.
+
+
+
+
+
+
+
+
+

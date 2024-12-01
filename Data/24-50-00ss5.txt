@@ -1,0 +1,2 @@
+t=The auxiliary integrated control center provides power distribution and protection for APU start bus and hot battery bus 2 and several thermal circuit breakers.
+

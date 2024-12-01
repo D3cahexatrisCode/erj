@@ -1,0 +1,8 @@
+t=In the rear cargo compartment, smoke must be detected by two independent smoke detector channels  for an alarm to be reported to the flight deck. Indications include an audible alarm, master warning lights flashing, the aft cargo compartment fire extinguishing button illuminating and  "CARGO AFT SMOKE" and "CRG FIREX HI ARMED" messages on the EICAS.
+
+
+
+
+
+
+

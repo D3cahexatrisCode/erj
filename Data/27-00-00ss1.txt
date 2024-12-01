@@ -1,0 +1,13 @@
+t=The Flight Control System is comprised of the primary and the secondary flight control systems and their associated system components. The primary flight control system consists of the ailerons and the multi function roll spoilers for roll axis control, the elevators for pitch axis control and the rudder for yaw axis control. The secondary flight control system includes the horizontal stabilizer, flaps and slats, the multi-function spoilers (when used as speed brakes or ground spoilers) and dedicated ground spoilers.
+
+
+
+
+
+
+
+
+
+
+
+

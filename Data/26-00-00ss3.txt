@@ -1,0 +1,13 @@
+t=The following equipment is installed on the overhead panel in the cockpit for indication and extinguishing of a fire: The left and right engine fire handles indicate a fire when a red light in the handle illuminates. Pulling the handle will shutdown the respective engine. The handles are also used to extinguish the fire when rotating them left or right.The APU can be shut down by the crew in the event of a fire using the EMER STOP button on the APU control panel. The fire extinguisher control panel, located between the fire handles, allows the crew to extinguish a fire in the cargo compartments and the APU. A test switch allows testing of the entire fire detection system. If a fire is detected, the respective warning messages will be displayed on the EICAS, and aural warnings will sound.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+t=The cargo compartment smoke detection subsystem is designed to detect smoke in the cargo compartment and turn off the ventilation in the forward cargo compartment. The system includes a group of ceiling mounted photoelectric fan-type smoke detectors that are installed in recessed trays within the ceiling of the cargo compartments. Signals from the smoke detectors are routed to the flight deck via the MAU`s, which process the necessary system information for the operating crew. 
+
+
+
+
+
+
+
+
+
+

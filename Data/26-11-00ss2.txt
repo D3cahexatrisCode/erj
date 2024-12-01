@@ -1,0 +1,12 @@
+t=The fire detectors are installed in dual loop configuration, which means that each detector of loop A will have a correspondent detector of loop B protecting the same area. This configuration allows the aircraft to be dispatched with one loop inoperative. During normal operation, both loops must detect a fire to provide a fire alarm in the cockpit, however, with one loop inoperative, the alarm will also be enabled when the remaining operative loop detects fire. If both loops  are  failed an EICAS message is displayed.
+
+
+
+
+
+
+
+
+
+
+

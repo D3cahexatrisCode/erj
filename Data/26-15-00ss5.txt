@@ -1,0 +1,9 @@
+t=The cargo compartment smoke detection system can be manually tested through a system test button located on the overhead panel. This test will verify that the smoke detectors and that the flight deck interface components are functioning. Additionally, this test will verify that the FIRE Extinguisher Cartridges are not faulty. When the switch is pressed, the master warning lights will flash and the aural warning will sound, the "CARGO FWD/AFT SMOKE" message will illuminate, the cargo extinguisher lights will be activated, the forward cargo compartment fan will stop and the vent valve will close. In case the ventilation fan will not stop, "CRG FWD VENT FAIL" caution will illuminate.
+
+
+
+
+
+
+
+

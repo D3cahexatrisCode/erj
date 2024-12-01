@@ -1,0 +1,12 @@
+t=The Integrated Control Center is an electrical electronic device, which provides power distribution and protection for the airplane electrical loads. Four ICC are installed: The Left and Right Integrated Control Centers are located in the mid E-Bay, the Emergency Integrated Control Center (EICC) is located in the forward E-Bay, the Auxiliary Integrated Control Center (AICC) is located in the aft E-Bay. Each ICC has incorporated AC and DC busses, thermal circuit breakers (CB) and line replaceable modules. Thermal Circuit breakers in the ICC ’s are remote circuit breakers. They can be monitored via the MCDU in the cockpit. If a thermal remote CB trips, an EICAS advisory message REMOTE CB TRIP illuminates.  Note: Thermal remote CB’s in the ICC can only be reset on ground by maintenance personnel.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+t=The emergency integrated control center provides power distribution and protection for AC essential bus and DC essential bus 1 and 3. The standby AC bus and the hot battery bus 1 are also integrated into the control center.  Line replaceable modules in the EICC are the essential transformer rectifier unit and several thermal circuit breakers.
+
+
+
+
+
+
+
+
+
+
+

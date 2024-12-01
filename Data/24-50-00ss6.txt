@@ -1,0 +1,12 @@
+t=The Secondary Power Distribution Assembly (SPDA) is an electrical loads management and power distribution device. It distributes power from the integrated control centers, as dictated by logic calculations and specific airplane configurations, to several aircraft systems. Two SPDAs are installed, one in the forward E-bay, and the second in the mid E-bay. Each SPDA has a number of slots where different electronic modules are connected. Each module has an associated function that provides communication, data processing and power distribution. (5) Electronic remote circuit breakers are located in the SPDAs. They can be monitored via the MCDU in the cockpit. An EICAS advisory message REMOTE CB TRIP illuminates if an electronic remote CB is triggered.  Note: Electronic remote CBs in the SPDAs can be reset from the MCDU in the cockpit.
+
+
+
+
+
+
+
+
+
+
+

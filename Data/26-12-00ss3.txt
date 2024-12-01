@@ -1,0 +1,8 @@
+t=If,in the event of fire, one minute has passed without the MAU receiving a positive indication that the APU Emergency Stop button was pressed, the APU fire extinguish button will illuminate. If there is an APU fire on ground, the APU will shut down automatically after ten seconds if there is no commanded shutdown through the APU Emergency Stop button. The fire detectors will be continuously monitored. When both loops are failed, an "APU FIRE DET FAIL" message will be displayed on the EICAS. In case of a fire detector loop failure, the fire alarm will be provided in the cockpit when the operative loop detects fire.
+
+
+
+
+
+
+

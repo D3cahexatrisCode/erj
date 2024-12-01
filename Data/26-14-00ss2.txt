@@ -1,0 +1,9 @@
+t=When smoke is detected in any lavatory, the following sequence is initiated: An alarm will sound inside the lavatory where smoke has been detected. The chime is mounted into the lavatory smoke detector assembly and is audible from anywhere in the cabin. Additionally, the red alarm indicator will illuminate. The flashing amber light on the Attendant light indicator panel will be activated, giving the cabin crew visual indication of the detection of smoke from anywhere in the passenger compartment  and a CAS warning message “LAV SMOKE” in conjunction with the Master Warning indication will illuminate in the cockpit.
+
+
+
+
+
+
+
+

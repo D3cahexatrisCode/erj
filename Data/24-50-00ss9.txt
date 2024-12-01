@@ -1,0 +1,12 @@
+t=The normal operation of the electrical system is automatic. Two independent networks provide complete segregation for electrical fault isolation. The left engine’s IDG (IDG 1) normally powers AC bus 1, and the right engine’s IDG (IDG 2) normally powers AC bus 2 and the AC essential bus. Each AC bus powers a dedicated TRU, which rectifies AC to DC power, supplying DC busses and then DC essential busses. If a generating power source fails, the electrical system logic provides electrical power to the bus from another source according to the following priority: 1st - onside IDG, 2nd - APU generator, 3rd - GPU (if on ground), and 4th, opposite IDG. One AC source can supply the whole electrical system. When a total loss of AC power occurs, the emergency generator (RAT) will automatically deploy, supplying all essential buses.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+t=The APU Fire Detection Subsystem uses two pneumatic fire detectors to detect a fire or overheat condition in the APU compartment. The fire detectors are similar to the engine fire detector in design and function.The fire detectors are connected to MAU 1 and 3, which supply indications to the EICAS and CMC.
+
+
+
+
+
+
+
+
+
+
+

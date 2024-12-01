@@ -1,0 +1,14 @@
+t=The flight control system employs hydraulic actuators to control the respective flight control surfaces. These are generally referred to as Power Control Units (PCUs). The ailerons are driven by conventional control cables that run from each control wheel back to a pair of hydro-mechanical actuators, moving the control surfaces. The rudder, elevators and roll spoilers as well as all secondary flight control systems, including the horizontal stabilizer, flaps and slats, ground spoilers and speed brakes, are controlled electronically using 'Fly-By-Wire' (FBW) technology. Primary Actuator Control Electronics (P-ACE) and/or Flight Control Modules (FCM) are employed to operate the respective electro-hydraulic or electro-mechanical actuators.
+
+
+
+
+
+
+
+
+
+
+
+
+

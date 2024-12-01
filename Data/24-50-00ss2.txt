@@ -1,0 +1,12 @@
+t=The left integrated control center provides power distribution and protection for AC bus 1 and DC bus 1 and the AC and DC ground service buses. Line replaceable modules in the LICC are the transformer rectifier unit 1, GCU 1, the external power module and several thermal circuit breakers.
+
+
+
+
+
+
+
+
+
+
+

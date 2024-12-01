@@ -1,0 +1,14 @@
+t=The fire/overheat protection system provides fire or smoke indication in the cockpit and cabin, and enables the crew to extinguish the fire. The system is made up of the fire and smoke detection subsystem and the fire extinguishing subsystem. Areas of the EMBRAER that are monitored or protected by the fire protection system include: The engines and pylons, the APU, the 2 cargo compartments, the lavatories and lavatory waste bins. In addition, portable fire extinguishers are located in the cockpit and cabin.
+
+
+
+
+
+
+
+
+
+
+
+
+

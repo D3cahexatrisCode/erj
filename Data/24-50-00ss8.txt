@@ -1,0 +1,12 @@
+t=Several units of the Electrical System have built in test capabilities. They detect, isolate and locate faults that occur in the unit. These units are: Generator Control Units Auxiliary generator control unit, External Power Module and Secondary Power Distribution Assemblies. The built in test capability has three levels: Continuous Built In Test, Fault Initiated Test and Initiated Test. Results of the built in tests are shown on the EICAS for crew reaction and sent to the Centralized Maintenance Computer (CMC).
+
+
+
+
+
+
+
+
+
+
+

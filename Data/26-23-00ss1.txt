@@ -1,0 +1,6 @@
+t=The cargo compartment fire Suppression Subsystem supplies fire extinguishing agent to the cargo compartment to extinguish a fire. Fire extinguishing agent will also be supplied for up to 60 minutes to prevent a fire from re-igniting. Two fire extinguisher bottles are installed in the center E-Bay. One hi-rate discharge bottle is filled with 5.91kg (13 lb) halon 1301 and one low-rate discharge bottle is filled with approximately 9.98 kg (22lb) halon 1301. They are equipped with dual outlets to discharge suppression agent into either of the cargo compartments. The high rate gas flow is designed to extinguish the fire by filling the cargo compartment with the required concentration of HALON 1301, while the low rate gas flow afterwards prevents re-ignition. Discharge is initiated by cockpit command.
+
+
+
+
+

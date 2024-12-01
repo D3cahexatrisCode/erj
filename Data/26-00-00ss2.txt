@@ -1,0 +1,14 @@
+t=The engines and APU are monitored by a fire and overheat detection system. If a fire occurs in either the engine or APU compartment it can be extinguished by the respective fire extinguishing system. The cargo compartments are monitored by a smoke detection system. They are equipped with a single fire extinguishing system for both compartments, which is built around 2 fire extinguishing bottles. The lavatories are equipped with a smoke detection system to alert the crew. In case of a fire in the lavatory waste bins, a fire extinguisher will automatically be discharged into the waste bin. To fight a fire on board, the crew can make use of the portable fire extinguishers installed in the cabin and cockpit areas. 
+
+
+
+
+
+
+
+
+
+
+
+
+

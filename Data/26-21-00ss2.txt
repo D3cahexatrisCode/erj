@@ -1,0 +1,6 @@
+t=The fire extinguishing agent is driven from the bottle to the engine fire zone by aluminum / stainless steel distribution pipes. The aluminum pipe is connected from the fire extinguisher bottle to the forward pylon. Both fire extinguishing bottles are cross-connected, providing two shots for the same engine. Each shot, controlled by command from the cockpit, will discharge the fire extinguisher agent inside the requested engine 1 or 2 fire zone.
+
+
+
+
+

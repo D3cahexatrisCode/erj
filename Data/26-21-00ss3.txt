@@ -1,0 +1,4 @@
+t=If a fire warning illuminates for engine 1, the related fire handle will illuminate in red. By pulling down this fire handle, the related engine fuel and hydraulic fluid flow will be stopped by closing the shutoff valves. The bleed air of the related engine will also be closed. By rotating the fire handle counterclockwise to EXTG A, the explosive cartridge for engine 1 on BOTTLE A will detonate, and the fire extinguishing agent will be discharged into engine 1 core compartment. After the fire extinguishing bottle is discharged, an "ENG FIREX BTL A DISCH" message will appear on the EICAS. If the engine 1 fire warning stays on, BOTTLE B can also be used for this engine.
+
+
+

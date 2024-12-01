@@ -1,0 +1,7 @@
+t=If a cargo fire occurs, the cargo smoke warning will be displayed in the cockpit and the appropriate cargo compartment fire extinguisher button will illuminate. This automatically arms the high rate bottle. By pressing the illuminated extinguisher button, the high rate bottle will discharge into the related cargo compartment and the low rate bottle will be armed. After 1 minute the low rate bottle will automatically discharge and distribute its agent via the drier/metering unit into the cargo compartment. The low rate bottle can be discharged manually before the 1 minute has expired, by pressing the extinguisher button again. The light in the button will go off after the low rate bottle has been discharged. Note that the cargo smoke indication will stay on as long as the fire situation exists.
+
+
+
+
+
+

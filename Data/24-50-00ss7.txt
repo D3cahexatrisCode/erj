@@ -1,0 +1,12 @@
+t=Circuit Breakers can be either electronic or thermal CBs. Electronic CBs are located inside the secondary power distribution assemblies (SPDA) and may be reset from the MCDU. Some thermal CBs are located inside the Integrated Control Centers (ICC) and cannot be reset in flight. Vital system CBs, such as those for computer reset and power interruption during maintenance are located on the circuit breaker panel in the cockpit. Columns and lines on the CB panel are identified through an alphabetical and numeric columns code.
+
+
+
+
+
+
+
+
+
+
+

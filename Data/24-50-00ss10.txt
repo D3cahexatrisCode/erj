@@ -1,0 +1,10 @@
+t=With power source failure, tie busses achieve connection between the networks. The respective AC bus will be powered by the other AC bus through Bus Tie Contactor (BTC) 1 or 2. On the cockpit overhead panel the AC BUS TIES rotating switch is normally in the auto position and the electrical system controls the bus tie contactors automatically. In the 1 OPEN position, bus tie contactor 1 opens and isolates AC bus 1 and in the 2 OPEN position, bus tie contactor 2 opens and isolates AC bus 2. A BTC lockout system provides system protection.
+
+
+
+
+
+
+
+
+

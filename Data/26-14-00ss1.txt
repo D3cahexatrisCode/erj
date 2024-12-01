@@ -1,0 +1,6 @@
+t=The lavatory smoke detection system detects smoke in the lavatories and warns the crew. The system consists of: A smoke detector mounted on the forward and aft lavatory ceiling panel, lavatory smoke test switches on the forward and aft flight attendant panel. The lavatory smoke detection system is provided with the following indications: CAS messages, aural indication through a smoke detector built-in chime, visual indication through the red alarm indicator light and the FWD and AFT attendant light indicator panels.
+
+
+
+
+

@@ -1,0 +1,14 @@
+t=The detection subsystem provide means for detection of fire or overheat conditions in the engine designated fire zone by the use of fire detectors. These fire detectors are connected to the MAU`s to generate the related indications in the cockpit.
+
+
+
+
+
+
+
+
+
+
+
+
+

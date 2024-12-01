@@ -1,0 +1,6 @@
+t=System operation can be confirmed electrically by a self-test circuit, by pushing the built-in self-test switches on the forward flight attendant panel. When BIT is initiated from the forward flight attendant panel by pressing and holding the test switch for a particular lavatory, the smoke detectors, cabin crew and flight crew indications are tested. After the  test switch is released, the CAS message and the master warning indication are held for seven seconds. 
+
+
+
+
+

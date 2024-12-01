@@ -1,0 +1,11 @@
+t=In case of fire, the following indications are provided to the crew in the cockpit:- the flashing master warning light - an aural warning in the cockpit - a "Engine 1 FIRE" or "Engine 2 FIRE" warning message on the EICAS - a fire inscription on the ITT icon - and a red light in the fire handle, assigned to the engine where a fire was detected. The aural warning can be silenced by pushing the master warning button. The master warning light will then go off. However, the engine fire warning message and the red light in the fire handle will remain on until the fire is extinguished.
+
+
+
+
+
+
+
+
+
+

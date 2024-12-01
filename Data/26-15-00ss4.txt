@@ -1,0 +1,7 @@
+t=The smoke detectors are continuously monitored by Built-In-Test.  If only one smoke detector is available in one compartment, the MAU will automatically report a "CRG FWD/AFT SMOKE" when one smoke detector reports a fire alarm.  When the aircraft is on ground and a faulty smoke detector is realized, a "CRG FIRE PROT FAULT " will be indicated on the EICAS. In the event that all smoke detectors in one cargo compartment have failed, a "CRG FWD/AFT FIRE SYS FAIL" message will illuminate on the EICAS.
+
+
+
+
+
+
