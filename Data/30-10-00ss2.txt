@@ -1,0 +1,2 @@
+t=The wing anti-ice overheat detection system consists of dual-loop overheat detection sensor elements installed in the left and right pylon/wing areas. If one of the wing anti-ice ODS loops dedect, a leakage in the wing ice duct or if a slat temperature sensors indicates an overtemperature, both the left and the right wing anti-ice valves are commanded closed, the wing anti-ice system is no longer available, and the warning message A-I WING 2 LEAK  will be displayed on the EICAS.
+

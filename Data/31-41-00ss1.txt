@@ -1,0 +1,3 @@
+t=The modular avionics units (MAU) are cabinets that houses modules assigned to different functions, in an integrated architecture. The MAU houses avionics and non-avionics functions. Among the avionics functions, the MAU houses air data application, autopilot, autothrottle, data acquisition, display control functions, flight director, flight management system (FMS), flight control modules, global position system, monitor/warning system, stall protection/warning and windshear guidance. MAU 1 and 2 are located in the forward electronics bay, whereas MAU 3 is located in the center electronics bay.
+
+

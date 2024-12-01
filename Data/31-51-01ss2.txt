@@ -1,0 +1,2 @@
+t=A test button is provided to allow checking the takeoff configuration. When the button is pushed, the power levers are simulated to the advanced position. If the airplane is in takeoff configuration, the voice message “TAKEOFF OK” is generated. If the airplane is not set to takeoff configuration, the aural warning referring to the associated takeoff configuration deviation is generated.
+

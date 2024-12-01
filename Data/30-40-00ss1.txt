@@ -1,0 +1,13 @@
+t=The windshield wiper system is operated from the cockpit control panel. The panel includes two selector switches, and each of the switches has four different positions. In OFF position the associated wiper blade travels to the windshield inboard position, parking out of the pilot's vision. When the selector switch is in LOW position, the wiper operates at 80 cycles per minute. When in HI mode the wiper operates at 125 cycles per minute. TIMER mode provides an intermittent high speed operation of the associated windshield wiper in single cycles (two strokes) with a 8 second interval between the cycles. When both pilot and co-pilot wiper control switches are set to the same position, the pilot motor control assembly acts as a master and will synchronize the blade sweep.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+t=Advisory alerts are dedicated to Level 1 alerts and corresponds to a situation that requires the pilot’s knowledge for recognition situations such as when the auto throttle is deactivated or the altitude alert  when  unintentionally departing the selected altitude. The advisory alert is a single alert signal that is cancelled automatically. Information alerts which are dedicated to level 0 correspond to an information situation, such as when the aircraft is in the take-off configuration or during a trim malfunction. 
+

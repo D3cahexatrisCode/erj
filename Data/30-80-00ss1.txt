@@ -1,0 +1,2 @@
+t=The Ice Detection System has two ice detectors located near the nose of the aircraft as close to the free air stream as possible.  With the MODE selector switch on, the ice protection control panel in the AUTO position, this will automatically turn on both the engine and wing anti-ice systems. An icing conditions message is sent to the EICAS. If the mode selector knob is selected to ON, the wing and engine anti ice systems will activate, regardles of the ice detection system.
+

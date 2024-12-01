@@ -1,0 +1,4 @@
+t=At temperatures above 10°C, or when visible moisture doesn’t exist, the pilot keeps the MODE selector knob in the AUTO position and sets REF A/I OFF in the TDS menu. This will inhibit activation of the engine- and slat anti-ice system up to 1700 ft, or 2 minutes after lift-off. After that, the anti-ice systems will be turned on whenever ice is detected. At temperatures below 10°C with visible moisture, ice accumulation on the engines can occur during ground operation or take-off. With the MODE selector knob in the AUTO position, the pilot enters REF A/I ENG in the TDS menu to turn on the engine anti-ice system for ground operation and take-off. At temperatures below 5°C with visible moisture, REF A/I ALL should be inserted in the TDS menu. This ensures that the slat anti-ice system will also be activated during the take-off roll.
+
+
+

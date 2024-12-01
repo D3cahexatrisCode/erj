@@ -1,0 +1,3 @@
+t=The aircraft Monitor Warning System continuously monitors the condition of the various aircraft systems and shows alert messages and/or annunciations to the flight crew to inform the crew about the current system operation status. The colour philosophy used to inform the flight crew is as follows: Red - for Warning Conditions, flight envelope and system limits; Amber - for caution conditions, unavailable or invalid data and miscompare annunciations; Cyan - for advisory data, advisory EICAS messages and pilot-selected data; Green for engaged modes, current data and pointers in normal operating range; White for armed/standby modes, status data, status CAS messages, scales and associated figures and labels. 
+
+

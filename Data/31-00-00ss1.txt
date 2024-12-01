@@ -1,0 +1,5 @@
+t=The purpose of the indication and recording system is to present visual and/or aural information to the cockpit crew. The indication and recording system is divided into several sub-systems: The instrument and control panel system. The independent instrument system, which in the Embraer 170 is the clock. The recorder system, used to give information such as engine and aircraft system parameters, and the Central warning system, which provides audible or visual information whenever there is an abnormal condition in one of the aircraft systems.
+
+
+
+

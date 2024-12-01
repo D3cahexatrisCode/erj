@@ -1,0 +1,6 @@
+t=With no visible moisture or temperature above 10°C, the pilot shall keep the MODE switch in the AUTO position and set REF A/I OFF in the TDS menu. This will inhibit both slat- and engine anti-ice system activation up to a flight altitude of 1700ft above the field or 2 minutes after lift-off, whichever occurs first, and no EICAS message will be displayed.After that, both anti-ice systems will be turned on whenever ice is detected. Additionally, the FADECs will be able to set maximum take-off thrust assuming that slat- and engine  anti-ice systems will not be turned on during ground operation and take-off. Selecting the MODE switch to the ON position with REF A/I OFF will cause the advisory message A-I MODE NOT AUTO and caution message ENG REF A-I DISAG to display. In this case the flight crew shall return MODE selector to AUTO.
+
+
+
+
+

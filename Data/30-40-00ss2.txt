@@ -1,0 +1,14 @@
+t=The Windshield Heating system of the s designed to regulate the temperature of the windshield in order to prevent ice formation on the exterior surface and fog formation on the interior surface of the windshield. The windshield is constructed of laminated glass, and is electrically heated. Two Windshield Heater Control Units located in the forward electronic compartment, independently regulate and monitor the temperature of the left and right windshields using sensors and heater elements integrated into each windshield. In the event of a failure, messages are displayed on the EICAS an additional information is stored in the CMC.
+
+
+
+
+
+
+
+
+
+
+
+
+

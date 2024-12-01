@@ -1,0 +1,4 @@
+t=The engine anti-ice system can be tested by using the ice protection control panel TEST selector knob when the engine is running. Moving the TEST selector knob to the engine position will initiate test of the engine anti ice and ice detection systems. Any failure will be indicated on the EICAS or on the anti-ice synoptic page.
+
+
+

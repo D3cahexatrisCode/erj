@@ -1,0 +1,8 @@
+t=A takeoff configuration warning indicates that the airplane configuration is not in a suitable takeoff condition. It is provided through the aural warning system. Such warning is activated whenever the airplane is on the ground, thrust is applied and at least one of the following conditions is met: Flaps are not in takeoff position. Any spoiler panel is deployed. Parking brakes are applied, or pitch trim is out of green range. More than one warning may be generated if more than one condition is met.
+
+
+
+
+
+
+

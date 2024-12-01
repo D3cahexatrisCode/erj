@@ -1,0 +1,2 @@
+t=The electronic display system has two aural warning drivers and operate as Master/Slave logic, and are responsible for generating and prioritizing the aural warnings. In case one aural warning driver is inoperative, the slave aural warning driver will automatically take over. If both aural warning drivers are inoperative, an " AURAL WRN SYS FAULT”  message will be shown on the EICAS display. Aural warnings sound in a sequence, and are never truncated
+

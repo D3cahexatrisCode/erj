@@ -1,0 +1,7 @@
+t=UTC is indicated from 0 to 23 hours 59 minutes and 59 seconds. A fixed colon separates hours from minutes and operates only when the function is initialized. With the three-position selector set to INT, the clock displays its internally computed time. When set to GPS, the clock synchronizes and displays GPS time. Note: During GPS  initialization the clock displays its internal time. When the clock is synchronizing with the GPS, when no signal is present or when false or invalid data is received, the clock displays its internal time. It displays only zero if the internal time is not set. Pressing the DATE button displays the DAY/ MONTH and YEAR in place of the UTC, but the colon is not displayed. Leap years are taken into account. Elapsed time counting is possible from 0 to 99 hours and 59 minutes. A fixed colon separates the hours from the minutes and is seen only in the RUN mode. The display is blanked in the nonoperative mode. In the AUTO mode, the elapsed time counter starts only if there is no Weight On Wheels. As soon as weight is on wheels the counter stops. With Weight On Wheels and selected to the RESET mode, the counter is zeroed and blanked. Chronometer time is displayed from 0 to 99 minutes and 59 seconds. Pushing the RST push button blanks the display. Pushing the CHR push button once enables the display and starts the chronometer from zero; pushing it a second time stops it.
+
+
+
+
+
+

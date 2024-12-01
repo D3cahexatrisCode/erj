@@ -1,0 +1,14 @@
+t=The windshield heating control unit operates according to a load shedding logic. On the ground, when only one AC electrical power source is available, the windshield heating is inhibited. If only a single AC electrical power source is available inflight, only the left windshield heating is powered. In case the left windshield has failed the right windshield will be heated.
+
+
+
+
+
+
+
+
+
+
+
+
+

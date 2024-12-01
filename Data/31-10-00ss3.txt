@@ -1,0 +1,5 @@
+t=On the center panel the following components are found: The Engine Indication and Crew Alerting System Display (EICAS), the integrated electronic standby system, the auto brake selector knob, the ground proximity terrain inhibit pushbutton, the emergency/parking brake light, the landing gear warning inhibit pushbutton, the ground proximity glideslope inhibit pushbutton, the ELT panel, the landing gear control panel and the clock.
+
+
+
+

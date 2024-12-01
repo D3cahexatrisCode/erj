@@ -1,0 +1,4 @@
+t=The glareshield panel system provides protection against sun washout for the main instrument panel. Besides the Guidance panel, the Display and Light control panels, the Glareshield panel includes the Master Warning and Master Caution push button/lights.
+
+
+

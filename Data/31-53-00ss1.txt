@@ -1,0 +1,2 @@
+t=The aircraft is designed and operates using the concept that when the engines are started, all systems are normal if: The overhead panel, the main panel, the glare shield panel and control pedestal panels have no striped bar illuminated, no aural warnings are being issued and the selector knobs are all in the twelve o’clock position. In abnormal situations the crew will receive visual warnings indicating that a system is not operating normally.
+

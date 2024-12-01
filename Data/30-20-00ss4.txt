@@ -1,0 +1,10 @@
+t=Specific control logic for ground operation and take-off has been defined for the EMBRAER 170 regarding the anti-ice system of the aircraft. During ground operation with the engines running and the aircraft operating at low speed, the induced flow of air around the engine air inlet lips may cause ice accumulation around the engine inlet if there is moisture in the air and the temperature is below 10°C. Since the ice detectors need air at a certain minimum speed flowing around them to automatically detect icing condition, the pilots have the ability to manually activate the engine anti-ice system during ground operation via the Take-Off Data Set (TDS) menu and the ICE PROTECTION control panel. Additionally, the FADECs receive a signal that bleed air will be extracted from the engines during take-off to feed the anti-ice systems, in order to set the maximum thrust without exceeding temperature limitations. TDS menu settings will be disregarded as soon as 1700 ft AGL is reached, or 2 minutes after lift-off, whichever is earlier. The system will then revert to the default control logic.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+t=Each Windshield Heater Control Unit independently regulates the temperature of a windshield using two sensors and one heater element that are integrated into the windshield. One sensor is used for control and the second is an overheat monitor.
+
+
+
+
+
+
+
+
+
+
+
+
+

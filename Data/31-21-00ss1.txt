@@ -1,0 +1,4 @@
+t=The clock is located on the cockpit instrument panel. It is used to display the Universal Time Coordination (UTC), elapsed time, and chronograph functions.
+
+
+

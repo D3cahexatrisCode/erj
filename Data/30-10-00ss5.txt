@@ -1,0 +1,6 @@
+t=The operator can select the TEST mode to momentarily initiate system operation during no icing conditions on the ground,to test wing anti ice and ice detector systems, whenever either bleed air from the engines or from the APU is available. In case APU bleed air is used, the cross-bleed valve is commanded open. During the test, the slats are heated up and the correct temperature is measured and monitored within the AMS controller. Additionally, the slat anti-ice system also continuously monitors system components health when the aircraft is powered up to ensure that required and symmetric anti-ice flow is supplied to both left and right wing. The BIT is able to detect failures within the AMS controller, the pressure sensors, the SAIVs and the slat temperature sensors. If a failure is detected which disables anti-ice protection a failure message is displayed to the pilots on the EICAS.
+
+
+
+
+

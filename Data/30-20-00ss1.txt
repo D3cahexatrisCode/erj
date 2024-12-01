@@ -1,0 +1,2 @@
+t=The EMBRAER 170 engine anti-ice system supplies hot bleed air from the engine to its inlet cowl to prevent the hazardous formation of ice on the inlet lip. The engine anti-ice system is normally activated automatically via the aircraft ice detection system whenever icing conditions exist, and shut off when icing conditions no longer exist. System status is displayed to the pilots on the EICAS and on the MFD anti-ice synoptic page.
+

@@ -1,0 +1,5 @@
+t=Each of the Smart Probes and TAT probes have heater elements to provide de-icing and anti-icing for continued sensor accuracy in icing environments. When the probes are used during ground operation, minimal heat is required and applied to the probes, while in cold temperature environments, the probes will be provided the additional power necessary to maintain ice-free operation. The Pitot/Static sensor heating system provides electrical power to heat the Air Data Smart Probes 1, 2, 3, and 4 and the TAT 1 and 2 probes. Heating is controlled by the Air Data Computers. Heating is provided when the engines are running. Failures within the heating system will be displayed on the EICAS.
+
+
+
+

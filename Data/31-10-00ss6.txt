@@ -1,0 +1,4 @@
+t=The control pedestal has three primary sections: a control pedestal forward panel, a control stand and a control pedestal aft panel. The following components are on the forward panel: The two multi function control display units, the engine control panel and the flight controls mode panel. The following components are on the control stand: Two cursor control devices, two thrust levers, a steep approach button, a take-off configuration button, the EICAS full button, a ram air turbine manual deploy panel and a speed brake lever.
+
+
+

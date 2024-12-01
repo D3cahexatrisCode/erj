@@ -1,0 +1,10 @@
+t=The system displays the following EICAS messages to the pilots: An advisory message ICE CONDITION that indicates that the left or right ice detector has detected icing condition in flight. This message is inhibited below 1700 ft above airfield or 2 (two) minutes after liftoff, whichever occurs first. The EICAS caution message ICE DETECTOR 1/2 FAIL indicates an ice detector failure.
+
+
+
+
+
+
+
+
+

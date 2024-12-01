@@ -1,0 +1,12 @@
+t=The ice detector utilizes a sensing element which is driven to vibrate at its mechanical resonance by an oscillator circuit. Ice build-up on the sensor element is then detected as a change in the vibration frequency, which is caused by an increase in the sensing element’s mass due to the accumulation of ice. When a predetermined shift of the frequency is detected, the ice detector will send an output signal to the AMS controller indicating an icing condition. In order to allow for continuous in-flight ice detection, the sensor also contains an internal heating element, which is designed to shed ice build up after sending the ICE SIGNAL to the AMS controller.
+
+
+
+
+
+
+
+
+
+
+

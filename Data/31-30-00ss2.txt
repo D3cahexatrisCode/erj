@@ -1,0 +1,4 @@
+t=The Digital Voice Data Recorder System has the following components: Two identical Digital Voice Data Recorder units; DVDR 1 is installed in the forward E Bay, DVDR 2 is installed in the aft E Bay. Two Impact Switches, one each mounted in to its respective Digital Voice Data Recorder. One Tri-axial Accelerometer, installed in the left hand side wing-stub area. One DVDR Control Panel, located in the cockpit on the overhead panel. One Cockpit Area Microphone, mounted on the frame between both windshields.
+
+
+

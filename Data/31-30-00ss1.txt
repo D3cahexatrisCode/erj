@@ -1,0 +1,4 @@
+t=The DVDR, Digital Voice Data Recorder system is capable of receiving, recording, and preserving all required flight data parameters and voice recordings onboard the aircraft. It combines the function of a Flight Data Recorder with the function of a Cockpit Voice Recorder in a single solid-state recording unit. The Digital Voice Data Recorder Unit is capable of recording the most recent:  120 minutes (2 hours) of audio information, 25 hours of Flight Data information, 120 minutes (2 hours) of Digital Communication Messages, and Greenwich Mean Time (GMT).
+
+
+

@@ -1,0 +1,2 @@
+t=There are four levels of aural alerts: emergency alerts, abnormal alerts, advisory alerts and information alerts. The emergency alerts are dedicated to level 3 alerts and correspond to an emergency situation, such as an aircraft in hazardous configuration or serious aircraft system  failures that require the pilot's immediate action. Abnormal alerts are  dedicated to Level 2 alerts and correspond to an abnormal situation like the single chime for the master caution or the voice messages from the TCAS system.
+

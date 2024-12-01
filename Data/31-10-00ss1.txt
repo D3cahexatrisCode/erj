@@ -1,0 +1,4 @@
+t=The instrument and control panel system includes all fixed or movable panels and their components. The system is divided into several sub-systems: The Main Panels, which include the primary instruments of the pilot and the copilot; The Glareshield panel, which includes the Guidance panel, the Display and Light Control Panels; The Control pedestal and the Overhead panel, which consists mainly of arrays for controlling the aircraft systems.
+
+
+

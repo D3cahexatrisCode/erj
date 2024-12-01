@@ -1,0 +1,8 @@
+t=When the engine is running, the engine anti-ice system extracts air from the engine 10th stage compressor upstream of the high stage bleed valve. The airflow into the Nacelle Anti-Ice system is controlled by the engine  Anti-Ice valve. The valve is fail safe open, assuring that the valve will default to the open position in the absence of an electrical signal. A pressure transducer and a pressure switch are installed to monitor duct pressure.  A T2 sensor, mounted to the  inlet cowl inner barrel, supplies inlet temperature signals to the FADEC.
+
+
+
+
+
+
+
