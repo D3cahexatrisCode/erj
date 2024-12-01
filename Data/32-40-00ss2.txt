@@ -1,0 +1,10 @@
+t=The brake control system consists of the following main components: Two cockpit brake pedal assemblies. One optional auto-brake switch, located in the cockpit, with five auto-brake selections for various auto-brake modes. Two identical brake control modules: BCM 1 controlling the outboard brakes and BCM 2 controlling the inboard brakes, and one optional auto-brake module (ABM) all located in the MAU. Two brake shut-off valves, supplying or isolating hydraulic pressure to the brakes depending on various conditions. Two brake control valves, one for the inboard and outboard brakes, to regulate the hydraulic pressure. Four pressure transducers provide hydraulic pressure signals to the Brake Control Module (BCM).
+One hubcap drive per wheel, incorporating the wheel speed transducer, which transmits wheel speed signals to the BCM.
+
+
+
+
+
+
+
+

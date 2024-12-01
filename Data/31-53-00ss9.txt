@@ -1,0 +1,2 @@
+t=The synoptic color philosophy used on the displays present their indications in green to indicate the ON status or in white to indicate OFF, or no air or no fluid flow. Unavailable or invalid data is presented by a dashed symbol. In case of a failed component an amber “X” is placed on top of the symbol.
+

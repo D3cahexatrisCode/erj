@@ -1,0 +1,9 @@
+t=The reversionary panel allows control of which display is shown on the MFD. It also enables selection of an alternate air data source and the cross-side inertial reference system. You can set the displays MFD mode selector switch to the following positions: PFD - PFD information is presented on the MFD all the time. AUTO - automatically presents the display information of the display that is failed on the MFD. MFD - MFD information is presented on the MFD all the time. EICAS - EICAS information is presented on the MFD all the time. In the event of an electrical emergency the display selector knob is de-activated and the PFD will be displayed on MFD 1 regardless of the knob position. With the ADS button you can select an alternate air data source. A striped bar illuminates inside the button to indicate that it is pressed. Pushing the IRS button changes the attitude and heading source from the on-side inertial reference system to the cross-side IRS. A striped bar illuminates inside the button to indicate that it is pressed.
+
+
+
+
+
+
+
+

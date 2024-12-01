@@ -1,0 +1,4 @@
+t=The guidance panel houses two display controllers and a flight guidance panel.
+
+
+

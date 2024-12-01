@@ -1,0 +1,11 @@
+t=There are three modes of landing gear operation available to the crew: normal extension and retraction; electrical override switch and alternate gear extension lever. In the normal extension and retraction mode, the landing gear actuation is electronically controlled and hydraulically operated. The landing gear selector valve is controlled by the Proximity Sensor Electronic Module (PSEM). The landing gear selector valve provides hydraulic pressure to the actuation cylinders. In the electrical override mode the landing gear extension is electrically controlled and hydraulically operated. The extension override switch takes direct control of the selector valve. The Proximity Sensor Electronic Module (PSEM) is removed from the control loop. In the mechanical free-fall-, or emergency extension mode, the landing gear extension is mechanically controlled and gravity powered. Pulling the cockpit manual release lever mechanically releases all landing gear uplocks, and activates the free-fall selector valve. Gravity and aerodynamic forces will then extend the landing gear.
+
+
+
+
+
+
+
+
+
+

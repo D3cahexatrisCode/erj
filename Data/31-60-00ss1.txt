@@ -1,0 +1,8 @@
+t=The Electronic Display System (EDS) presents primary flight, navigation, and system information to the flight crew. The EDS consists of: 5 display units, a guidance panel, 2 Cursor Control Devices (CCD), 2 Multi Function Control Display Units (MCDU), EICAS full panel, 2 reversionary panels, MAU hardware including Control input/output modules, and an EDS application software on dedicated processor modules. The five display units are located on the main instrument panel. There are two Primary Flight Displays (PFD), two Multifunction Displays (MFD), and an Engine Instrument and Crew Alerting System (EICAS) display. The display units are identical. In case of failure of one display, an automatic logic transfer will allow its information to be presented in the remaining units.
+
+
+
+
+
+
+

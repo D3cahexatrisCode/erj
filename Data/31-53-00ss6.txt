@@ -1,0 +1,2 @@
+t=A CAS message scrolling function is provided to allow the flight crew to scroll up or down through the active Caution, Advisory and Status messages which do not appear on the display. When the cursor control system focus is on the EICAS, the pilot or co-pilot CCD can be used to scroll messages. Both the inner and the outer rotary knobs on the CCD can be used to scroll messages. An icon shows when CCD is selected, and is removed when CCD is not focused on the EICAS. NOTE: Warning messages cannot be scrolled out of view.
+

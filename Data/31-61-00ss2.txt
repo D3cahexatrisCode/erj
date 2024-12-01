@@ -1,0 +1,7 @@
+t=The Multi Function Display presents navigation information, shows aircraft's system parameters and status, and enables maintenance personnel to access maintenance messages. The MFD display consists of control and information areas.The menu soft keys, on the top and bottom of the screen, are used to select formats and control various systems. The selected information is displayed on the split up screen. The Cursor Control Device (CCD) in the center pedestal is used to control the menu soft keys. Once a soft key is pushed, a pull down menu is opened. Checkboxes in the menu are used to select and deselect each function. For navigation you can choose between the map and plan formats. Weather radar, FMS, TCAS, and various other information can be shown or alternatively switched on and off.
+
+
+
+
+
+

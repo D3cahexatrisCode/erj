@@ -1,0 +1,9 @@
+t=The emergency/ parking brake system is mechanically actuated by means of a handle located on the center pedestal in the cockpit. The handle can be moved 60 degrees between the stowed and full brake position to regulate the emergency brake. The handle locks at 60 degrees to set the parking brake, and the EMER/PARK BRAKE ON light in the cockpit will illuminate. One side of the valve is connected to hydraulic system one and actuates the outboard brakes; the other side is connected to hydraulic system 2 and actuates the inboard brakes. The system is isolated from the normal hydraulic supplies by check valves. In the event of a total hydraulic failure, emergency braking is still available to both inboard and outboard wheels through the emergency/ parking brake valve, using hydraulic pressure from the accumulators. Shuttle valves allow either normal or emergency brake pressure to activate the brakes.
+
+
+
+
+
+
+
+

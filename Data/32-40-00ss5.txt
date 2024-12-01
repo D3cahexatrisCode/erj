@@ -1,0 +1,9 @@
+t=The brake control modules also control the two Brake Shut-Off Valves (SOVs) in order to isolate the brake control valves from hydraulic pressure. In flight, the BCMs de-energize the Brake SOVs, isolating hydraulic supply to the brake control valve 10 seconds after the aircraft has left the ground, when the landing gear selector is in the “up” position and wheel speed is zero. The brake system is de-pressurized during flight. Before landing, when the landing gear selector is moved to the down position, the SOVs are energized again in order to perform a brake control valve test sequence, including a change in the brake pressure command by 600 psi, which must be confirmed by the pressure transducers. Following a successful test sequence, the SOVs are de-energized again before touchdown, and remain de-energized as long as touchdown protection is active.
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+t=The Electronic Display System (EDS) abnormal operation is the automatic and forced Display Units (DU) reversion. The five display units are numbered 1 to 5 from left to right. Only DU 2 and DU 4 can be reverted. DU 1 and DU 5 are always operated as PFDs, and DU 3 is always an EICAS. Each pilot can manually select the desired display on the MFD screen via the display reversionary panel. The four switch positions are PFD, AUTO, MFD, and EICAS. Setting the switch to a position other than AUTO forces that selection onto the MFD. In this case the “failed/ reverted from” display unit is shutdown and the display will be blank. When the switch is set to the AUTO position, the system is in automatic reversion (with manual override capability) and it will detect many types of display unit failures. The reversion system will reconfigure the  remaining DUs to the configurations shown.
+
+
+
+
+
+
+
+

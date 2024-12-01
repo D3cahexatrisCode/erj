@@ -1,0 +1,7 @@
+t=The systems menu has 8 sub pages available. 7 pages are synoptic displays for monitoring the respective aircraft system and for fault isolation. These are the pages for: Status, Flight Controls, Hydraulics, Fuel, Electrical, Environmental Control System (ECS), and Anti-Ice.  The maintenance page is available only on left MFD and on ground.  Pushing the TCAS soft key opens the TCAS controller. Actuating the weather button pops up the weather radar virtual controller. Via the checklist soft key you access the electronic checklist,  which allows to select among normal, abnormal or emergency procedures indexes.
+
+
+
+
+
+

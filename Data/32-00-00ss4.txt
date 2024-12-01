@@ -1,0 +1,10 @@
+t=The landing gear system of the aircraft uses hydraulic system 1 and 2 to perform the various functions. Hydraulic system 3 is not used.
+Hydraulic system 1 provides hydraulic pressure for the following systems:
+Main Lnding Gear braking – outboard wheels;
+Main Lnding Gear braking – emergency/ parking outboard;
+Hydraulic system 2 connects to the following systems:
+Main Lnding Gear and Nose Landing Gear extension and retraction;
+Main Lnding Gear braking – inboard wheels;
+Main Lnding Gear braking – emergency/ parking inboard;
+and the Nose Landing Gear steering
+

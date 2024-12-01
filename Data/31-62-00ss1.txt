@@ -1,0 +1,9 @@
+t=The Cursor Control Devices (CCD) are installed on both sides of the control pedestal panel. They allow the flight crew to quickly select the displays and position the cursor within the different selectable menus. The CCDs are primarily used on the MFD for selections of formats and functions. They also provide radio tuning on the PFD and EICAS message scrolling on the EICAS display.
+
+
+
+
+
+
+
+

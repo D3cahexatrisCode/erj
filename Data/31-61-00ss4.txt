@@ -1,0 +1,9 @@
+t=The Engine Indicating and Crew Alert System (EICAS) display presents engine indications, system parameters and Crew Alerting System (CAS) messages.The engine instrument display consists of N1 display, ITT display, N2 display and fuel flow display. Separated but appendant to engine indicating there is the fuel quantity display, the oil display, and the engine vibration display. There is the slat/flap/speedbrake display, the trim display, the cabin display, the Auxiliary Power Unit (APU) display, and the landing gear display. The Crew Alerting System (CAS) message window provides the pilots with displayed alerts. Remark: In case of failure in the EICAS display, its information may be presented in the MFD by appropriately setting the reversionary panel.
+
+
+
+
+
+
+
+

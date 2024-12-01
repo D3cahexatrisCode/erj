@@ -1,0 +1,13 @@
+t=The main landing gear assemblies are attached to the left and right wings. The assemblies include two wheels with brakes attached to a telescopic shock strut. A folding side stay holds the main landing gear in the fully extended position. A locking stay holds the side stay in the fully extended position. A pair of down-lock springs hold the locking stay in the extended and locked position. Proximity sensors transmit the following signals to the Proximity Sensor Electronic Module, PSEM: Main landing gear down and locked, main landing gear up and locked, and aircraft on ground, also referred to as WOW (Weight-On-Wheels). During retraction, a hydraulic release actuator unlocks the locking stay. A hydraulic retraction actuator retracts the main landing gear. The uplock holds the main landing gear in the retracted position. There are two doors attached to the outboard side of each main landing gear. A third door is attached to the wing. The doors are mechanically opened during extension and closed during retraction.
+
+
+
+
+
+
+
+
+
+
+
+

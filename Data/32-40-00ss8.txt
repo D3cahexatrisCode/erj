@@ -1,0 +1,13 @@
+t=Rejected Take-Off (RTO) auto-brake can be “armed” by the crew under the following conditions:
+the auto-brake selector switch is set to RTO;
+the left and right WOW indicate that the aircraft is on ground;
+the average wheel speed is below 60 knots;
+and no brake control system failures are detected.
+RTO auto-brake control will be applied during a rejected take-off: if RTO auto-brake is armed and the average wheel speed is above 60 knots, and both thrust levers are in idle position.
+RTO auto-brake will be disarmed if:
+the selector switch is set to OFF,
+any braking is applied while wheel speed is above 60 knots;
+any brake control system failure is detected while wheel speed is below 60 knots;
+or either thrust lever is advanced beyond idle.
+
+

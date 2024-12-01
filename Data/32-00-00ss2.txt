@@ -1,0 +1,13 @@
+t=The following equipment is installed in the cockpit for landing gear extension and retraction: The landing gear lever for extension and retraction of the landing gear during normal operation; an Electrical Override switch is used to extend the landing gear in case of a failure in the landing gear electronics; and a alternate gear extention lever used for free-fall extension of the landing gear in case of both eletronic and hydraulic system fail. The cockpit equipment for steering the aircraft includes: a steering handwheel, the pilots and copilots rudder pedals and disarming switches on the control yokes. Two brake pedals for the left and right main landing gear brakes are installed for both pilots. An emergency/ parking brake handle mounted on the center pedestal allows for braking even in case of a total hydraulic system loss. An optional automatic braking system can be engaged by the crew by selecting the respective auto-brake switch in the cockpit.
+
+
+
+
+
+
+
+
+
+
+
+

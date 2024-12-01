@@ -1,0 +1,14 @@
+t=The Embraer 170 has a retractable tricycle landing gear system, with two Main Landing Gear assemblies and one Nose Landing Gear assembly. The Main Landing Gear assemblies are telescopic and retract sideways into the wing and fuselage. Each Main Landing Gear assembly incorporates two wheels with multi-disk carbon brake assemblies. The Nose Landing Gear assembly is telescopic and retracts forward into the fuselage. The Nose Landing Gear assembly incorporates two wheels with a hydraulic nose wheel steering mechanism, allowing the aircraft to turn on a taxiway as narrow as 17 meters. During normal operation, the landing gear system is electronically controlled and hydraulically operated. Several proximity sensors are installed to provide position and status signals to different electronic modules, located in the Modular Avionics Units, or MAU, for control and monitoring purposes. The sensors also display system status to the pilots via the EICAS display in the cockpit.
+
+
+
+
+
+
+
+
+
+
+
+
+

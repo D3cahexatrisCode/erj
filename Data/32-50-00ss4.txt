@@ -1,0 +1,5 @@
+t=Two channels control and monitor the steering system. The NWSCM compares the difference between rudder pedals or handwheel position and the actual NLG steering angle received from the steering-angle feedback sensors. The NWSCM commands the Electro-Hydraulic Servo Valve (EHSV) on the steering manifold to cancel the difference, resulting in a NLG steering movement to the requested position. After take off, the NWSCM switched off and the nose wheel will be centered by the internal centering mechanism when the shock strut extends. The NWSCM controls the two towing lights installed on the NLG strut. A green light signals the ground crew that towing is permitted, and a red light signals that towing is not permitted. Towing is not allowed when the steering motor is pressurized, operating in active mode, or if any of the brakes are pressurized.
+
+
+
+

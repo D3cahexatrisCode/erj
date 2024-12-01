@@ -1,0 +1,4 @@
+t=The Embraer steering control system is an electronically controlled and hydraulically actuated “steer-by-wire” system, operating either in the normal mode or in the free-wheel steering mode. The system consists of the following main components: The steering handwheel, located on the left side in the cockpit, used for low speed steering control; the pilot's and copilot's rudder pedals, used for high speed steering control; and the disarming switches, located on the cockpit control yokes and on the left forward fuselage, used for switching between normal and bypass mode, allowing towing. The nose wheel steering control module, or NWSCM, electronically controls the steering hydraulic system. The steering control system is powered by hydraulic system 2.
+
+
+

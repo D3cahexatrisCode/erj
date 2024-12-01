@@ -1,0 +1,13 @@
+t=The position and warning system incorporates two identical proximity sensor electronic modules, or PSEM. Various system proximity sensors, such as Weight-On-Wheel (WOW) or landing gear up- and downlock sensors, are connected to the PSEM. The PSEM controls the extension and retraction of the landing gear, and indicates position of the landing gear system, the ground spoiler system and the aircraft doors. The Nose Wheel Steering Control Module (NWSCM) controls the towing lights. The towing lights provide a visual indication of whether towing is allowed. The PSEM also controls the air/ ground system. Proximity sensors on the Nose and Main Landing Gear, referred to as WOW sensors, sense whether the aircraft is on ground or in flight. WOW sensor status is distributed to various aircraft systems via the ASCB.
+
+
+
+
+
+
+
+
+
+
+
+

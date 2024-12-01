@@ -1,0 +1,4 @@
+t=During normal operation, the crew uses the landing gear control lever in the cockpit to select the landing gear up and down. The control lever system consists of a lever to command extension and retraction, a down release button and an illumination panel. A locking solenoid prevents the pilot from selecting the control lever up position while the aircraft is on ground. The lever can be mechanically released using the down release button.
+
+
+

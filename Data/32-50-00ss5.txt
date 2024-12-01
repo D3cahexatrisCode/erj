@@ -1,0 +1,5 @@
+t=Whenever a safety-critical failure is detected by the NWSCM, the nose wheel steering is switched to the free castor mode. On the EICAS a "STEER FAIL" caution is displayed when the landing gear is down. After this system disengagement, the nose wheel follows freely in the direction of ground run, and steering can be carried out by use of differential braking and/or by rudder commands. A "STEER FAULT" advisory message will be displayed on the EICAS in the case of a degraded function of the steering system after a failure has been detected by the NWSCM and the aircraft is on the ground. The status message "STEER OFF" will be displayed if the steering system is disconnected - for example with the steering disarming switches. A "LG NO DISPATCH" caution appears in case of nose wheel steering overtravel, PSEM or weight on wheel system fault.
+
+
+
+

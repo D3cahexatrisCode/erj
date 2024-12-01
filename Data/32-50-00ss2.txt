@@ -1,0 +1,5 @@
+t=The steering handwheel is attached to the left side of the cockpit. It incorporates a switch and a rotary variable displacement transducer. To turn the aircraft, keep the hand wheel pushed down and rotate it. The RVDTs transmit the position of the handwheel to the NWSCM. The maximum steering angle possible using the handwheel is 76 degrees, and is limited further by the NWSCM as aircraft wheel speed increases. At taxi speeds from 40 to 100 kts the steering angle will be gradually reduced down to 7 degrees. Steering angle response to handwheel position is non-linear: turning the handwheel from 0 to 40 degrees results in a steering angle of 10 degrees, and from 40 to 80 degrees results in a steering angle of up to 76 degrees.
+
+
+
+

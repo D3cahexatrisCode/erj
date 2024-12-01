@@ -1,0 +1,7 @@
+t=The flight compartment lighting system provides lighting to the work area, panels and instruments, and consists of the following sub-systems: The cockpit lights system, which provides beam ambient lighting; used on the sidewalls, seats, and floor of the crew station and observer area. The instrument and control panel lights system, which provides lighting for instruments, panels, and pushbuttons. And the flood/storm lights system, which provides a proper lighting level in the cockpit for the instruments and assures instrument readability.
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+t=The nose landing gear assembly is attached to the forward fuselage. Two wheels and a hydraulic steering motor are attached to a telescopic shock strut. A folding drag brace holds the NLG in the fully extended position. A locking stay holds the drag brace in the fully extended position. A pair of downlock-springs hold the locking stay in the extended and locked position. Proximity sensors and switches and feedback sensors transmit the following signals to the Proximity Sensor Evaluation Module (PSEM) and the Nose Wheel Steering Control Module (NWSCM): NLG down and locked, NLG up and locked, aircraft on ground (WOW), NLG steering angle and NLG steering over-travel. During retraction, a hydraulic release actuator unlocks the locking stay. A hydraulic retraction actuator retracts the NLG. The uplock holds the NLG in the retracted position. Two mechanically operated doors are mounted to the fuselage on each side. The forward doors close again as the NLG reaches the extended position.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+t=The four MLG wheels are equipped with electronically controlled and hydraulically powered carbon-composite brakes, brake wear indicators and fusible plugs which melt and reduce tire pressure safely if there is a wheel overheat of between 691°C and 749°C. The brake control system uses electronic modules, sensors and hydraulic valves to control the aircraft brakes for normal braking mode, and it has an optional auto-brake mode. Two Brake Control Modules, or BCM, and one optional Auto-Brake control Module (ABM) control the hydraulic pressure to the inboard and outboard brakes. With the auto-brake switch in the cockpit selected on, the ABM will apply the brakes automatically after landing and following a rejected take-off. The anti-skid control system prevents wheel skid when the brakes are applied. The emergency/ parking brake system allows brake operation even with a loss of hydraulic pressure.
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+t=The BCM may also reduce the pressure command for a wheel if the wheel speed of a pair of wheels, either an inboard or outboard pair, is above 30 knots and one wheel in the pair turns at less than 33 % of its partner’s speed (called locked wheel protection). After take-off, the BCM applies a pressure command to all wheels for 4 seconds when weight on wheel signal indicates the aircraft is in flight, the landing gear selector is moved from “down” to “up” and the proximity sensors indicate that the landing gear is not “down and locked”.
+
