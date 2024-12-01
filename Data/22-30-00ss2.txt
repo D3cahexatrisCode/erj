@@ -1,0 +1,2 @@
+The auto throttle system controls the engine thrust by means of throttle movements to achieve the thrust rating received automatically from the FMS or as manually set on the the Guidance Panel. The auto throttle system provides means to maintain the airplane within its thrust and speed envelopes. Thrust limiting is based on the active N1 rating, while speed limiting is based on the low speed and maximum structural speed limits (Vmo/Mmo, Gear and Flaps placard).
+Gust compensation is provided to increase the lower speed limit above 1.23 Vref up to 5 kts in gusty conditions.

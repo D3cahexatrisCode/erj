@@ -1,0 +1,7 @@
+t=Flight director guidance provides lateral (roll) and vertical (flight path angle) FD modes, integrated with the FMS or manually commanded by the flight crew. Flight director guidance may be coupled or uncoupled to the autopilot. Turn Co-ordination and yaw damping (Dutch roll damping) indirectly provide commands to the rudder control surface and function independently of the automatic pilot and flight guidance system. The automatic pitch trim capability is coupled to the autopilot and indirectly provides trim commands to the elevator control surface.
+
+
+
+
+
+

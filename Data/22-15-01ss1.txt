@@ -1,0 +1,3 @@
+t=YAW DAMPER
+The Yaw Damper provides command to the rudder control surface and actuates it independently of the autopilot and flight director system. The YD function engages following successful AFCS on-ground power-up, assuming that valid data for calculating yaw damping is available. The YD remains engaged regardless of autopilot engagement or disengagement or the loss of turn coordination function.
+

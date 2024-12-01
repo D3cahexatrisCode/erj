@@ -1,0 +1,2 @@
+t=TRACK HOLD (TRACK): The track select mode is used to intercept and maintain an inertial derived airplane track from the Inertial Reference System. This mode is engaged automatically when Go Around or Take Off is selected by the TOGA button. The automatic transition from ROLL to TRACK occurs when: Indicated Air Speed is greater than 100 kt. Bank angle is at 3° or below for more than 10 seconds. Selecting another lateral flight director mode disengages track mode. Canceling the vertical mode of GA does not disengage the TRACK lateral mode automatically.
+

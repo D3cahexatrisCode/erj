@@ -1,0 +1,13 @@
+t=FGCS VERTICAL MODES
+Only one vertical mode can be active at any time and up to two vertical modes can be armed at one time.
+The FGCS provides the following vertical navigation modes:
+FLIGHT PATH ANGLE (FPA)
+TAKEOFF (TO)
+ALTITUDE SELECT (ASEL)
+FLIGHT LEVEL CHANGE (FLCH)
+ALTITUDE HOLD (ALT)
+VERTICAL SPEED (VS)
+OVERSPEED PROTECTION (OVSP)
+GLIDE SLOPE (GS)
+GO-AROUND (GA)
+

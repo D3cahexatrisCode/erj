@@ -1,0 +1,2 @@
+t=BACK-COURSE (BC): Depending on aircraft position, ILS source and PFD data, the flight director will automatically select a BC approach on the PFD. The Flight Guidance Control Sytem will then provides command for capture and tracking of the Back Course localizer.
+

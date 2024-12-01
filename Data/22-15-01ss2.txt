@@ -1,0 +1,6 @@
+t=The yaw damper will be disengaged if the following occurs:
+- The corresponding pushbutton on the guidance panel is pressed. In this case a Yaw Damper Off message will be displayed on the CAS window.
+- The fly-by-wire system turns to direct mode.
+- The fly-by-wire system engagement status indicates that control of the rudder surface has failed.
+
+

@@ -1,0 +1,10 @@
+t=The PFD data, used by the FGCS and transferred by pressing SRC button, includes: 
+-Short range navigation source (VOR/LOC 1, VOR/LOC 2)
+-Baro-corrected altitude
+-FMS source (FMS 1, FMS 2)
+
+
+
+
+
+

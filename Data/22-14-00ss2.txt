@@ -1,0 +1,11 @@
+t=FLIGHT PATH ANGLE (FPA)
+Except for take off, FPA is the basic vertical mode.
+When FPA is active the flight path reference line is displayed. Pressing the FPR button in the display controller panel displays the flight path reference line, regardless of the active vertical mode.
+The flight path angle can be selected via the FPA selector knob on the guidance panel.
+
+The FPA mode becomes the active Flight Director mode when:
+• The FPA button in the guidance panel is pressed.
+• By engaging the autopilot when no Flight Director mode is active. 
+• When a lateral mode is activated and there is no vertical flight director guidance mode active.
+• The active vertical mode is deactivated.
+

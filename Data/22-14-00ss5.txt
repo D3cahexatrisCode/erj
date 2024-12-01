@@ -1,0 +1,2 @@
+t=The altitude select mode captures and levels off at the selected altitude. The FGCS automatically monitors the aircraft speed, altitude and vertical speed and performs a transition from the active vertical mode to the altitude select mode to assure a smooth level off at the pre-selected altitude.
+

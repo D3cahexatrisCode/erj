@@ -1,0 +1,8 @@
+t=Integrated Guidance and Display Controller
+The Integrated Guidance and Display Controller also known as the Guidance/Display Control Panel (GP) provides the means for selection/deselection of the following FGCS functions: lateral guidance, AFCS management, speed control, vertical guidance. 
+
+
+
+
+
+

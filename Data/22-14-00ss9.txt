@@ -1,0 +1,2 @@
+t=The Flight Director provides overspeed protection during the flight level change, vertical speed and FPA modes to limit the airplane speed to VMO/MMO. When the overspeed protection activates, an amber OVSP indication is displayed on the FMA. The previous active mode is displayed as armed (white) and becomes active again when the overspeed protection is no longer active.
+

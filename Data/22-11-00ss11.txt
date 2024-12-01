@@ -1,0 +1,10 @@
+t=Speed Controls
+The speed control section of the GP contains the following: 
+Autothrottle engage/disengage button, the speed select knob, the indicated airspeed/mach push-to-change button, located within speed knob and the Manual/FMS Speed Selector which is also part of speed knob. The AT button is used to arm and disengage the autothrottle. The AT annunciaton will be displayed on the FMA when the auto throttle is engaged. 
+
+
+
+
+
+
+

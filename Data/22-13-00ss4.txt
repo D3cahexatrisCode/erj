@@ -1,0 +1,2 @@
+t=LATERAL NAVIGATION (LNAV): When LNAV is selected the FMS is used as the source of navigation. The Flight Director then provides flight director lateral guidance commands for interception, capture, and tracking of selected navigation data. The flight director is also capable of performing an automatic transition from LNAV to the Localizer mode or from LNAV to the Back-Course mode via the approach preview mode. LNAV guidance and automatic transitions are computed based on PFD data.
+

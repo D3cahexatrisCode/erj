@@ -1,0 +1,3 @@
+t=The VNAV BUTTON activates the interception and tracking of the vertical navigation path according to the FMS request. The ALT SELECTOR KNOB selects the desired altitude. CLOCKWISE ROTATION increases the altitude target and COUNTER CLOCWISE ROTATION decreases the altitude target. A button in the center of the ALT SEL selector knob provides the selected altitude to be displayed in meters above the normal alt window and above the ALT pre-select window on the PFD. Push the Altitude Hold button to activate the altitude hold mode. ALT will be displayed on the FMA. If the altitude hold mode was active prior to the button activation, the altitude hold mode transitions to basic FPA mode. 
+
+

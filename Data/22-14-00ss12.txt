@@ -1,0 +1,3 @@
+t=WINDSHEAR (WSHR)
+Although it is not pilot selectable, the Windshear protection system will display the label “WSHR” as the vertical active mode in the FMA during a windshear situation. The system provides flight path guidance angle, limited to stick shaker, wings level and aural alert. Depending on the windshear situation (take off or landing phase) the previous engaged vertical mode may remain armed (white) and activate again when the windshear protection is no longer necessary. Note that Windshear protection is disabled above 1500 ft AGL. 
+

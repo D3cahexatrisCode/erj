@@ -1,0 +1,5 @@
+t=The autopilot shall disengage when the following conditions occur: Forces on the pilot or co pilot control collums exceeds a pre-deturmenddetermined value. The manual trim switches are activated; Either the pilot or co-pilot quick disconnect switches located on the control wheel are activated; The stall warning and Protection system commands the column shakers to activate; The fly-by-wire system is in the direct mode; Either the aileron or elevator control system disconnect unit indicates that the pilot/co-pilot control systems are no longer connected.
+
+
+
+

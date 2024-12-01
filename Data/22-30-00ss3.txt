@@ -1,0 +1,18 @@
+The autothrottle can be engaged on the ground when:
+• All parameters required are valid and autothrottle is capable.
+• Autothrottle TO mode armed
+• Both thrust leves above 50° TLA.
+
+In flight, the autothrottle can be engaged when:
+• All parameters required are valid and autothrottle is capable.
+• Autothrottle button in the guidance panel is pressed.
+• The airplane is above 400 ft AGL.
+
+The auto throttle system has the following modes:
+• Speed Control Mode – Speed on Thrust (SPDT).
+• Flight Level Change Thrust Control Mode – Speed on Elevator
+(SPDE)
+• Takeoff Thrust Control Mode (TO)
+• Go-Around Thrust Control Mode (GA)
+• Takeoff Thrust Hold Mode (HOLD)
+• Retard Mode

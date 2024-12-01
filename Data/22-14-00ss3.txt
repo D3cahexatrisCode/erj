@@ -1,0 +1,10 @@
+t=TAKEOFF (TO)
+Pressing the TOGA button activates the Take off mode. The mode also arms when the airplane is on the ground for more than 10 seconds following a landing provided a valid V2 speed is received from the FMS.
+The takeoff mode is a FD only mode and is represented by a crossbar.
+The take off mode commands the airplane to maintain a pitch attitude reference. In take off mode autopilot engagement is not accept and the FPA mode is inhibited. Lateral mode changes are allowed.
+The FPA indication is inhibited for 30 seconds after lift-off when taking off using raw-data information (no active mode on the FD).
+The Take Off mode is deactivated when:
+Another vertical mode is selected.
+The Auto Pilot – Flight Director TCS button is pressed.
+The Autopilot is activated.
+

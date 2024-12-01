@@ -1,0 +1,5 @@
+t=The outer speed selector knob has two positions. The FMS position is used to select the FMS speed target. The manual position is used to activate the manual speed target. The inner speed selector knob is used for a manual selection of the target speed along with the speed target bug. Turning the knob clockwise increases the speed and turning the knob counter-clockwise decreases the speed.
+The indicated airspeed/mach push-to-change button is used to toggle between indicated airspeed control and mach control.
+ 
+
+

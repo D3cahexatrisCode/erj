@@ -1,0 +1,1 @@
+t=The flight guidance control system indirectly drives the primary flight controls, through either the cockpit control column or through other processing modules. The automatic flight control system function includes the automatic pilot, flight director guidance, yaw damper, turn coordination, automatic pitch trim.

@@ -1,0 +1,5 @@
+t=VERTICAL SPEED (VS)
+The vertical speed mode maintains a vertical speed rate. The vertical speed mode is activated by pressing the VS button on the guidance panel and the vertical speed is selected by rotating the vertical speed thumbwheel on the guidance panel.
+The vertical speed command range goes from -8000 ft/min to +6000 ft/min.
+The increments of the Vertical Speed target value are: 50ft/min (below 1000ft) and 100ft/min (above 1000ft).
+

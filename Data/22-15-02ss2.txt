@@ -1,0 +1,2 @@
+t=With FMS selected on the PFD as the primary navigation source, pushing the preview button on the display controller will cause the preview navigation source annunciation and the course select preview pointer, associated with the selected NAV frequency, to be displayed on the PFD. The autopilot will then intercept the selected course while still displaying the FMS as the primary navigation source. To arm the approach modes the approach button has to be pushed and upon interception, the primary navigation source will change to localizer or back course, instead of FMS.
+

@@ -1,0 +1,3 @@
+t=Flight Director Guidance 
+The flight director guidance system computes flight guidance commands for presentation to the pilots on the Flight Mode Annunciator (FMA) section. The Flight Director (FD) commands selected on the guidance panel are computed using the PFD source. Only one vertical mode and one lateral mode may be active at a time. Up to two vertical modes and one lateral mode may be armed at one time. Modes are engaged via a pushbutton and are disengaged by a second push of the same button. Selecting FD OFF (labelled FD) on the guidance panel removes the flight director command bars from the non-coupled side of the PFD, if the automatic pilot is engaged.
+

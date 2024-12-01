@@ -1,0 +1,2 @@
+t=LOCALIZER (LOC): The Localizer mode is selected via the Approach button on the Guidance Panel. The Flight Director automatically manages the Localizer and Back-Course mode according to Localizer frequency, PFD information and the airplane’s position. The Flight Director Localizer and Azimuth approach modes are also selected via the Approach button when there is no Glide Slope signal available. The Localizer mode guidance is computed based on PFD data.
+

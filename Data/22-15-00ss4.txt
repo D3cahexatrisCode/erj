@@ -1,0 +1,3 @@
+t=APPROACH SEQUENCE – CAT I
+With the aircraft set up for a CAT I approach the following sequence can be expected: With the autopilot and autothrust engaged the autopilot will maintain the selected heading and altitude. Pushing the approach button will arm the localizer/glide slope mode and arm the autopilot approach 1 status annunciator. As the approach continues first the localizer will be captured and then the glide slope will be captured. As the approach continues and with the radio altitude set to Baro and CAT I minimums, the autopilot approach 1 status annunciator will change to green below 1500ft.
+

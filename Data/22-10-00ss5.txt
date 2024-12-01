@@ -1,0 +1,2 @@
+t=Momentary switches for autopilot disconnect, touch control steering (TCS), and manual pitch trim are installed on both control wheels. The TCS function releases the autopilot clutches and re-synchronizes the flight director. When the TCS button is released the autopilot automatically re-engages the servos and re-synchronizes the flight director.
+

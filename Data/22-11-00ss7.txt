@@ -1,0 +1,3 @@
+t=Push the approach button to arm the approach mode for cat 1/2 as appropriate. Push the lateral navigation button to activate the lateral navigation mode. Push the low bank/auto bank button to select the bank angle limit that will be used by the FGCS. The bank selection can be either a limit that is automatically selected (auto bank) or a fixed value (low bank). 
+
+

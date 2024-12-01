@@ -1,0 +1,7 @@
+The Thrust Management System (TMS) is configured in a dual redundant architecture, designed for increased system availability. 
+The system is comprised of the following dual components:
+- Auto Throttle (AT).
+- Thrust Rating Selection (TRS).
+- Electronic Thrust Trim System (ETTS).
+
+Only one channel of the Thrust Management System, as well as only a single thrust rating selection (TRS), one electronic thrust trim system (ETTS) and one autothrottle (AT) channel are operating at any given time. The pilot can select the priority autothrottle channel as well as thrust rating selection and electronic thrust trim system channels via the MCDU.

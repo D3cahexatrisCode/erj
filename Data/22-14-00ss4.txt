@@ -1,0 +1,21 @@
+t=The Take Off mode initial guidance is the flap-pitch based guidance and depends on the flap setting:
+At FLAP 1 – pitch is 11 degrees
+At FLAP 2 – pitch is 10 degrees
+At FLAP 4 – pitch is 12 degrees
+
+When airborne and when the indicated air speed is greater than the speed target, the guidance will be speed target based as follows
+
+-All engines operating: V2+10 kt.
+
+
+One engine inoperative:
+-Engine failure below V2: V2+3 kt.
+-Engine failure between V2 and V2+10 kt: guides present speed.
+-Engine failure above V2+10 kt: guides V2+10 kt.
+
+If speed target is not valid, a fixed pitch according to the flaps setting will be used.
+During Take Off mode the pitch is limited to a minimum of 8 degrees and a maximum of 18 degrees. The maximum speed target is Vfe-5kt and the minimum speed target
+is Vshaker+10 kt for all engines operating. For one engine inoperative
+the minimum speed target is Vshaker+3 kt.
+
+

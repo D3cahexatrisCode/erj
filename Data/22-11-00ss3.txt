@@ -1,0 +1,7 @@
+t=The Thrust Management System consists of the Electronic Thrust Trim System, Thrust Rating Selection and the Automatic Throttle. The Electronic Thrust Trim System controls the fine-tuning of the automatic throttle, provides N 1 command synchronization and passes engine synchronization commands to the FADEC. The Electronic Thrust Trim System is coupled to the automatic throttle, in other words, the Electronic Thrust Trim System is disabled when the Automatic Throttle is disengaged. The Thrust Rating Selection computes the active engine rating for the current phase of flight and for display on the EICAS. The Thrust Rating Selection operates independently of the automatic throttle. The automatic throttle system automatically positions the throttle levers to control the airplane's thrust throughout the flight regime. The automatic throttle is fully integrated with the Flight Directory subsystem, however, it is independent of the auto pilot engagement status.
+
+
+
+
+
+

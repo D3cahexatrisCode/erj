@@ -1,0 +1,4 @@
+t=PREVIEW FEATURE
+The preview feature allows the capture of an ILS course while still using the FMS as the basic navigation source. The system automatically selects the ILS frequency and course if the PREV function is used with AUTO tuning enabled on the MCDU radio page. An ILS or back course procedure has to be part of the active flight plan on the FMS to allow automatic selection.
+
+

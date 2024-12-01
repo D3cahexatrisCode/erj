@@ -1,0 +1,4 @@
+t=FGCS LATERAL MODES. Only one lateral mode can be activated and only one can be armed at a time. The FGCS provides the following pilot selectable lateral modes: ROLL HOLD (ROLL) – which is the basic lateral mode. HEADING SELECT (HDG). LATERAL NAVIGATION MODES LNAV. LOCALIZER (LOC). BACK-COURSE (BC). In addition it provides the non-selectable Track Hold (TRACK) mode.
+
+
+

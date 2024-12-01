@@ -1,0 +1,2 @@
+t=The autopilot trim function positions the horizontal stabilizer surface to off-load the aerodynamic force held by the elevator to maintain a particular flight condition, hence the control column force maintained by the autopilot servo. A ‘Flight Controls Fault’ CAS message is generated if the trim control function becomes inoperative. The autopilot trim function activates only when one of the autopilot channels is engaged and manual trim is not active.
+

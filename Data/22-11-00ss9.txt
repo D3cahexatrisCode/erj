@@ -1,0 +1,2 @@
+t=The FGCS control section of the GP contains the following buttons: Autopilot Engage/Disengage button (AP), the yaw damper button (YD) and source button (SRC). If the autopilot is engaged, pressing this button causes the flight director to transition to the basic mode (ROL/FPA). If AUTOPILOT is not engaged when the transfer occurs, the flight director drops to standby mode and clears the FD command cue along with the mode annunciation. 
+

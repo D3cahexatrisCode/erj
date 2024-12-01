@@ -1,0 +1,5 @@
+t=APPROACH SEQUENCE – CAT II
+With the aircraft properly set up for a CAT II approach the following sequence can be expected: With the autopilot and autothrust engaged the autopilot will maintain the selected heading and altitude. Pushing the approach button will arm the localizer/glide slope mode and arm the autopilot approach 2 status annunciator. As the approach continues first the localizer will be captured and then the glide slope will be captured. As the approach continues and with the radio altitude set to RA and CAT II minimums, the autopilot approach 2 status annunciator will change to green below 1500ft. 
+
+
+

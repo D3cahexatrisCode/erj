@@ -1,0 +1,11 @@
+t=FLIGHT LEVEL CHANGE (FLCH)
+The FLCH button on the guidance panel activates the flight level change mode.
+The flight level change mode provides flight path commands to Climb or Descend according to the speed selected with the Speed Selector knob. Flight level change guidance is associated with the Flight Level Change Thrust Control Mode of the thrust management system.
+The selected speed is displayed in the box on the top of speed tape and switches from IAS to Mach readout close to 29000 ft.
+The flight level change deactivates when:
+• Another vertical mode is selected
+• The TCS button is pressed.
+The FLCH never guides to the opposite direction before go to the direction selected by the pilot in the ALT SEL knob (climb or descent).
+
+
+

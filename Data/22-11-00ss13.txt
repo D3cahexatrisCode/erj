@@ -1,0 +1,15 @@
+t=The vertical guidance control section of the GP contains the following functions: 
+Altitude Hold button
+Vertical Navigation button
+Altitude Select Knob
+Flight Level Change button
+Vertical Speed Select Wheel
+Vertical Speed button
+Flight Path Angle button
+Flight Path Angle select knob.
+
+
+
+
+
+

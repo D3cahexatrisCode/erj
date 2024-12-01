@@ -1,0 +1,13 @@
+t=GO-AROUND (GA)
+The go-around mode automatically provides go-around guidance and thrust by pressing the TOGA switch. The flight path angle and flight director symbols are displayed when the go around mode is activated.
+
+The go around mode initial guidance determines pitch at 8 degrees:
+When IAS is greater than speed target, the guidance will be speed target according to the following:
+• All engines operating: VREF+20 kt.
+• One engine inoperative: VAC (approach climb)
+The VREF and VAP speeds are inserted on the MCDU.
+If speed target is not valid, the airplane will continue to guide pitch at 8 degrees.
+In GA mode the pitch is limited to a minimum of 8 degrees and a maximum of 18 degrees. 
+The maximum speed target is Vfe-5kt and minimum speed target is Vshaker+10 kt for all engines operating. For one engine inoperative the minimum speed target is Vshaker+3 kt.
+
+

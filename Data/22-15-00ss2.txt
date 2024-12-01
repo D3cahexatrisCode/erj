@@ -1,0 +1,12 @@
+t=The operational conditions to accomplish a CAT II approach are:
+- both RA/BARO selectors set to RA and CAT II Minimums
+- both NAV set to the correct LOC frequency
+- both PFDs set to the correct LOC inbound course (V/L or Preview)
+- flap 5 selected
+- all described conditions established at or above 800 ft RA
+If the flap setting is the only remaining condition to be satisfied for CAT2, the armed status will remain displayed down to 800ft RA, suggesting that there is still one pilot’s action pending.
+The ILS approach check points are:
+1500ft RA – system starts trying to engage the highest capability available.
+800ft RA – system “freezes” the highest capability available, not allowing approach “upgrades” anymore.
+
+

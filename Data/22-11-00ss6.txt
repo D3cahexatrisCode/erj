@@ -1,0 +1,13 @@
+t=The lateral guidance section of the GP has the following function controls: 
+-Approach button (APP) 
+-Navigation button (NAV) 
+-Low bank/automatic button (BANK) 
+-Heading button (HDG) 
+-Heading select knob (HDG SEL) 
+-Push to synchronize button (PUSH SYNC – in the middle of heading select knob)
+
+
+
+
+
+

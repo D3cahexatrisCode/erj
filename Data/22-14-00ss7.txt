@@ -1,0 +1,6 @@
+t=ALTITUDE HOLD (ALT)
+Pressing the altitude button enables the altitude hold mode. The altitude hold mode maintains a selected barometric altitude selected. The altitude can be selected via the altitude select knob.
+After the altitude hold mode has been engaged, the change to another vertical mode is only possible after a different altitude has been selected via the altitude select knob, otherwise the altitude indication on the FMA and the altitude digital readout in the PFD will flash for 5 seconds. 
+This logic is valid for all vertical modes, except Glide Slope (GS). Switching from the altitude hold mode to the glide slope mode occurs without a change in the altitude selection.
+
+
