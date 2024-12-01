@@ -1,0 +1,7 @@
+t=The EICAS message “FUEL XFEED SOV OPEN” indicates the crossfeed valve is open and associated AC Fuel Pump is operating. The caution message “FUEL XFEED FAIL” indicates that the Crossfeed Shutoff Valve and/or associated AC Fuel Pump have not operated according to the selection of the associated switch. The fuel feed system is shown in normal position. You can now crossfeed either the left hand or right hand engine by selecting the crossfeed switch to LOW 1 OR LOW 2.
+
+
+
+
+
+

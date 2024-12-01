@@ -1,0 +1,2 @@
+t=Due to gravity, water inside the fuel tanks will collect at two locations in each wing. 2 drain valves drain the water of the wing tank and of the collector tank. One drain valve is located next to the AC Auxiliary Fuel Pump and the other is located close to the wing stub to wing junction.
+

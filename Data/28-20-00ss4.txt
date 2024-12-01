@@ -1,0 +1,7 @@
+t=A DC powered electric centrifugal pump located in the RH collector tank provides a source of pressurized fuel supply for APU and engine start in flight, or on the ground if the engine feed ejector pump and AC power or the AC Fuel pump are not available. Electrical power will be supplied from the DC ESS BUS 2.
+
+
+
+
+
+

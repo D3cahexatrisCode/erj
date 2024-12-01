@@ -1,0 +1,7 @@
+t=The following indicator lights are provided on the fuel panel: LH TANK and RH TANK, the CLOSED light will be illuminated to indicate the refuel shutoff valve for the respective tank is closed. DEFUELING: The OPEN light will be illuminated to indicate the defuel shutoff valve is open.
+
+
+
+
+
+

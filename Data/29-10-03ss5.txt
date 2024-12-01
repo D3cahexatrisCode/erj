@@ -1,0 +1,7 @@
+t=If a hydraulic system failure occurs the appropriate EICAS message will be displayed, prompting the pilot to open the hydraulic synoptic page and check the hydraulic system status. Should a primary pump failure be detected during any stage of the flight, any one of the backup pumps will switch on automatically. The hydraulic system’s architecture and level of redundancy is such that it is able to accommodate most aircraft or hydraulic system failures without degradation to the aircraft’s operation.
+
+
+
+
+
+

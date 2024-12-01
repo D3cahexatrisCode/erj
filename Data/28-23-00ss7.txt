@@ -1,0 +1,7 @@
+t=To pressure defuel the aircraft, the aircraft must be energized by starting the APU or by connecting external AC power. To begin this procedure, first ensure the aircraft is properly grounded. After connecting the nozzle to the refuel adapter, select the DEFUELING switch to the OPEN position. Verify that the OPEN light is illuminated by making sure that the "DEFUEL VALVE OPEN" advisory message appears on the EICAS. In the cockpit, select AC Fuel Pump 1 and 2 selector knobs to the ON positions. Select the XFEED selector knobs to the LOW 1 or LOW 2 position. When the desired fuel quantity is reached, stop defueling by switching the AC Fuel Pump 1 and 2, and the XFEED selector knob to OFF. At the fuel panel, select the DEFUELING switch to the CLOSED position. Verify the OPEN light is not illuminated. The fuel nozzle can now be removed.
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+t=One engine feed shut-off valve is installed in each engine feed line to prevent hazardous quantities of fuel from flowing into designated fire zones. The position of the valves is displayed on the MFD. The two valves can be operated by the crew by means of the two fire handles mounted on the overhead panel in the cockpit. When pulled, the respective shut-off valve will close. The message “ENG 1 FUEL SOV CLOSED” or “ENG 2 FUEL SOV CLOSED”  will be displayed on the EICAS.  If the valve fails, or the handle position does not correspond to the actual valve position, the caution “ENG 1 FUEL SOV FAIL” or “ENG 2 FUEL SOV FAIL” will be displayed on the EICAS.
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+t=Pressure switches, one for each pump, monitor the output of the electrical pumps. MAU No. 1 monitors the status of the AC Fuel pump 1 pressure switch and MAU No. 3 monitors the status of the AC Fuel pump 2 and the DC Fuel pump pressure switches. Each MAU transmits the data on the ASCB for EICAS display and control functions. The EICAS messages “FUEL AC PUMP 1 FAIL”, “FUEL AC PUMP 2 FAIL” or "FUEL DC PUMP FAIL" indicate that the respective pump is not operating properly.
+
+
+
+
+
+
+
+

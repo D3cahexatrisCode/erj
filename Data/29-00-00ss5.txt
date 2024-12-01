@@ -1,0 +1,2 @@
+t=Hydraulic system 3, installed in the aft fuselage, supplies the right outboard elevator PCU, lower rudder PCU, and the left and right outboard aileron PCU’s.
+

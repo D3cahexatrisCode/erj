@@ -1,0 +1,7 @@
+t=The crossfeed function allows both engines and APU to be fed from a single fuel tank. This feature permits correction of lateral fuel imbalances by temporarily feeding both engines from one wing tank. The crossfeed function will also be used to feed a single engine from both wing tanks following shutdown of one engine, to prevent lateral imbalance from occuring. The system consists of a motor-operated shutoff valve in a line connecting the right and left-hand engine feed lines, and the XFEED switch on the fuel control panel, controlling the valve position and the respective AC fuel pump. The crossfeed valve remains closed during normal operation. Electrical power is supplied to valve from DC ESS BUS 2. Lateral fuel imbalances exceeding 360 kg (800 lbs) are annunciated on the EICAS by the message "FUEL IMBALANCE". This message will disappear when the difference is reduced to 45 kg (100 lbs) and the advisory message FUEL EQUAL-XFEED OPEN will appear indicating to the pilot to select the XFEED switch to OFF.”
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+t=The aircraft tanks can be defueled through the single point refuel adapter by suction, applying suction by ground equipment, or by pressure defueling, using the electrical fuel pumps of the aircraft. Both defueling techniques can also be used together.
+
+
+
+
+
+

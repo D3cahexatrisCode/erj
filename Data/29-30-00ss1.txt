@@ -1,0 +1,6 @@
+t=The Hydraulic Synoptic Page presents the following information to the cockpit crew on a display page dedicated to the hydraulic system: Reservoir quantity for all three systems. Fluid temperature for all three systems. System pressure for all three systems. Engine pump shutoff valve position. Hydraulic pump status for both engine pumps and electric pumps. PTU status. Both analog and digital data are used for the hydraulic system synoptic page. Analog data is used to display actual values (reservoir fluid temperature, quantity and hydraulic system pressure) and pictorial gauges (reservoir quantity and system pressure). Digital data is used to indicate hydraulic flow paths, failed pumps, PTU availability, and fire wall shutoff valve position and availability. The Engine Indicating and Crew Alerting System (EICAS) is used to draw the attention of the flight crew to the existence of any aircraft system abnormality.
+
+
+
+
+

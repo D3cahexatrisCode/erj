@@ -1,0 +1,5 @@
+t=In the landing phase of the flight, electric hydraulic pumps 1 and 2 will again switch on automatically when the flaps are extended. As during takeoff, this is to ensure that the pumps are active and warm if an engine failure or engine driven pump failure occurs during the landing.  After landing roll, the electric pumps will remain operating for one minute after airspeed is below 50 kts.
+
+
+
+

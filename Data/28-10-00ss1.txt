@@ -1,0 +1,2 @@
+t=The aircraft has two structurally integral wing tanks. Each wing contains a surge tank to collect fuel during wing-down or uncoordinated maneuvers, and a collector tank, to ensure continuous fuel feed to the engine throughout the whole flight envelope. The arrangement of the tanks permits the fuel to flow from the outer tank area to the wing root, and into the collector tank. Each tank cointains baffle and flapper check valves that prevent fuel from escaping from  the collector tank and prevents fuel from entering the surge tank.
+

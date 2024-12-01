@@ -1,0 +1,7 @@
+t=Standard refueling and defueling is performed by use of the single point pressure refueling/defueling port. The port, along with the fuel panel, is installed behind an access door on the right hand leading edge, outboard of the wing mounted engine. If the pressure refueling system is inoperative or no pressure refueling is available, the aircraft can be refueled by gravity trough the two overwing gravity refuel ports. Before beginning refueling and defueling the aircraft must be grounded. For pressure refueling the truck shall be grounded to the aircraft through the right landing gear. For gravity refueling, besides the truck-aircraft grounding, the fueling nozzle shall be grounded through grounding points bellow the wings.
+
+
+
+
+
+

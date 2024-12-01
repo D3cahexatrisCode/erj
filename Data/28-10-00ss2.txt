@@ -1,0 +1,9 @@
+t=The tank vent system is designed to keep the pressure differential between the tank and ambient within structural limits under all operating conditions, and to prevent fuel spillage during flight maneuvers and hard braking. Each fuel tank is vented through two independent lines into a surge tank located in the outboard section of the wing.
+
+
+
+
+
+
+
+

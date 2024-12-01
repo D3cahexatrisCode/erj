@@ -1,0 +1,9 @@
+t=A three position rotary selector knob on the cockpit fuel control panel controls each of the electrical pumps. With the knob set to OFF, the corresponding pump will not be powered. When the knob is placed in the AUTO position, the SPDA determines when the pump should be powered. When the knob is placed in the ON position, the corresponding pump will be powered continuously. When the AC Fuel Pump selector knobs are in the AUTO position, which is the normal position, the detection of an ejector pump failure will result in automatic start of the AC Fuel Pump.
+
+
+
+
+
+
+
+

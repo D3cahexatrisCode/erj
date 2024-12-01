@@ -1,0 +1,7 @@
+t=For engine start with the APU in operation, the AC Fuel pump is used to supply initial fuel flow to the engine. The AC Fuel pump selector knob in the cockpit has to be in the AUTO position. The main ejector pump will then supply fuel during normal operation. In case the engine inlet pressure switch senses a low fuel pressure and the AC Fuel pump selector knob is in AUTO, the AC Fuel pump will automatically start up and take over the supply of fuel to the engine. If the APU is inoperative and no AC ground power is available, the DC Fuel pump will be used for initial fuel supply.
+
+
+
+
+
+

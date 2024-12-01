@@ -1,0 +1,12 @@
+t=Under extreme low temperature operating conditions, a specific hydraulic system start procedure is used. This procedure will raise the hydraulic fluid temperature to its minimum operating temperature before the aircraft is ready for flight.  Once the warmup procedures are complete and the hydraulic system parameters have reached their minimum operating limits the aircraft is ready to taxi.
+
+
+
+
+
+
+
+
+
+
+

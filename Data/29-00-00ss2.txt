@@ -1,0 +1,6 @@
+t=Systems 1 and 2 are powered by an engine-driven pump and backed up by an AC electrical pump. The electric hydraulic pump is used during take-off and landing, and powers the system in the event of an engine or engine-driven pump failure. A power transfer unit is installed between the two systems to transfer hydraulic power from system 1 to system 2 without mixing fluid between the systems. This is used for landing gear retraction and extension in the event engine-driven pump 2 is not operational. System 3 is powered by a main electric hydraulic pump and uses an auxiliary electric hydraulic pump as a backup.
+
+
+
+
+

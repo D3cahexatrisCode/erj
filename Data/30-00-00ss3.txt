@@ -1,0 +1,6 @@
+t=The ice protection panel on the overhead panel  allows the pilots to control anti-ice protection system and the wind shield heating system. The Anti-ice protection control system contains the engine 1 and engine 2 anti-ice buttons, the wing anti-ice button and the ice detection mode selector knob. To test the system use the anti-ice system test selector knob. The engine and wing anti-ice systems operate automatically, according to system logic, when the ice protection mode selector knob is in the AUTO position and the engine and wing anti-ice buttons are in the pushed in position. The ice protection system can be manually activated by selecting the ice detector mode selector knob to the ON position, or deactivated by selecting the ENG and WING anti-ice buttons to the “pushed out” position. The windshield heating control system contains the wind shield heating 1 and 2 button. This system also  operate automatically, according to system logic, when the wind shield heating 1 and 2 button are in the pushed in position.
+
+
+
+
+

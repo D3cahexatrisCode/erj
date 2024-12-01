@@ -1,0 +1,13 @@
+t=Electric hydraulic pumps 1, 2, 3B, and the Power Transfer Unit use three position selector knobs, while electric hydraulic pump 3A uses a two-position selector knob. Each backup electric hydraulic pump has its own rotary selector knob that can put the electric hydraulic pump or Power Transfer Unit into AUTO control, OFF, or ON. In AUTO mode, electric hydraulic pumps 1 and 2 turn ON automatically during take-off and landing or when primary pump pressure is lost. Electric hydraulic pump 3B only activates in AUTO mode when electric hydraulic pump 3A is lost and does not activate during take-off and landing. Since electric hydraulic pump 3A is the primary power source on system 3 and is always ON, its rotary selector knob has only two positions - ON or OFF. Similarly, the Power Transfer Unit in AUTO mode turns ON when engine-driven pump 2 fails during landing gear operation. 
+
+
+
+
+
+
+
+
+
+
+
+

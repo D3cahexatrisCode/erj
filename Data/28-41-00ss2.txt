@@ -1,0 +1,7 @@
+t=A fuel temperature sensor is installed in the left tank only. If the temperature in the left tank drops below a pre determined value, a "FUEL TANK LO TEMP" caution appears on the EICAS. The fuel temperature can be monitored on the fuel system synoptic page.
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+t=For APU start, the DC and AC Fuel Pump switches have to be in auto position. If you select APU START, the DC Fuel Pump will start to supply pressurized fuel. As soon as AC Power is available, the AC Fuel Pump will take over. When the engine is running and the engine feed system is operating, fuel will be supplied from the ejector pump to the engine as well as to the APU. If necessary, the APU can be supplied with fuel from the left hand tank. By moving the cross feed switch to LOW 2 and with AC Power available, the left AC Fuel Pump will supply pressurized fuel to the APU. If the left engine is operating, the left ejector pump will also supply the fuel to the APU.
+
+
+
+
+
+
+
+

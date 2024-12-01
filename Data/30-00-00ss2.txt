@@ -1,0 +1,12 @@
+t=The Ice and rain protection system flight deck interface is provided via  the ice protection control panel and the windshield wiper control panel, located on the overhead panel in the cockpit. System status can be monitored on the anti-ice synoptic page. Various messages related to the ice and rain protection system can be displayed on the EICAS.
+
+
+
+
+
+
+
+
+
+
+

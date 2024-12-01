@@ -1,0 +1,7 @@
+t=In the event of failure of the main engine feed ejector pump, the AC boost pump provides backup fuel flow to the engine. AC Bus 1 powers the left AC fuel pump, and AC ESS Bus powers the right hand AC fuel pump. In case of an electrical emergency, the right hand AC fuel pump will be supplied from the Ram Air Turbine (RAT).
+
+
+
+
+
+

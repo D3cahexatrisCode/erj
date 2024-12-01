@@ -1,0 +1,7 @@
+t=Power selection: The normal and battery positions control the power source for the refuel system: In NORMAL position, DC Busses 1 and 2 provide power to the refuel control solenoids and the FCU. In BATTERY position, the system is powered by HOT Bus 2. This allows fueling with the APU not running and no external power connected. Refueling: The OPEN and CLOSED position control both of the refuel shutoff valves. With the switch in the CLOSED position, the valves are commanded closed in both the MANUAL and the AUTO mode. Selecting the switch to the OPEN position in AUTO mode causes the FCU to take control of the refuel shutoff valve via the refuel control solenoid. The FCU will close the valves to stop refueling when the preselected quantity is reached. In the MANUAL mode the valve is controlled directly by the switch position, removing the FCU from the control loop. Refueling has to be stopped manually by selecting the switch to the CLOSED position or stopping the external fuel supply. Defueling: The OPEN and CLOSED positions are available on the defuel shutoff valve. With the switch in the CLOSED position, the valve will be commanded closed. To start defueling, the switch has to be moved to the OPEN position. Each switch on the panel is guarded to ensure all switches are in the CLOSED or NORMAL position when the access door is closed.
+
+
+
+
+
+

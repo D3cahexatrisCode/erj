@@ -1,0 +1,9 @@
+t=To measure the fuel quantity with the Magnetic Level Indicators, rotate and lower the indicator. The float magnet will keep the rod magnet, and the height of the fuel level is displayed on the stick. The weight of the fuel onboard can then be determined by referring to the chart in the Operations Manual.
+
+
+
+
+
+
+
+

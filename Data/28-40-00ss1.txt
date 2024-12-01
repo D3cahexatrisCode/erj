@@ -1,0 +1,7 @@
+t=The Fuel system indication system consists of the following elements: Electrical fuel quantity, mechanical fuel quantity, fuel temperature and low level indication, which is a dedicated probe that is independent from the fuel quantity indication probe.The primary means of determining fuel quantity is an AC capacitance-type electrical fuel indicating subsystem. If the electrical fuel indicating system should fail, a backup mechanical quantity indicating subsystem, which operates by means of magnetic level indicators, allows the aircraft to be dispatched.
+
+
+
+
+
+

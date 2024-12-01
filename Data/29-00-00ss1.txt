@@ -1,0 +1,12 @@
+t=The EMBRAER uses three independent hydraulic systems to power the primary and secondary flight controls, the landing gear, the brakes, the nose wheel steering and the thrust reversers. All three systems use skydrol hydraulic fluid and operate at a nominal pressure of 3000 psig.
+
+The main components of the hydraulic system are:
+-two engine-driven pumps
+-four electric hydraulic pumps
+-one hydraulic power transfer unit 
+and three hydraulic system reservoirs
+
+
+
+
+

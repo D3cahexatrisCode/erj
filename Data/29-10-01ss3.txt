@@ -1,0 +1,13 @@
+t=The automatic control logic for electric hydraulic pumps 1, 2, 3B and the Power Transfer Unit is implemented in the SPDAs. Note that there is no automatic logic associated with electric hydraulic pump 3A - it is either ON or OFF. In case the respective SPDA goes off-line, these pumps can be manually selected ON. This is accomplished using a direct hard wire connection provided from the cockpit selector knobs to the integrated control circuits of each hydraulic pump. The electric hydraulic pumps 1, 2 and 3B will be in automatic mode control when their respective cockpit selector knob is placed in the ‘AUTO‘ position. With electrical power available they will automatically be started when the following conditions are true:  Electric hydraulic pumps 1 and 2 will be turned on when flaps are selected to any position greater than 0°.  Electric hydraulic pump 1 will be turned on when engine-driven pump 1 is not operational.  Electric hydraulic pump 2 will be turned on when engine-driven pump 2 is not operational.  Electric hydraulic pump 3B will be turned on when electric hydraulic pump 3A is not operational.
+
+
+
+
+
+
+
+
+
+
+
+

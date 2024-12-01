@@ -1,0 +1,7 @@
+t=The suction defuel operation is performed similarly to the pressure defuel procedure. Ensure the aircraft is properly grounded. After connecting the nozzle to the refuel adapter, select the DEFUELING switch to the OPEN position. Verify that the OPEN light is illuminated. In the cockpit, select the XFEED selector knob to the LOW 1 or LOW 2 position. When the desired fuel quantity is reached, stop defueling by selecting the DEFUELING switch on the fuel panel to the CLOSED position. Select the XFEED selector knob in the cockpit to OFF. Verify the OPEN light is not illuminated. The fuel nozzle can now be removed.
+
+
+
+
+
+

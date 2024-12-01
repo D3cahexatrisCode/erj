@@ -1,0 +1,7 @@
+t=For pressure refueling, please select a quantity higher than the actual fuel quantity. After pressurizing the refuel line, an automatic pre-check is performed and indicated by the two closed lights illuminated on the refuel panel. This verifies proper function of the shutoff system. Now you can move the refueling switch to open and refuel will start. The FCU will close the refuel shutoff valves automatically and stop refueling when the actual fuel quantity has reached the preselected value. It is possible to override the FCU by selecting "MANUAL" on the fuel panel. Then, the refuel valves can be controlled manually with the refueling switch.
+
+
+
+
+
+

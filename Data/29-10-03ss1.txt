@@ -1,0 +1,10 @@
+t=In normal operation, the hydraulic system is largely automatic - very little pilot input is required. The system architecture and control philosophy is such that it can cope with most abnormal aircraft operating conditions or hydraulic system failures without requiring pilot action. As systems 1 and 2 have engine-driven pumps as the primary pumps,  the systems will pressurize with engine start. Before engine start, select the Power Transfer Unit, electrical pumps 1, 2 and 3 B to the auto position. After engine start select the electric hydraulic pump 3A selector knob to the ON position. If a switch is not in the correct position for flight, an EICAS message will be displayed, alerting the flight crew that a selector knob is not correctly set. Note that the hydraulic system allows a single engine taxi. On ground, with the selector knob in the AUTO position and after starting engine number 1, releasing the parking brake automatically activates electric pump 2. Even if engine 1 is used for taxi, the electric hydraulic pump provides hydraulic power for nose wheel steering and the inboard brakes.
+
+
+
+
+
+
+
+
+

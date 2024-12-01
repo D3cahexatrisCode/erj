@@ -1,0 +1,7 @@
+t=The aircraft fuel distribution system has 3 subsystems: engine feed, APU feed and refuel/defuel. The engine feed system ensures a continuous supply of pressurized fuel to the engine during aircraft operation by using ejector and electrical pumps. It also has a crossfeed feature that allows fuel supply to both engines from either one of the wing fuel tanks. The APU fuel feed system ensures a continuous supply of pressurized fuel to the APU. The refueling and defueling is made via the same adapter in the fuel panel, and gravity refuel via 2 (two) overwing refuel ports, one for each wing tank.
+
+
+
+
+
+

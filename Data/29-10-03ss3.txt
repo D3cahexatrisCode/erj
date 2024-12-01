@@ -1,0 +1,11 @@
+t=When the aircraft is ready for takeoff, electric pumps 1 and 2 will come on automatically when the flaps are extended and the airspeed is greater than 50 kts. Thus, the pumps are already running should an engine driven pump or engine failure occur during takeoff, minimizing the effect of switching to the backup pump. Once takeoff is complete and the aircraft has begun to climb, the backup pumps will switch off when the flaps are stowed. The system 3 backup pump, electric hydraulic pump 3B, is not switched on during this phase as there are no high flow demands on system 3 and, because electric hydraulic pump 3A is on the AC essential bus. System 3 would not be affected by the loss of an engine. During the climb, cruise and descent flight phases the hydraulic system uses only the primary pumps to provide the power required by the flight controls.
+
+
+
+
+
+
+
+
+
+

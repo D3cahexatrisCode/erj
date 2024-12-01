@@ -1,0 +1,9 @@
+t=The Refuel/Defuel indicator has a two-line, eight character display which displays the fuel quantity on the upper display and the preselected quantity on the lower display during automatic refuel. The indicator includes two three-position toggle switches. When in the INCR position, the preselect quantity shown on the indicator lower line will increase. Likewise when in the DECR position, the preselect quantity will decrease. The top line of the indicator normally displays the current total fuel quantity in both tanks. When moved to the TK SEL position, the display will alternate from total tank quantity, to left quantity, to right quantity. Moving this switch to the TEST position will initiate self-test of the fuel quantity indicating subsystem. In case of a failure, "FAIL" will be indicated.
+
+
+
+
+
+
+
+

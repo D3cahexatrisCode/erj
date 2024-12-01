@@ -1,0 +1,2 @@
+t=The hydraulic system is designed in such a way that even a failure of two hydraulic systems will not result in a complete loss of flight-critical functions. The following hydraulic users are powered by hydraulic system 1, installed in the left center fuselage bay: left outboard elevator PCU, upper rudder PCU, left thrust reverser, multifunction spoiler pairs 3 and 4, ground spoiler pair 2, outboard brakes and the emergency/ parking brake.
+
