@@ -1,0 +1,4 @@
+t=The GPS interfaces are: The clock, the optional ELT, the IRS, the EGPWS, the FMS,, the CMC and the master warning function receives signals to display the GPS CAS messages.
+
+
+

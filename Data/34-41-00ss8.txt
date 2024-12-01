@@ -1,0 +1,2 @@
+t=The MFD terrain annunciation is as follows: The labels and its function are: A green TERRAIN is lit when terrain mode is selected.An amber TERRAIN FAIL is lit when a failure condition exists.A white TERRAIN INHIBIT is lit when the terrain inhibit button is pressed in approach mode. An amber TERRAIN N/A is lit when EGPWS is uncertain of the airplane’s position. A white TERRAIN TEST is lit when the self-test is activated.
+

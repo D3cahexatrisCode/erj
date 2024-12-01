@@ -1,0 +1,2 @@
+t=The inner knob on the CCD provides TILT control and gives the pilot manual control of the antenna tilt angle. The CCD inner knob is a dedicated tilt knob if VAR Gain is not active. Tilt can be varied between 15 degrees up and 15 degrees down. Clockwise rotation tilts beam upward to +15 degrees, and counter cockwise rotation tilts beam downward to –15 degrees
+

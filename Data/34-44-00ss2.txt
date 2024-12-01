@@ -1,0 +1,4 @@
+t=The Weather Radar virtual controller includes the LSS operating modes. 1 – LX MODE - Activates the LX mode on and off. 2- LX CLEAR - Past strikes and symbols are cleared. - When pushed, after 3 seconds the equipment enters the “Pilot Activated” self test mode.
+
+
+

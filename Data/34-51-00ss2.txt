@@ -1,0 +1,2 @@
+t=Press the NAV button on the MCDU to go to NAV page 1/1. Press the line select key next to DME to cycle DME hold on or off.
+

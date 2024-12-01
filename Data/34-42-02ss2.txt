@@ -1,0 +1,2 @@
+t=The GAIN control varies the RTA receiver gain. There are two GAIN modes: variable (VAR) and calibrated. The preset, calibrated mode is the normal mode and is used for weather avoidance. The system will be forced into calibrated gain when RCT or TGT are selected. The VAR gain mode is useful for additional weather analysis and for ground mapping. In weather mode, variable gain can increase receiver sensitivity over the calibrated level to show weak targets or it can be reduced below the calibrated level to eliminate weak returns.
+

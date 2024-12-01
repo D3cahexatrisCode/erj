@@ -1,0 +1,2 @@
+t=The Terrain Clearance Floor (TCF) provides a circular terrain clearance envelope around the airport runway, alerting the pilot of a possible premature descent for non-precision approaches regardless of the airplane’s configuration. The TCF is active during takeoff, cruise and final approach and is based on current airplane position, nearest runway and radio altitude. The database consists of all hard surface runways of the world, greater than 1067 m (3,500 ft) in length, which have a published instrument approach procedure.
+

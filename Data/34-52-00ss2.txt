@@ -1,0 +1,3 @@
+t=Press the radio button on the MCDU to go to RADIO page 1/2. On RADIO page 1/2 it is possible to enter the transponder code. This can be accomplish using the tuning knob or the numeric buttons. 
+
+

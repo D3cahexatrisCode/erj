@@ -1,0 +1,2 @@
+t=The Transponder System (TPX) is an integrated part of the EPIC avionics suite. TRANSPONDER (XPDR) A mode S XPDR is installed in MRC 1 and MRC 2. Each transponder provides both conventional and enhanced ATC functions. 
+

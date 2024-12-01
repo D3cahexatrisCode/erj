@@ -1,0 +1,4 @@
+t=All EGPWS warning functions including the windshear warning function are tested during cockpit self-test prior to takeoff. The self-test is activated using the MCDU test page. During the test, an amber “WINDSHEAR FAIL” message is displayed on the EICAS. A red “WSHEAR” message is displayed on the PFD and a “WINDSHEAR; WINDSHEAR; WINDSHEAR” aural message is annunciated. If the windshear warning function of the EGPWS is inoperative during the test, a “WINDSHEAR INOP” aural message is
+annunciated.
+
+

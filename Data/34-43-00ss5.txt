@@ -1,0 +1,2 @@
+t=The following TCAS mode annunciations are displayed on the PFD: TCAS OFF - indicates TCAS off and also indicates Standby. TCAS TEST - indicates functional test. TCAS FAIL - indicates TCAS System Failure. TA ONLY - indicates TA only mode. TCAS RA FAIL – indicates RA mode failure TA/RA- indicates a valid indication that the computer is in TA/RA mode.
+

@@ -1,0 +1,9 @@
+t=The FMS 1 function resides in MAU 2, in the forward electronics bay, and receives power from DC Bus 2. The FMS 2, in a dual installation, resides in MAU 3, in the center electronics bay, and receives power from ESS Bus. The FMS is mainly composed of the following components: - Two Multifunction Control Display Units (MCDU). - One Data Management Unit (DMU) (optional). - MAU Hardware. - Two Processor Modules with FMS Software. - One Database Module. 
+
+
+
+
+
+
+
+

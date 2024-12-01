@@ -1,0 +1,2 @@
+t= The normal radar sweep is ±60 degrees from the aircraft nose at a rate of 12 sweeps per minute. Selecting the SECT pushbutton reduces the angle of sweep to ±30 degrees and increases the sweep rate to 24 sweeps per minute
+

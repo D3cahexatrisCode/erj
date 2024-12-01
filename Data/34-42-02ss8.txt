@@ -1,0 +1,2 @@
+t=The test function is selected on the Multi Function Control Display Unit (MCDU) avionics test page. The test is used to select a special test pattern to allow verification of system operation
+

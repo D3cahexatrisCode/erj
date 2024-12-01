@@ -1,0 +1,2 @@
+t=This mode is used to alert the flight crew about hazards caused by ground targets. This is especially useful in areas of rapidly changing terrain, such as hilly and mountainous areas. Therefore, the selection of preset GAIN will generally provide the desired mapping display. However, the PF may desire to manually decrease the gain. It is possible to have the pilot working the GMAP mode while the other pilot is using the regular weather mode.
+

@@ -1,0 +1,3 @@
+t=The Automatic Direction Finder System (ADF) is an integrated part of the EPIC avionics suite. The ADF module enables en route and terminal navigational and area guidance. The ADF has two selectable bandwidths, a narrow band mode to reduce noise during navigation use and a wide band mode to improve clarity when listening to voice signals. The selectable modes are Antenna (ANT), ADF and beat frequency oscillator (BFO). ADF audio is transmitted from the digital audio bus to each audio panel in the system.
+
+

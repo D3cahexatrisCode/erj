@@ -1,0 +1,4 @@
+t=The airplane can be equipped with WU-660 or WU-880 Weather Radar System models. The Weather Radar System is designed for detection and analysis of the weather during flight. The Weather Radar System consists of an integrated receiver/transmitter/antenna unit (RTA) and two virtual Weather Radar Controllers. The RTA is mounted in the nose of the airplane whereas the virtual controllers consist of the CCDs and the weather mode information displayed on the MFDs below the weather information. The antenna is normally stabilized in pitch and roll using attitude information from the IRU. The Weather Radar System is powered by 28 V DC from SPDA 1, DC Bus 1. Should a power supply failure occur, the Weather Radar System will be inoperative, as there is no backup power source for this system.
+
+
+

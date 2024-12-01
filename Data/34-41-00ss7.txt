@@ -1,0 +1,2 @@
+t=In the event of a failure, the EGPWS will generate a message to alert the flight crew. The system uses a dedicated terrain display bus from the EGPWS to present terrain data. If the terrain picture bus has failed, the entire terrain picture is cleared and an amber TERRAIN annunciation is presented.
+

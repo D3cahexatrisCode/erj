@@ -1,0 +1,2 @@
+t=The REACT function permits the radar receiver to automatically adjust sensitivity to compensate for attenuation losses as the radar pulse passes through weather targets on its way to illuminate other targets. The REACT compensation is active in all modes except Ground Mapping (GMAP) Mode. The cyan field indicates areas where further compensation is not possible. This is an warning indicating that attenuation is hiding possible severe weather and should be considered very dangerous.
+

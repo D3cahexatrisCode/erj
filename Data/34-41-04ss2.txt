@@ -1,0 +1,2 @@
+t=Windshear detection is only active between 10 and 1500 feet radio altitude during the initial takeoff, go-around and final approach phases of flight, and when detected by the EGPWS. Windshear caution messages include amber “WSHEAR” message on the PFD and a single “caution windshear” aural alert. Windshear warning message consists of a red “WSHEAR” message on the PFD and a single “windshear - windshear - windshear” aural alert.
+

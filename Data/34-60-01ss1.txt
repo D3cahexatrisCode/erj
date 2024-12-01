@@ -1,0 +1,6 @@
+t=The Flight Management System (FMS) manages navigation sensors to produce the airplane position. The system provides data for the cockpit displays and Flight Control System. The FMS serves as an aid to flight planning, navigation, performance, and database and redundancy management. The system may be installed in a single or dual configuration. Should the airplane have a dual configuration, each unit can provide navigation data to the other unit.
+
+
+
+
+

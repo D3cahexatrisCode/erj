@@ -1,0 +1,2 @@
+t=WEATHER RADAR OPERATIN FUNCTIONS: The radar processes return signals in order to determine if a turbulence signature is present. TURB may only be engaged in the WX mode and at selected ranges of 50 NM or less. RANGE: The RANGE function is controlled via the outer knob on the CCD and can be set to 10, 25, 50, 100, 200 or 300 NM ranges.
+

@@ -1,0 +1,4 @@
+t=The Windshear Escape Guidance Mode provides a pitch command to recover from a windshear to minimize altitude and airspeed loss during a windshear encounter. This mode is a flight director mode and it is engaged either manually by pressing the Go Around Button while a windshear condition is detected or automatically by operating in go-around or takeoff mode or when thrust levers position is above 70° and a windshear condition is detected. In this condition all the other flight director modes are cancelled and the Altitude pre-select, go-around and takeoff modes are inhibited while in a caution or warning windshear condition.
+
+
+

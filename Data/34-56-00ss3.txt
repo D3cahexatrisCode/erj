@@ -1,0 +1,4 @@
+t=The GPS module has no direct interface with the flight crew. All device-input data will come from other systems, and all output data will be routed to other systems. These other systems will be responsible for the display of output data and for providing input data. Any faults within the GPS will be reported on the Multifunction Control Display Unit (MCDU) and the message indicator on the PFD will illuminate. When the GPS has lost integrity “GPS RAIM ABOVE LIMITS” is displayed on the MCDU. When the integrity exceeds the limit, a “RAIM WILL EXCEED LIMIT” is displayed, and when RAIM is not available  “GPS RAIM UNAVAILABLE” is shown.
+
+
+

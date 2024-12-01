@@ -1,0 +1,4 @@
+t=The Lightning Sensor System detects and locates areas of lightning activity in a 200 NM radius around the airplane. The system displays lightning rate of occurrence and position relative to the airplane.
+
+
+

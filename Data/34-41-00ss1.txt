@@ -1,0 +1,2 @@
+t=The Enhanced Ground Proximity Warning System (EGPWS) uses airplane position, configuration and terrain database information to provide the flight crew with increased awareness of the terrain along the projected flight path. The system provides the flight crew with sufficient information and alerting to detect a potentially hazardous terrain situation and thus allow the flight crew to take effective action to prevent a controlled flight into terrain event. The EGPWS is a module contained in the modular avionics unit (MAU) # 2 and it is powered via ESS DC BUS # 2.
+

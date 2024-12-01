@@ -1,0 +1,2 @@
+t=The EGPWS terrain display is designed to increase flight crew awareness of the surrounding terrain in varying density dots patterns, which represent specific terrain separation with respect to the airplane. Solid yellow is caution terrain (approximately 60 sec from impact). Solid red is warning terrain (approximately 30 sec from impact).
+

@@ -1,0 +1,4 @@
+t=The Global Positioning System (GPS) is a baseline system onboard the airplane, and a second GPS is optional. The GPS module is a satellite navigation sensor, which uses the Standard Positioning Service (SPS) from NAVSTAR GPS (Global Positioning System) satellites. The baseline GPS module is contained within MAU 1 in the forward fuselage avionics bay. If the optional second GPS is installed, it is contained in MAU 3 in the center fuselage avionics bay. The GPS module receives satellite signals from an active antenna in order to compute airplane position, velocity and time.
+
+
+

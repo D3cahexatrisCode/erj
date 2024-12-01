@@ -1,0 +1,4 @@
+t=The weather mode is used to detect areas of severe weather. This will allow the pilots to avoid areas of dangerous weather conditions and possible turbulence. Selecting weather activates the weather mode and deselects the previous mode.
+
+
+

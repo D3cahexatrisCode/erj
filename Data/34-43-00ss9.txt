@@ -1,0 +1,7 @@
+t=The following warning inhibits should apply automatically for TCAS operation: No Increase Descent commands are issued at altitudes less than 1450 ft AGL when aircraft is descending or at altitudes less than 1650 ft AGL when aircraft is climbing. No Descent commands are issued at altitudes less than 1000 ft AGL when the aircraft is descending or at altitudes less than 1200 ft AGL when the aircraft is climbing. No RAs are issued at altitudes less than 900 ft AGL when the aircraft is descending or at altitudes less than a 1000 ft AGL when the aircraft is climbing. No TAs are issued when the intruder altitude is less than 380 ft AGL. No Aural Advisories are issued at altitudes less than 400 ft AGL when the aircraft is descending and for altitudes less than 600 ft when the aircraft is climbing.
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+t=The Traffic alert and Collision Avoidance System (TCAS) is an independent airborne system, which does not rely on Air Traffic Control (ATC) for control or coordination. It detects unsafe traffic conflicts with other transponder-equipped aircraft and assists the flight crew in avoiding intruders inside a protected airspace. This is accomplished by interrogating the Mode A, Mode C and Mode S transponders, tracking responses and providing advisories to the flight crew of the vertical separation from intruders.
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+t=Press the radio button on the MCDU to go to RADIO page 1/2. Press NEXT button on MCDU to go to RADIO page 2/2. On RADIO page 2/2 is possible to tune and activate the ADF frequency. The tuning can be accomplish using the tuning knob or the numeric buttons.  Press the respective standby frequency line select key twice if not boxed, otherwise press once, to go to ADF page 1/1. On the ADF page it is possible to capture a frequency tuned in memory. Press the respective line select key to box the stored tune and use the tuning knob to cycle the stored frequencies. Press the active frequency to capture the selected stored tune.
+
+

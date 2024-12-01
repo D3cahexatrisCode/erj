@@ -1,0 +1,3 @@
+t=The TILT control knob also provides to the flight crew with the ability to place elevation control under Altitude Compensated Tilt (ACT), which adjusts the antenna tilt in relation to the altitude and selected range. The TILT knob can be used for fixed offset corrections of up to 2.0 degrees.
+
+

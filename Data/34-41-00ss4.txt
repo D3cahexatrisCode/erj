@@ -1,0 +1,2 @@
+t=The EGPWS has six different modes of operation: Mode 1: The  excessive descent rate. Mode 2: The excessive closure to terrain. Mode 3: The altitude loss after take-off. Mode 4: The unsafe terrain clearance. It generates 3 types of aural alerts based on radar altitude, airspeed, and airplane configuration. Mode 5: The descent below glideslope. Mode 6: The altitude callouts. Bank-angle callouts.
+

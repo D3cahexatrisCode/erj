@@ -1,0 +1,3 @@
+t=The Windshear Escape Guidance Mode incorporates three control logics: The Gamma Sub mode - The airplane has a positive flight path angle. This sub-mode allows the airspeed to build up during an increasing performance windshear in anticipation of a decreasing performance windshear. The Alpha Sub mode - The airplane maintains airspeed when approaching stall conditions. The windshear protection control logic keeps the airplane angle of attack below the stick shaker firing angle. The Speed Target Submode - The airplane manages the airspeed to prevent overspeed. Pitch up is commanded to maintain the  calculated airspeed. NOTE: Windshear conditions will not be detected if either EGPWS or the Radar Altimeter is unavailable.
+
+

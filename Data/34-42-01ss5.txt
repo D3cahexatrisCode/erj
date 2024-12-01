@@ -1,0 +1,3 @@
+t=Slave indicates that one controller is in the OFF position while the other one is in control of both sweeps.
+
+

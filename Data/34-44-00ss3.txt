@@ -1,0 +1,4 @@
+t=LIGHTNING SENSOR SYSTEM SYMBOLS 1 – RATE OF OCCURRENCE SYMBOLS	- Lightning rate symbols and their location represent the lightning rate of occurrence for the last two minutes. - Rate 1 represents a single strike. - Rate 2 represents three strikes. - Rate 3 represents six or more lightning strikes. 2 – ALERT SYMBOL - Lightning activity that only provides bearing information is displayed as a magenta Alert Symbol for 5 seconds.
+
+
+

@@ -1,0 +1,2 @@
+t=The EGPWS receives inputs from the following systems: -Air data system (ADS). -Flight management system (FMS). -Global positioning system (GPS). -Inertial reference system (IRS). -Radar altimeter. -Slats and flaps control system.
+
