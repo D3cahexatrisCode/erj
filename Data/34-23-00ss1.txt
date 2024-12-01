@@ -1,0 +1,8 @@
+t=The Magnetic Standby Compass is a single, independent unit mounted on the center windshield structure below the overhead panel. It is used as a standby heading source. The Compass has no system interface, but receives power for illumination via the 28 VDC Essential Bus 1. Illumination of the compass is controlled by the STDBY/CLK Dim Control on the Copilot’s Lighting Control Panel. The STDBY/CLK Dim Control also controls illumination brightness for the clock and Integrated Electronic Standby System.
+
+
+
+
+
+
+

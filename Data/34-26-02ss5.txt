@@ -1,0 +1,4 @@
+t=ATTITUDE MODE. The primary function of the attitude mode is to rapidly establish pitch and roll attitudes after completion of the power-up mode. Attitude mode runs concurrently with the alignment modes (either stationary or alignment in motion).REVERSIONARY ATTITUDE MODE. This mode, also known as Erect Attitude mode, operates in conjunction with the Stationary Alignment mode. The IRS automatically enters the reversionary  attitude  mode after completion of the power-up mode. ALIGN IN MOTION ATTITUDE MODE. This mode, also known as attitude mode, operates in conjunction with the Align in Motion mode. This mode provides attitude and heading performance.
+
+
+

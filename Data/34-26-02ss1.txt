@@ -1,0 +1,4 @@
+t=IRS OPERATING MODES. The Micro IRU has the following operational modes:- Power-up, - Alignment (stationary alignment, align in motion), - Auto realign, - Navigation, - Attitude (reversionary, align in motion), - End of flight. Control of the modes is fully automatic, which means that no input is required from the flight crew to select or enter a mode.
+
+
+

@@ -1,0 +1,4 @@
+t=IRS ABNORMAL OPERATION. In the event of a normal aircraft power interrupt or power transient, no degradation in performance will occur due to the switching or operating from the backup power source. The two Micro IRUs receive power from different primary and different secondary power sources, so in the event of a loss of power to one Micro IRU, the other Micro IRU would not also experience a power loss at the same time. If both Micro IRUs fail or suffer a loss of power simultaneously, an appropriate EICAS message will be issued and the flight crew will have to use the remaining navigation instruments and systems.
+
+
+

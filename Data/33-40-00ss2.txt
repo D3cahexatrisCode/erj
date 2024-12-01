@@ -1,0 +1,7 @@
+t=The Embraer 170 has a total of three taxi lights. The taxi lights have two separate switches for appropriate ambient lighting. The two taxi lights in the wing to fuselage fairing have a common switch while the nose wheel taxi light has a separate switch. The nose gear taxi light will automatically extinguish if the nose gear is not in the down locked position.
+
+
+
+
+
+

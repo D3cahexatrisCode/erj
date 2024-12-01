@@ -1,0 +1,2 @@
+t=The Integrated Electronic Standby System (IESS) permits the computation and the display of the three main functions, should the main instruments fail: Attitude (pitch and roll), Standard or barometric-corrected altitude and associated barometric pressure, Indicated airspeed. In addition, the IESS provides the following secondary functions or displays: Indicated mach number, VMO/MMO, Slip/Skid indication, Vertical speed, ILS, Barometric pressure in hPa, and Altitude in meters.
+

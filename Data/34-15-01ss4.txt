@@ -1,0 +1,10 @@
+t=During normal operation, air data readouts on the Captain and First Officer’s PFDs are from ADS 1 and ADS 2 respectively. Upon failure of either ADS 1 or ADS 2, only the affected side will lose the ADS readout and a failure indication will be provided to the flight crew. The affected side will automatically revert to ADS 3. In addition the pilot can select one of the two remaing ADSs for the associated PFD air data display. For 1 or 2 ADS failures, the reversionar logic for the Captain and First Officer PFDs can be seen in the following table.
+
+
+
+
+
+
+
+
+

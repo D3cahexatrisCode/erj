@@ -1,0 +1,4 @@
+t=The courtesy lights provide lighting for - forward and rear main and service door entrances, - the cockpit step between the cockpit and the cabin, and the DC ceiling lights mounted on the overhead bins. Courtesy lights are controllable by a switch mounted on the flight attendant panels. The switch gives the crew the option of having the courtesy lights in Off or Auto mode. Under normal operating conditions, the DC lights are controlled by the cabin lighting system. When normal aircraft power is not available, for example on ground with the APU not running, it is still possible to use the courtesy lights and DC ceiling lights. In this case, the Hot Bus provides power to these lights. To conserve battery power, these lights operate on a five minute cycle. A reset button located on the flight attendant panels, and as an option, on the cockpit main panel (first officer), allows an additional 5 minutes of lighting every time the switches are pressed.
+
+
+

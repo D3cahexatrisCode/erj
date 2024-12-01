@@ -1,0 +1,2 @@
+t=The Emergency Lights System provides lighting in case there is an electrical emergency condition. It provides enough cabin and exterior lighting to assure safe crew and passenger evacuation even in poor visibility conditions.
+

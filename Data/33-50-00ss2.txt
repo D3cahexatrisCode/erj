@@ -1,0 +1,2 @@
+t=The Emergency lighting system is powered by four Emergency Light Power Units (ELPUs). Two ELPUs are installed in the forward section, and two in the rear section of the fuselage to ensure power supply in case the cabin breaks apart after a crash landing.  The ELPUs will automatically provide electrical power to the emergency lights in case of a power loss on the Essential Bus, if commanded by the crew, if in test mode or if activated from the flight attendant panel. The ELPUs enable emergency illumination for at least  10 minutes. The ELPUs are recharged by the DC bus 1.
+

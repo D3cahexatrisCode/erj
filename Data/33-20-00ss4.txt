@@ -1,0 +1,4 @@
+t=The reading and attendant call lights system provides adequate lighting for reading, and information for attendants regarding passenger or pilot needs.The attendant call panel contains the attendant call lights, which provide visual indication to the attendant when a call from the pilots or passengers is received. Test switches installed on the attendant panel are used to check the PSU reading lights, attendant call panel lights, zonal lights and lavatory lights.
+
+
+

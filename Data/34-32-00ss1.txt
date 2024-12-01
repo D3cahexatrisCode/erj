@@ -1,0 +1,2 @@
+t=VHF OMNIDIRECTIONAL RADIO AND INSTRUMENT LANDING (VHF NAV). The VHF navigation system enables VOR and ADF en route flight phase navigation, terminal area navigation, and aircraft approach/landing phase navigation guidance, using localizer LOC, GS, and MKR BCN distance to runway threshold information. The receiver system automatically pairs localizer and glideslope channels to assigned frequencies. The VHF NAV system consists of two NAV modules, one in each MRC. One dual GS antenna. - One MKR BCN antenna with a duplexer. - One dual VOR LOC antenna (one per NAV module).
+

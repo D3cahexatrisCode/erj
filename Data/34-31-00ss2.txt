@@ -1,0 +1,8 @@
+t=One radar altimeter system is the standard equipment, and a second system is optional. The radar altimeter system 1 is powered by the DC Bus 1 and the System 2, if installed, is powered by the DC Bus 2. In a single system installation, the same radar altitude is displayed in both PFD´s as a digital readout. In a dual system installation, the PFD 1 displays the System 1 radar altitude and the PFD 2 displays the System 2 radar altitude.
+
+
+
+
+
+
+

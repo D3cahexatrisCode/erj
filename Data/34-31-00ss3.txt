@@ -1,0 +1,4 @@
+t=The system interfaces with the TCAS, which uses the radar altitude information to inhibit descend resolution advisories. The system also interfaces with the MAU for data distribution and integrity checking. In addition, other interfaces are performed such as with the EGPWS system to determine airplane sink rate variation; with the DVDR system in order to record mandatory parameters.
+
+
+

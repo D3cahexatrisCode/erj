@@ -1,0 +1,6 @@
+t=On the NAV page 1/1 is possible to capture a frequency tuned in memory. Press the respective line select key to box the memory tune and use the tuning knob to cycle the stored frequencies. Press the active frequency to capture the selected memory tune.
+-Press the line select key next to FMS to cycle FMS tune enable or disable.
+-Press the line select key next to DME to cycle DME hold on or off.
+
+
+

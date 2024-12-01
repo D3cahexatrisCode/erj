@@ -1,0 +1,4 @@
+t=The passenger warning signs provide the passengers and flight attendants with the following signs: NO SMOKING, FASTEN SEATBELTS, RETURN TO SEAT, and LAVATORY OCCUPIED. Note that the NO SMOKING and FASTEN SEATBELT signs will illuminate automatically in case of depressurization or the cabin altitude exceeding 14,000 ft.
+
+
+

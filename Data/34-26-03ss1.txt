@@ -1,0 +1,4 @@
+t=IRS OPERATION. INITIALIZATION - The position initialization is automatically transmitted by the Global Positioning System (GPS). - The position initialization may be manually entered via the MCDU (FMS). - Push the NAV function key to display the navigation Index page on the MCDU. - Select the POS INIT prompt from either the IDENT or POS SENSORS page. - POS INIT page lists positions that can be line-selected for initialization of the FMS using the LOAD prompt.
+
+
+

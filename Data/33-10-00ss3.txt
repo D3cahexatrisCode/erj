@@ -1,0 +1,7 @@
+t=The lights control panel is integrated in the overhead panel. It corresponds with on / off light control knobs. Turning these control knobs in the clockwise direction brightens the background lights of the main panel, the overhead panel and the pedestal. As a descrete function of the overhead panel control knob, the background lights can be set to  bright and dim illumination. Turning the overhead panel lights to the off position will automatically set the annuciator lights to bright intensity. The annunciator lights can be tested  by pushing the annunciator lights test push switch.
+
+
+
+
+
+

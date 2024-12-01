@@ -1,0 +1,4 @@
+t=END OF FLIGHT MODE. This mode is performed in conjunction with the navigation mode. The Micro IRU automatically enters this mode after landing when the airplane has been motionless for a period of five seconds. The end of flight mode stores navigation performance records, autocalibration data, and other miscellaneous information after each flight.
+
+
+

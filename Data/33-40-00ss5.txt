@@ -1,0 +1,7 @@
+t=The logo lights system provides illumination for the carrier's logo, which is located on the vertical stabilizer. The logo lights are controlled by a switch located on the overhead panel. Wing inspection lights enable the flight crew to detect ice build-up on the engine intake and wing leading edges. The wing inspection lights are controlled by a switch on the overhead panel.
+
+
+
+
+
+

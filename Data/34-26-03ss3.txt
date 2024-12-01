@@ -1,0 +1,2 @@
+t=REVERSIONARY MODE. The IRS switch on the reversionary panel changes the attitude and heading source from the on-side IRS to the cross-side IRS. If the reversionary mode is selected: - The FD modes disengage. - The AP modes disengage. - FD/AP can be re-engaged after the previous disengagement. - The annunciation changes accordingly (IRS 1 or IRS 2). COMPARISON MONITOR. The comparison monitor detects a miscomparison between IRS1 and 2, pitch, roll and heading data. When data miscompare is beyond limits, the annunciation is displayed.
+

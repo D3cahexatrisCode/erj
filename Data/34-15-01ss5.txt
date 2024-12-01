@@ -1,0 +1,9 @@
+t=The Air Data Smart Probe (ADSP) combines Pitot, Static, Angle of Attack, and some air data computer functions into a dual channel unit. It consists of an air data computer (ADC) attached to a multi-function probe (MFP). The MFP utilizes a single heater element to ensure that the probe strut and head remain free of ice. The ADC monitors the probe current to detect any heater failures and actively controls the heater temperature. The ADC is physically and pneumatically connected to the MFP. The MFP is a one-piece probe that contains a total pressure port, two alpha pressure ports, and two drain holes. Each port is paired to a pressure sensor located in the ADC. Two absolute pressure sensors measure pressure data from the total pressure port and the alpha port. A differential pressure sensor measures the difference between the pressure data from the alpha pressure ports. From the three measured pressures, the local total pressure, local static pressure, and local angle of attack are computed.
+
+
+
+
+
+
+
+

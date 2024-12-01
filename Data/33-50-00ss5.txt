@@ -1,0 +1,2 @@
+t=The emergency light switch on the cabin attendant panel has two positions: In the normal position the emergency lights remain in the mode determined by the cockpit switch. This is the normal flight position. In the ON position the emergency lights are turned on using power from the battery packs, regardless of the cockpit emergency light switch position. The legend "ON" located in the attendant control panel is illuminated to indicate the switch selection mode. Note that the message “emergency lights not armed” will be displayed on the EICAS.
+

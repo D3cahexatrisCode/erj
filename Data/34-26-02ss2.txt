@@ -1,0 +1,4 @@
+t=POWER-UP MODE. The IRU will initiate the Power-up mode when the IRU is energized or when the IRU is reset as a result of an IRS Reset Command being issued. During Power-up mode, the IRU performs a built in test.
+
+
+

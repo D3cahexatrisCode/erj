@@ -1,0 +1,3 @@
+t=The IESS relies on 28 VDC power, provided by the essential DC Bus 2. In case of an electrical emergency. It will continue to operate powered by the Ram Air Turbine (RAT) or by the batteries through the essential DC Bus2.
+
+

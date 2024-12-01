@@ -1,0 +1,4 @@
+t=AUTO REALIGN MODE. The auto realign mode is performed in conjunction with the navigation mode when the airplane is stationary to maintain optimal performance and automatically realigns the Micro IRU between flights. NAVIGATION MODE. When the IRS enters in the navigation mode, it will remain in this mode until the system is turned off.
+
+
+

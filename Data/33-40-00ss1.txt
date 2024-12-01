@@ -1,0 +1,7 @@
+t=The external lighting system uses high-intensity lights that provide illumintion for taxiing, takeoff and landing procedures. They also provide in-flight orientation and identification of aircrafts position, and illuminate the aircraft operator logo. The external lights system include the following subsystems: The landing lights, the taxi lights, the navigation lights, the inspection lights, the logo lights and the anti-collision lights.
+
+
+
+
+
+

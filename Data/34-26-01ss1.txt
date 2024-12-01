@@ -1,0 +1,9 @@
+t=INERTIAL REFERENCE SYSTEM (IRS). The IRS provides the pilots with accurate and dependable attitude,heading and position information to aid in navigation.
+
+
+
+
+
+
+
+

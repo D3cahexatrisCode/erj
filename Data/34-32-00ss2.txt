@@ -1,0 +1,3 @@
+t=Press radio button on the MCDU to go to RADIO page 1/2. On RADIO page 1/2 it is possible to tune and activate the ILS/VOR frequency. The tuning can be accomplish using the tuning knob or the numeric buttons. If the tuning knob is used the standby frequency must be boxed prior by pressing its respective line select key. If using the numeric keys, enter the standby frequency and press the respective line select key. To activate the standby frequency press the respective active frequency. Press the respective standby frequency twice if not boxed, otherwise press once, to go to NAV page 1/1.
+
+

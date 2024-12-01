@@ -1,0 +1,8 @@
+t=The anticollision light system includes strobe lights and red beacon lights. The four strobe lights supply reference from one aircraft to another when in flight. The strobe lights are controlled by the strobe light switch located on the overhead panel. Red beacon lights are used during ground operations, to warn other traffic and airport personnel. One red beacon light is installed on top of the main fuselage and one is on the lower side of the main fuselage. The red beacon lights are controlled by a switch located on the overhead panel.
+In case of strobe lights failure the bright red beacon lights can be selected on maintenance panel located inside the cockpit.
+
+
+
+
+
+

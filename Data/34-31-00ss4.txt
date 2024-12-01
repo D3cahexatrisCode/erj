@@ -1,0 +1,8 @@
+t=When one or both of the radio altimeters has failed, the associated CAS message "RALT 1 FAIL" or "RALT  2 FAIL is displayed on the EICAS display.
+
+
+
+
+
+
+

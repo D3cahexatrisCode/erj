@@ -1,0 +1,2 @@
+t=Three navigation lights (nav lights) assemblies are installed inside a transparent cover assembly on each wing tip front and rear side. They are turned on via the external lights panel. Each light assembly has two lamps. Normally only one lamp is on while the second lamp is on standby. It operates from a separate electrical source and in case of primary system fail, the standby system can be activated by the maintenance personnel on ground.
+

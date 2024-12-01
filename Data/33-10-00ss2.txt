@@ -1,0 +1,7 @@
+t=The cockpit lights include the following components: Two dome lights located on the cockpit ceiling, which  are controlled by a switch on the overhead panel. Power to the dome lights is supplied by the Essential DC Bus No 3. This permits cockpit lighting in electrical emergency conditions. The pilot, copilot and observer reading lights, installed on the ceiling. They help the flight crew to read maps, checklists and manuals. The lighting intensity level can be adjusted by clockwise or counter-clockwise movements of the reading lights inner bezel. The units permit a light beam orientation, zoom, and full movement in any direction by turning the outer bezel.The pilot's and co-pilot’s chart holder assembly each have an associated chart light for adequate illumination . They are located over the left and right side windows. Two on/off variable-intensity potentiometers located on the pilot's and co-pilot’s glare shield panels control the chart holder lights brightness. Turning the knob to the full counter-clockwise position turns the light off.
+
+
+
+
+
+

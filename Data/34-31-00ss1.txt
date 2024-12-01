@@ -1,0 +1,5 @@
+t=The radar altimeter system provides accurate absolute altitude above terrain, decision height annunciation and low altitude awareness up to 2,500 ft AGL.
+
+
+
+
