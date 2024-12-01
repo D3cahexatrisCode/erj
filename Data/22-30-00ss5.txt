@@ -1,0 +1,9 @@
+SPEED CONTROL MODE – SPEED ON THRUST (SPDT)
+In this mode the thrust levers are commanded to provide a thrust rate as programmed to maintain the desired speed.
+The selected speed is controlled by engine thrust during climb, descend and cruise phases.
+The vertical modes related to SPDT mode are:
+• Flight Path Angle (FPA) – basic vertical mode
+• Vertical Speed (VS)
+• Glide Slope (GS)
+• Altitude Hold (ALT)
+• Altitude Select (ASEL)

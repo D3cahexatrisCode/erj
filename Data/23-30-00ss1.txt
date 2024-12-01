@@ -1,0 +1,15 @@
+t=The Passenger Address (PA) system allows announcements to be made to passengers, either by pilots on the flight deck or the cabin crew members at their stations. The announcements are heard through speakers located in the cabin and in the lavatories. The use of the PA system is prioritized. The announcements from the flight deck have first priority and override all others. The announcements from the cabin override the pre-recorded announcements which override the music system. Announcements in the cabin are performed by lifting the handset from the cradle and pressing and holding the PA button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

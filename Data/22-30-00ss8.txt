@@ -1,0 +1,2 @@
+GO-AROUND THRUST
+The Go-Around Thrust mode positions the thrust levers to the TOGA position providing the required go-around engine rating.

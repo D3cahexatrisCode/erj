@@ -1,0 +1,2 @@
+RETARD MODE
+The Retard mode provides the retard of thrust levers to the idle thrust position during airplane flare on landing. Retard mode activates based on a Radio Altitude valid and less than 30 ft and the airplane in landing configuration. Once the airplane touches down the auto throttle automatically disconnects.

@@ -1,0 +1,10 @@
+THRUST RATING SELECTION (TRS)
+The thrust rating selection (TRS) automatically determines the appropriated engine thrust rating according to the flight phase.
+The FADEC transmits the thrust rating and N1 values provided by the TRS for  display on the EICAS. The thrust rating can also be manually selected via the TRS page on the MCDU, pressing TRS key.
+The following thrust ratings are transmitted by the TRS:
+• Take-off (TO)
+• Go-Around (GA)
+• Climb-1 (CLB-1)
+• Climb-2 (CLB-2)
+• Cruise (CRZ)
+• Continuous (CON)

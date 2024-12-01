@@ -1,0 +1,12 @@
+t=The Integrated-Drive Generators (IDGs) are the main AC power sources when the engines are running. They are mounted on each main engine gearbox. A hydro-mechanical Constant-Speed-Drive (CSD) converts variable engine speed into constant generator speed.  Each IDG generates constant frequency AC power at 40kVA, 115 V, 400 Hz, 3-phase. The IDG oil system is air-cooled. The IDGs are monitored and controlled by the Generator Control Units (GCUs).
+
+
+
+
+
+
+
+
+
+
+

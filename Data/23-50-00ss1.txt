@@ -1,0 +1,2 @@
+t=The digital audio system provides the capability for communication between the aircraft and ground, between the cockpit and cabin, and among the cockpit crew.
+

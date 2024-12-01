@@ -1,0 +1,14 @@
+t=The Electrical System generates and distributes AC and DC power to airplane systems. The AC system operates on 115V at 400Hz stabilized, and consists of two engine-driven Integrated Drive Generators (IDGs), one Auxiliary Power Unit Generator, one Ram Air Turbine Generator (RAT) and one AC external power input. The DC system operates on 28V stabilized and consists of two nickel cadmium batteries and one DC external power input. 3 Transformer Rectifier Units convert AC to DC and 1 inverter inverts DC to AC. In case of a generating power source failure, tie buses achieve automatic connection between the buses. Four Integrated Control Centers and two Secondary power distribution assemblies provide distribution and control of the power, and interface with other systems.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+t=On the cockpit overhead panel, the pilot is able to select or deselect power sources and buses. Indications are shown on the synoptic page “electric” and the EICAS. In case of short circuits, several circuit breakers (CB) prevent overload of the system.
+
+
+
+
+
+
+
+
+
+
+
+
+

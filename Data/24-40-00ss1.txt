@@ -1,0 +1,10 @@
+t=Electric power from an external source may be supplied to the airplane through an AC or DC receptacle. AC ground power is used for flight preparation and maintenance. DC ground power can only be used for APU start. The AC ground power receptacle is located on the left hand nose section of the aircraft, the DC ground power receptacle is located on the left hand aft section of the aircraft. Indications are shown on the electric synoptic page. Releasing the parking brake when AC or DC ground power is connected, causes an EICAS caution message GPU CONNECTED to illuminate.
+
+
+
+
+
+
+
+
+

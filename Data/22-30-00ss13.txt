@@ -1,0 +1,4 @@
+AT SINGLE ENGINE OPERATION
+In case the FADEC detects an engine failure or engine shutdown the autothrottle deactivates the respective thrust lever. The operating engine’s thrust lever remains active for autothrottle operation.
+
+Reducing the thrust lever to simulate an engine failure will cause AT disengagement due to thrust lever position split.

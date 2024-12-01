@@ -1,0 +1,3 @@
+LIMITED THRUST (LIM)
+In case that the selected vertical mode requires more or less engine thrust than that available for the thrust rating selected, Limited Thrust (LIM) will be set. In these cases the autothrottle will not be able to maintain the selected speed for climbing or descending and an amber Limited Thrust will be displayed on the FMA.
+Limited Thrust is associated to Speed on Thrust mode (SPDT).

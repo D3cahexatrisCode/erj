@@ -1,0 +1,4 @@
+t=Air-to-air and air-to-ground radio communication is established by the flight crew via two VHF COM modules. They are located in the MRCs. Two MCDU and three Audio Control Panels (ACP) provide channel selection in the MRC via the MAU. The system has an automatic transmit time-out to prevent blockage of a communication channel if a mic/boom push to talk button (PTT) is for any reason stuck active. All communications via the audio control panels are recorded in the Cockpit Voice Recorder portion of the DVDR.
+
+
+

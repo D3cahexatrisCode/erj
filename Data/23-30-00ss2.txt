@@ -1,0 +1,13 @@
+t=To make a Passenger address from the flight deck, first press either the PA button on the center pedestal or on the audio control panel. By pushing the PA button on the center pedestal, the pilot can speak through his boom set or mask mic without hands, and with hand-mic by activating push-to-talk. By pushing the PA microphone selection button on the audio control panel, the pilot can speak through any mic except the mask mic by activating push-to-talk. The mask mic is a hot mic. When the PA microphone selection button is selected, the light in the button illuminates. If push-to-talk is activated, the display shows PA TX and a number between 0 and 100 denoting the volume. If another audio panel is talking on the PA, the display shows BUSY. To terminate the call, the PA microphone selection button is pushed again, the light extinguishes and the display defaults back to the last active radio.
+
+
+
+
+
+
+
+
+
+
+
+

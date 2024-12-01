@@ -1,0 +1,8 @@
+FLIGHT LEVEL CHANGE THRUST CONTROL MODE –
+SPEED ON ELEVATOR (SPDE)
+In this mode the autothrottle maintains a fixed thrust setting, and the autopilot maintains the selected speed using the elevator command.
+For small flight level changes (FLCH mode), the Auto Throttle commands only the necessary thrust in order to maintain a comfortable predetermined schedule based on vertical speed.
+For large flight level changes (FLCH mode), the Auto Throttle commands climb a setting at CLIMB rating and descent in IDLE rating.
+The vertical modes related to SPDE mode are:
+• Flight Level Change (FLCH)
+• Overspeed (OVSP)

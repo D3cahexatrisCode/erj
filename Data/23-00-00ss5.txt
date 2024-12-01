@@ -1,0 +1,3 @@
+t=Several line replaceable units are in the cockpit for the pilot, the copilot and an observer. There are boom sets, hand-held microphones and mask mikes for transmitting. For receiving there are headphones and loudspeakers. To activate transmission via the microphones there are push-to-talk, hot mic switches on each yoke, and one push to talk button on each side of the glare shield. Three jack panels are located in the cockpit. The observer's jack panel has an integrated push to talk hot mic switch.
+
+

@@ -1,0 +1,3 @@
+t=The ramp interphone subsystem provides communication between crew and ramp personnel. There are three ramp interphone panels: One in the forward section of the aircraft, along with the external power AC receptacle; one in the mid electronic bay and one in the aft section of the aircraft, along with the external power DC receptacle. Each ramp interphone panel contains an interphone jack and a cockpit call pushbutton to call the pilot. A ramp call horn is installed in the nose wheel gear bay to summon ramp personnel. It sounds when the pushbutton on the cockpit left or right console is pushed.
+
+

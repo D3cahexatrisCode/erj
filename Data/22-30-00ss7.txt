@@ -1,0 +1,2 @@
+TAKEOFF THRUST CONTROL MODE (TO)
+Takeoff thrust mode (TO) advances the thrust levers to the TOGA position when AT is engaged on the takeoff phase.

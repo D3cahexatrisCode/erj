@@ -1,0 +1,15 @@
+t=At the end of this section the student is able to:
+- describe the purpose and layout of the auto flight system based on the Primus EPIC platform
+- explain the components and operation of the autopilot system
+- explain the components and operation of the flight guidance system
+- explain the components and operation of the auto thrust system
+- explain the components and operation of the flight management system
+- identify and explain the indications and controls of the auto flight system based on the Primus EPIC platform
+- provide the correct answers to the questions in this chapter
+
+
+
+
+
+
+

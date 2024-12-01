@@ -1,0 +1,9 @@
+t=Two Multifunction Control Display Units on the pedestal are the primary means for selecting and tuning the radios. The Radio page is the main interface, which allows selecting communication frequencies, navigation aids and transponder settings. The Control Cursor Device and the Primary Flight Display are the secondary means for selecting and tuning the radios.
+
+
+
+
+
+
+
+

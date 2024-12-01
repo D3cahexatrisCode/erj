@@ -1,0 +1,9 @@
+t=The audio selection button above the display enables the crewmembers to listen on the speaker, interphone, headphone or passenger address. A light illuminates inside the button to indicate that it is pressed. More then one selection is possible. The Volume Control Knob allows adjustment of the most recently selected audio. The Volume Display shows a four-character code and a number between 0 and 100 denoting the volume of the last active microphone/audio channel or the newly selected audio channel for 15 sec. An incoming SELCAL is displayed when the SELCAL, the microphone and audio selection button lights flash. By pressing the SELCAL button all flashing lights are extinguished. In case of an ACP failure, a push in push out volume knob allows unlatched bypassing of the audio panel and adjusting the volume. The AUTO/MASK MIC is also a apush in push out switch. When pushed out, it activates the oxygen mask microphone manually when auto mode fails.
+
+
+
+
+
+
+
+

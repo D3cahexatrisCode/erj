@@ -1,0 +1,3 @@
+OVERRIDE (OVRD)
+The autothrottle can be overridden by moving the thrust levers manually, causing no autothrottle disconnection. In this case a green “OVRD” is displayed on the FMA. The thrust levers return to the autothrottle commanded position after the override is discontinued.
+The Auto Throttle is disconnected only if the thrust lever is moved beyond the TOGA position.

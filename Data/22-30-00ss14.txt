@@ -1,0 +1,7 @@
+TLA TRIM
+The TLA trim has the following functions:
+• Perform small thrust adjustments, with limited authority.
+• Reduce excessive thrust lever movements.
+• Synchronize N1 rotation speed, increasing comfort.
+
+The TLA Trim is set to ON whenever the autothrottle is engaged, but the TLA Trim even works when the autothrottle is disconnected when TLA Trim on the MCDU TRS page is set to ON manually.

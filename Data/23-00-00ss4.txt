@@ -1,0 +1,4 @@
+t=The audio selection button above the display enables each crew member to listen on either the speaker, interphone, headphone or passenger address. A light illuminates inside the button to indicate that it is pressed. More then one selection is possible. The Volume Control Knob allows adjustment of the most recently selected audio. In case of an ACP failure, a back-up volume knob allows pushed out bypassing of the audio panel and volume adjustment. The AUTO/MASK MIC is a pushed in switch. Pushed out, it activates the oxygen mask microphone manually when auto mode fails.
+
+
+

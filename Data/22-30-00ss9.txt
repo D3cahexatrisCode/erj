@@ -1,0 +1,4 @@
+TAKEOFF THRUST HOLD CONTROL MODE (HOLD)
+The HOLD mode prevents undesirable movements of the thrust levers causing thrust reductions during the take off phase.
+The HOLD mode activates when the take off mode is active and the indicated air speed is greater than 60 kt. The autothrottle servos are then deenergized and thrust lever movements are not commanded up to 400 ft AGL.
+An EICAS message is displayed if the HOLD mode engages with a  TLA position below TOGA.

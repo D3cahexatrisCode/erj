@@ -1,0 +1,4 @@
+t=The static discharge system offloads static electricity from the airframe to the atmosphere while the aircraft is in flight, and offloads static electricity to the ground when the aircraft lands. In flight, this prevents the dangerous effects of lightning discharges, and decreases the interference on the radio communication and navigation. On ground this system minimizes the risk of electrical shock to crew, passengers, servicing and maintenance personnel. The system includes several static dischargers on the winglets and ailerons, rudder and elevator and one discharger cable on the nose landing gear.
+
+
+

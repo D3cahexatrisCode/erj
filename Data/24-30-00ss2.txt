@@ -1,0 +1,12 @@
+t=Two nickel-cadmium batteries are the secondary DC power source. Battery 2 provides APU start, and until the RAT is working, both batteries power back-up DC essential loads in case of total power loss. Battery 1 is located in the forward E-Bay and Battery 2 in the aft E-Bay. In normal operation, any available AC source will provide charging for both batteries. The battery switches on the cockpit overhead panel provide control of the battery contactors. With the switch in the OFF position, the respective contactor opens and the battery energizes only the battery hot bus. With the battery 1 switch in the ON position, the battery contactor 1 will close. With the battery 2 switch in the auto position, the battery 2 contactor will close, except when an APU start is in progress. This causes battery contactor 2 to open.  
+
+
+
+
+
+
+
+
+
+
+

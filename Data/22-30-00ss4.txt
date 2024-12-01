@@ -1,0 +1,15 @@
+Disconnection of AT occurs when:
+• Either AT Disconnect Button on the thrust levers is pressed.
+• AT button on the GP is pressed.
+• TLA difference greater than 8°.
+• AT monitor tripped.
+• The required system parameters become invalid.
+• Transition to on-ground condition (weight-on-wheels or wheels spinning), and thrust levers at Idle and AT in Retard mode.
+
+Pressing the AT Disconnect Button manually disconnects the autothrottle. 
+Anytime the auto Throttle is deactivated, an aural alarm “THROTLLE” is triggered and the autothrottle message on the FMA will flash for at least 5 seconds.
+Pressing the Disconnect Button a second time cancels the visual and aural alarm, which sounds at least once.
+
+During an abnormal disconnection of the autothrottle, the aural alarm “THROTLLE” is also triggered, a red autothrottle message on the FMA will start to flash on the FMA and an EICAS message will be displayed.
+Pressing the Disconnect Button a second time cancels the visual and aural alarm, which sounds at least once.
+Pressing the Disconnect Button will cancel the visual and aural alarm, but the EICAS message will remain displayed.

@@ -1,0 +1,9 @@
+t=The AC ground power system accepts, 115 V AC, 400 Hz 3-phase. The ground power module (EPM) in the Left Integrated Control Center (LICC) controls the operation of the system. The ground power unit switch (GPU) on the cockpit overhead panel controls the ground Power AC Contactor (EPAC). If power quality requirements are satisfied the AVAIL annunciation will illuminate. Pushing the GPU switch will allow automatic operation for powering with AC ground power. If ground power source priority conditions are met, the EPAC will close and AVAIL annunciation inside the switch changes to IN USE and the same change in indication takes place on the exterior AC GPU Panel. The Ground Service switch on the exterior AC GPU panel allows activation of the system from outside the airplane. By pushing the exterior AC GPU button, the AVAIL indication inside the switch changes into IN USE.
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+t=At the end of this section the student is able to:
+- describe the purpose and layout of the communication system based on the Primus EPIC platform
+- explain the components and operation of the radio communication
+- explain the components and operation of the interphone and passenger announcement system
+- identify and explain the indications and controls of the communication system based on the Primus EPIC platform
+- provide the correct answers to the questions in this chapter
+
+
+
+
+
+
+

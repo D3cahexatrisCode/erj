@@ -1,0 +1,3 @@
+t=The DC ground power system accepts 28V DC. Dedicated system relay logic in the Auxiliary Integrated Control Center (AICC) controls the operation of the system. Note: only the exterior ground power unit switch (GPU) on the exterior panel controls the ground power DC Contactor (EPDC). If power quality requirements are satisfied the AVAIL annunciation will illuminate. The EPDC remains open. Pushing the GPU switch will change the AVAIL annunciation inside the switch into IN USE. If APU start is initiated, the APU starter contactor (ASC) will close.
+
+

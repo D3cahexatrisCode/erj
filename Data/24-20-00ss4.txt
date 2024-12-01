@@ -1,0 +1,12 @@
+t=The Ram Air Turbine (RAT) provides emergency AC power for the EPGDS, whenever in-flight, AC power sources are not powering AC buses, and is installed in the right nose section of the aircraft. If there is a sudden loss of AC power In flight, the RAT is automatically deployed into the air stream. The kinetic energy of airflow across the turbine is converted into mechanical power to drive the generator. Automatic-mechanical variable pitch angle of the turbine blades converts variable airflow into a constant generator speed. The generator produces 15 kVA, 115 V AC, 400 Hz 3-phase. In flight, there is no altitude restriction for RAT deployment. If RAT automatic deployment fails, an EICAS warning message “BATT DISCHARGING” illuminates. The Ram Air Turbine can then be deployed manually by the RAT lever located on the center pedestal.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+The Automatic Flight System has an Auto Rating Type Transition Logic that controls the engine rating changes according to the flight phase, airplane configuration and number of engines running.
+Take off is the engine thrust rating selection on ground, and it remains in take off mode while the airplane is below 400 ft AGL.
+The change of engine thrust rating from take off to climb is set when the following  conditions occurs simultaneously:
+• Any change in vertical mode is detected.
+• Airplane altitude is above 400 ft AGL.
+• Both engines are running.
+• Landing gears are retracted.
+
+If no change in vertical mode is detected, the engine thrust rating switches from take off  to climb at 3000 ft pressure altitude above field elevation.
+The active TRS flight phase is set to climb when the airplane is in the air and the Altitude Pre-selector is above the current Baro altitude.
+
+During one engine inoperative condition, the engine thrust rating changes from take off to continuous at 3000 ft pressure altitude above field elevation.
+The active TRS flight phase is set to cruize when the airplane is in the air and the Baro Altitude is between 100 ft above and 100 ft below of Preselected Altitude for more than 90 seconds.

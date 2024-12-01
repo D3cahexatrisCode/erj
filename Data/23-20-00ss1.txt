@@ -1,0 +1,3 @@
+t=The Flight/Service Interphone System provides communication between flight deck crew and cabin crew or among the cabin crew. There are two Cabin interphone stations, one at the forward and one at the after section of the aircraft. A cabin annunciation system provides visual indication for the flight attendant.
+
+
