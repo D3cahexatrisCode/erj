@@ -1,0 +1,24 @@
+<html>
+<head>
+<script language="JavaScript">
+<!--
+	function MenuGetInfo() {
+	document.open();
+		with (document) {
+			writeln ('<html><head>');
+			writeln ('<script language="JavaScript">function CallSWF(a){parent.MainF.getMovInfo(a);} function LoadSelected(CName,CType){parent.CName=CName;parent.CType=CType;parent.PtoTake="data";parent.MainF.location.href="AddMain.html"}</script>');
+			writeln	('</head>');
+			writeln ('<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">');
+			writeln ('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="1000" HEIGHT="99" id="AddMenu" ALIGN="Left">');
+			writeln ('<PARAM NAME=movie VALUE="AddMenu.swf"><param name=FlashVars value=Files=' + parent.Index +'> <PARAM NAME=loop VALUE=false> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="AddMenu.swf" loop=false menu=false quality=high bgcolor=#FFFFFF  WIDTH="1000" HEIGHT="100" NAME="SwfPlayer" FlashVars=Files=' + parent.Index + ' ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>');
+			writeln ('</body></html>');
+		}
+	document.close();
+	}
+//-->
+</script>
+</head>
+<body onLoad="MenuGetInfo()">
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<html>
+<head>
+<script language="JavaScript">
+
+
+			var NN4 = (document.layers) ? true : false;
+			var NN6 = (!document.all && document.getElementById) ? true : false;
+			var IE4 = (document.all && !document.getElementById) ? true : false;
+			var IE5 = (document.all && document.getElementById) ? true : false;
+			var NN = (NN4 || NN6) ? true : false;
+			var BV4 = (NN4 || NN6 || IE4 || IE5) ? true : false;
+			var W3C = (NN6 || IE5) ? true : false;
+
+		if (parent.PtoTake=="net"){
+			var myContURL=parent.CName;
+		}else{
+			var myContURL=parent.Path + parent.CName;
+		}
+			var contWinWidth=1000;
+			var contWinHeight=600;
+<!--
+
+	function BuildSelf() {
+
+			if (parent.CType=="HTML" || parent.CType == "HTM") {
+				parent.MainF.location.href=myContURL;
+			}else{
+			// for all static formats, e.g. .txt, .gif, .jpg, ...
+
+				var myContTXT = '<frameset rows="100%,*" frameborder="0" framespacing="0" border="0"><frame src="'+myContURL+'" noresize><frame src="about:blank" noresize></frameset>';
+
+				var myContImage = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><img id="ContPlayer" name="ContPlayer" src="'+myContURL+'" border="0" style="position: absolute; left: 0; top: 0"></div></body>';	// MOD 22.06.2002
+				var myContGIF = myContImage;
+				var myContJPG = myContImage;
+			// for all non-static formats, which require a separate ocx control in IE or non-ocx player in NN	// MOD 22.06.2002
+
+				if(NN) {
+					var myContSWF = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" name="ContPlayer" swLiveConnect="true" src="'+myContURL+'" loop="false" menu="true" quality="high" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"></embed></div></body>';	// MOD 22.06.2002
+					var myContMOV = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><EMBED SRC="'+ myContURL +'" WIDTH="'+ contWinWidth +'" HEIGHT="'+ contWinHeight+'" AUTOPLAY="true" CONTROLLER="true"></embed><body>';				// MOD 22.06.2002
+					var myContMPG = myContMOV;
+					var myContMPEG = myContMOV;
+					var myContMPE = myContMOV;
+					var myContWMP = myContMOV;
+					var myContAVI = myContMOV;
+					var myContDIR = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><embed name="ContPlayer" type="application/x-director" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=Shockwave" src="'+myContURL+'" loop="false" menu="true" quality="high" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"></embed></div></body>';	// MOD 22.06.2002
+					var myContPDF = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><script language="JavaScript">open ("'+ myContURL +'");</script></body>';	// MOD 22.06.2002, 26.06.2002
+
+				} else {
+
+					var myContWMP = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><object id="ContPlayer" classid="clsid:6BF52A52-394A-11D3-B153-00C04F79FAA6" type="application/x-oleobject" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"><param name="url" value="'+myContURL+'"><param name="uimode" value="full"><param name="autostart" value="true"></object></div></body>';	// MOD 22.06.2002 WMP 7.x for IE
+					var myContSWF = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><object id="ContPlayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,23,0" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"><param name="src" value="'+myContURL+'"><param name="loop" value="false"><param name="menu" value="true"><param name="quality" value="high"></object></div></body>';	// MOD 22.06.2002
+					var myContAVI = myContWMP;				// MOD 22.06.2002
+					var myContMPG = myContWMP;
+					var myContMPEG = myContWMP;
+					var myContMPE = myContWMP;
+					var myContMOV = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><OBJECT CLASSID="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" WIDTH="'+ contWinWidth +'" HEIGHT="'+ contWinHeight +'" CODEBASE="http://www.apple.com/qtactivex/qtplugin.cab"><PARAM name="src" VALUE="'+ myContURL +'"><PARAM name="autoplay" VALUE="true"><PARAM name="controller" VALUE="true"></OBJECT></body>';
+					var myContDIR = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><object id="ContPlayer" classid="clsid:166B1BCA-3F9C-11CF-8075-444553540000" type="application/x-director" codebase="http://active.macromedia.com/director/cabs/sw.cab#version=6,0,0,0" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"><param name="src" value="'+myContURL+'"><param name="loop" value="false"><param name="menu" value="true"><param name="quality" value="high"></object></div></body>';	// MOD 22.06.2002
+					var myContPDF = '<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div><object id="ContPlayer" classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" type="application/pdf" codebase="http://www.adobe.com/products/acrobat/readstep2.html" width="'+contWinWidth+'" height="'+contWinHeight+'" style="position: absolute; left: 0; top: 0"><param name="src" value="'+myContURL+'"></object></div></body>';	// MOD 22.06.2002, 26.06.2002
+				}
+
+			//write document
+				var ActiveContent= eval ("myCont" + parent.CType);
+				document.open();
+				with (document) {
+				    writeln ('<html>');
+				    if (parent.CType=="SWF"){
+				    	writeln ('<script language="JavaScript">function getMovInfo(a){ if (a==1) document.ContPlayer.Play(); if (a==0) document.ContPlayer.StopPlay();}</script>');
+				    } else {
+				    	writeln ('<script language="JavaScript">function getMovInfo(a){}</script>');
+				    }
+				    writeln (ActiveContent);
+					writeln ('</html>');
+				}
+				document.close ();
+			}
+	}
+//-->
+</script>
+</head>
+<body onLoad="BuildSelf()">
+</body>
+</html>

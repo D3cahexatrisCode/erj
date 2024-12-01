@@ -1,0 +1,6 @@
+agree_t=Copyright © GE Capital Aviation Training Ltd 2003 (all rights reserved)
+No part of this document may be reproduced or transmitted in any form or by any means, electronic or mechanical including photocopying,recording or by any information storage and retrieval system, without prior permission in writing from the publisher.
+This Program is to be used for training purposes only.
+In no way it supercedes or replaces information published in official documentations.
+
+&show_cr=1&cr_t=GE Capital Aviation Training Ltd&MCQ_Communication=1&MCQ_ShowScore=1&MCQ_MinimumScore=70&ExternalSwfPlayer=swfPlayer/swfPlayer.swf&V2_Data=Data/Data.txt
