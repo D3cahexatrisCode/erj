@@ -1,0 +1,10 @@
+t=The ECS synoptic page in the cockpit displays temperature information of the cockpit-, cabin- and cargo compartments of the aircraft. CKPT-, FWD CAB-, and AFT CAB SET values display the temperature reference set by the switches on the cockpit and cabin selector panels. CKPT-, FWD CAB-, and AFT CAB ACTUAL values display the actual temperature measured by the respective temperature sensors. 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+t=The Automatic Flight Control System (AFCS) includes the Flight Guidance Control System (FGCS) and Thrust Management System (TMS). The Flight Guidance Control System functions are: Auto Pilot, Flight Director, Yaw Damper/Turn Coordination. The Thrust Management System functions are: Automatic Throttle (AT), Electronic Thrust Trim System (ETTS), Thrust Rating Selection (TRS).
+
+
+
+
+
+
+

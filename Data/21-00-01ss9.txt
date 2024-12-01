@@ -1,0 +1,5 @@
+t=The pack 1 ram air ventilation consists of a ventilation valve installed in the emergency ram air ducting that connects the ram air duct to the pack 1 outlet ducting. The emergency ram air valve is commanded open any time the airplane is in flight and pack 1 and 2 are commanded OFF or failed and the airplane's flight altitude is less than 25000 ft. The pack 2 ram air ventilation consists of a check valve installed in the emergency ram air ducting that connects the ram air duct to the pack 2 outlet ducting. The emergency ram air check valve does not require electronic control. The emergency ram air check valve will be open whenever the pressure in the ram air ducting is greater than cabin pressure.
+
+
+
+

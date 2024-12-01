@@ -1,0 +1,19 @@
+t=The View Flight deck button allows you to zoom into the flight deck and to move around with the navigation buttons.With the hot spot button activated, you can click to see the overhead and main instrument panels,and the control pedestal, with their various functions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+t=The center e-bay ventilation system has three fans, which provide forced cooling air for the center e-bay electronics, Left and Right Integrated Control Centers and SPDA 2. The fans draw air from the rear cabin return and expel it towards the underfloor recirculation bay. Flow sensors are used for fan/flow health monitoring.
+

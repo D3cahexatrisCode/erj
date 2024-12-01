@@ -1,0 +1,7 @@
+t=The following information is indicated continuously on the EICAS:
+-Cabin altitude
+-Cabin pressure rate
+-Cabin differential pressure
+-Landing field elevation
+Additionally, Outflow valve position is continuously indicated on the ECS synoptic page, and safety valve status will be displayed if the valve is open. The following EICAS advisory, caution and warning messages will be displayed on the EICAS in case of failures: The advisory message PRESN AUTO FAULT will be displayed if one channel of the controller CTR can no longer perform AUTO mode, but the second channel is fully operational. The caution message PRESN AUTO FAIL indicates that both channels fail to perform AUTO mode. The crew must select manual mode and control the cabin altitude manually using the conversion tables in the Aircraft Manual. The caution message PRESN MAN FAIL is displayed when both channels fail to perform MAN mode. The warning message CABIN ALTITUDE HI together with a red cabin altitude indication will be displayed when the cabin altitude exceeds 9'700 ft. Additionally, an aural warning will sound.
+

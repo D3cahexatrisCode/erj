@@ -1,0 +1,3 @@
+t=The autopilot provides automatic flight path and roll control of the aircraft. The autopilot performs the following functions: · Pitch attitude control via elevator commands for: Autopilot stability computations, Coupling to the vertical flight director modes. Autopilot pitch trim commands to alleviate elevator servo loads. · Roll attitude control via aileron for: Autopilot stability computations, Coupling to the lateral flight director modes. The Autopilot control limits for roll will be ±25 degrees except in approach mode. In Approach , the roll limits will be reduced linearly from ±25 degrees, above 200 feet radio altitude, to ±5 degrees at zero feet radio altitude. The autopilot will not command more than ±20 degrees pitch. 
+
+

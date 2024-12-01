@@ -1,0 +1,12 @@
+t=The flight deck and cabin zone temperature can be manually controlled by either using the CKPT or the PAX/CABIN selector knob on the Air conditioning / Pneumatic control panel in the cockpit. However, control of the cabin zone temperature can be transferred to the respective selector knob on the flight attendant control panel by selecting the ATTND position on the PAX/CABIN knob in the cockpit. With the optional two zone configuration installed, each cabin zone has a seperate Flight attendant temperature select knob.  The respective control knobs are connected directly to the AMS controller, which in turn regulates the air temperature accordingly. 
+
+
+
+
+
+
+
+
+
+
+

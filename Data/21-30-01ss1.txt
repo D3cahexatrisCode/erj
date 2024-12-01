@@ -1,0 +1,5 @@
+t=The Cabin Pressure Control System (CPCS) controls the aircraft cabin pressure and provides maximum safety and comfort during all segments of flight and ground operation. The system operates in either automatic or manual mode. Normal operation is automatic. The Cabin Pressure Control System consists of the following main components: One cabin pressure controller, one cabin outflow valve, one negative pressure relief valve, one positive pressure relief valve and one static port. One pressurization panel, located on the overhead panel in the cockpit, is installed for the crew to select the system modes, insert the landing field elevation, actuate the cabin outflow valve manually, and to dump the cabin pressure in the event of an emergency. System status information is indicated continuously on the EICAS and the ECS synoptic page, while various messages will be displayed on the EICAS in the event of failures.
+
+
+
+

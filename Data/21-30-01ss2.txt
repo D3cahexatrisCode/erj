@@ -1,0 +1,7 @@
+t=The cabin pressure controller contains two identical control channels.In AUTO mode, one channel is in control and the other is in standby. The channel in control uses actual cabin pressure from the cabin pressure sensors and various data from other aircraft systems, such as ambient pressure, engine power signals, landing gear information, barocorrection, landing field elevation and cruise flight level, to calculate the requested reference cabin pressure. In MAN mode, both channels of the cabin pressure controller revert to standby mode. The outflow valve position can then be directly controlled by the pilots. Note: Manual mode is differential pressure limited, but not cabin altitude limited, and no automatic cabin depressurization on ground is provided. 
+
+
+
+
+
+

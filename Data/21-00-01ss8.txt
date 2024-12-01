@@ -1,0 +1,7 @@
+t=The ECS provides ventilation for live animals in the forward cargo bay. This optional system contains a fan on the side of the bay to provide underfloor recirculation air into the bay. The system also contains a shutoff valve at the outlet of the bay that closes in the event of fire and thus preventing halon from leaving the bay. In  addition, in the event of fire, recirculation fans are commanded OFF to prevent halon from entering the cabin.
+
+
+
+
+
+

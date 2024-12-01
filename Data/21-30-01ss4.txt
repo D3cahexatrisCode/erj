@@ -1,0 +1,5 @@
+t=The pressurization panel in the cockpit is directly connected to the Cabin Pressure Control System controller and provides the following switches: A rotary mode switch with three locked positions to select AUTO or MAN modes, and to set LFE (landing field elevation) CTRL override. When the switch is commanded to LFE position the pressurization system remains in the automatic mode and only the LFE will be inmanual mode. A spring loaded rotary selector knob with two momentary positions to increase or decrease the landing field elevation; A spring loaded rotary selector knob with two momentary positions to control the outflow valve manually; and a guarded dump button. When pressed the dump function is activated and a white striped bar illuminates on the button.
+
+
+
+

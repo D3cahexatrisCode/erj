@@ -1,0 +1,4 @@
+t=The AFCS system has the following components: dual channel guidance panel, two autopilot quick disconnect switches, two TCS switches, two TOGA switches, four processing modules, single elevator servo, single aileron servo and a single rudder servo.
+
+
+

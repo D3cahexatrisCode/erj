@@ -1,0 +1,6 @@
+t=The automatic mode provides a single action dump function. This function is used in the event of emergency evacuation, smoke evacuation or for fast cabin depressurization.
+Selection of the dump button will deactivate the ECS packs and the recirculation fans, and then depressurize the cabin at a rate of 2000 ft/min up to 12,400 ft. If the cabin altitude is above 12,400 ft when the dump is activated, the cabin altitude will rise due to natural leak.The cabin can be depressurized to higher altitudes using the manual mode.
+
+
+
+

@@ -1,0 +1,13 @@
+t=The menu control button is used to call up the main menu. The menu is used to select desired chapters, subchapters and lessons by clicking on them. Completed lessons are signed with a green check mark. The window can be removed by pushing the menu button a second time.
+
+
+
+
+
+
+
+
+
+
+
+

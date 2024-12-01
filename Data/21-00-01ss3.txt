@@ -1,0 +1,7 @@
+t=Air recirculation from the cockpit and passenger compartement is provided via two recirculation fans located in the pressurized section of the airplane. The recirculation fans draw air from the recirculation bays, direct them to the mixing chamber and impel the air back into the distribution system. The total flow entering the cockpit and the passenger cabin is made up of approximately 52% fresh air and 48% recirculation air. With the recirculation button pushed in fan operation is automatic. The fans will be commanded OFF if the Cabin Pressurization Control System dump button is pressed, or if smoke is detected in the recirculation bay.
+
+
+
+
+
+

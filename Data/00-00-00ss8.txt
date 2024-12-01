@@ -1,0 +1,17 @@
+t=By pressing the zoom button you can enlarge the current content. The movie control section will change and you can choose between zoom in, zoom out, reset and a move function. Click the zoom+ button, and then on the above picture with the magnifier that appears to zoom in for a detailed view. With the move button you will also be able to drag the picture to a special position. Zoom- will minimize the enlarged content and the reset function will return it to the starting position.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

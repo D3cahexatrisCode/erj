@@ -1,0 +1,18 @@
+t=The Additional button appears when the course administrator has implemented subject-related additional content, e.g. revised aircraft documentation, interactive system indications and schematics. By selecting the button a new window will be opened. Choose a subject and press the open button to view the content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+t=The text button is used to call up the text window that shows the text of the selected lesson.The text window can also be enlarged by clicking on the arrow on the right hand top corner, or shrunk if you press it again.The window can be removed by pushing the text button a second time. The audio button is used to turn the audio on or off, and with the audio volume bar you can adjust the audio volume. Click on the next lesson button to continue with the introduction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

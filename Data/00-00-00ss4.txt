@@ -1,0 +1,15 @@
+t=You can open the options window with the options button, and there you can choose between questions and personal notes. In the questions field you can send questions to your tutor. By clicking on the My Questions button you can access the questions catalogue. You can compose questions by clicking on the New button. Send questions with the Send button, which you find on the New Question panel. Close the window to continue the lesson. If your question is answered a message will appear in a pop-up window. You can then read your answer in the new question window. With the Previous and Next buttons you can flip through your Questions catalogue. Click the FAQ-button to get a list of the most frequently asked questions and corresponding answers in this course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

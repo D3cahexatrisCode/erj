@@ -1,0 +1,6 @@
+t=Rotating the pressurization mode selector knob to the MAN position allows manual control of the outflow valve. When manual mode is selected, both channels of the cabin pressure controller revert to standby state, but only one channel performs the manual operation. The channel selection is automatic.
+NOTE: In manual mode there is no automatic cabin depressurization on the ground (after landing).
+
+
+
+

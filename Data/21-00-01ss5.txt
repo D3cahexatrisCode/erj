@@ -1,0 +1,3 @@
+t=The forward e-bay ventilation system has three fans, which provide forced cooling air for # 1 Secondary Power Distribution Assembly (SPDA 1), Emergency Integrated Center (EICC) and all other avionics located in this e-bay. The fans draw air from the cockpit and expel air toward the underfloor recirculation bay. A flow sensor is used for fan/flow health monitoring.
+
+

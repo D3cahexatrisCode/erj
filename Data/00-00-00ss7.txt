@@ -1,0 +1,19 @@
+t=The help button provides access to the help screen, which offers you additional information related to the various functions. To access this information, simply click the item you want information about. To close the help screen push the help button again.
+To leave the training program, push the exit button. The confirmation message “Do you really want to exit?” will appear. If you want to exit, click on Yes, or click on No to continue in the program. Click on the next lesson button to get information about additional features of the CBT program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

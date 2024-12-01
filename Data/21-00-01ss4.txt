@@ -1,0 +1,7 @@
+t=The gasper air distribution system provides air to each pilot and passenger position. Air flowing from the mixing manifold through the gasper check valve supplies the gasper ventilation system. When the gasper valve is opened, air from the right recirculation fan supplies the gasper system. During normal system operation the gasper shutoff valve remains closed. It automatically opens whenever the gasper air supply exceeds 35ºC (95ºF). This prevents hot air from blowing onto the passengers.
+
+
+
+
+
+

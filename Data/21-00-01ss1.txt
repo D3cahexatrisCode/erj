@@ -1,0 +1,7 @@
+t=The Environmental Control System (ECS) uses bleed air from the pneumatic system to provide air conditioning for the cockpit and cabin, filtered air recirculation, conditioned air supply for gaspers and fan air cooling for avionics located in the electronic bays. Additionally, an emergency ram air ventilation system is provided for cockpit smoke removal. An optional cargo bay ventilation system provides adequate airflow to the forward cargo compartment.
+
+
+
+
+
+

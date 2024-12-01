@@ -1,0 +1,16 @@
+t=By selecting the personal notes button you can write and store your personal notes. These notes are then stored in relation to the active lesson. Write your note into the highlighted field and press OK. You can flip through your notes by clicking on the Previous or Next button.Edit a note by clicking on the Edit button. Delete a note by clicking on the Trash Can icon at the bottom of the window. Pushing the options button a second time closes the options window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

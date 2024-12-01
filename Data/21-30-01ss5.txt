@@ -1,0 +1,11 @@
+t=During normal operation, the pilot selects the cruise flight level and the landing field elevation in the FMS before take-off. If no FMS is available, landing field elevation must be manually selected using the rotary knob on the pressurization panel. In this case, the final cruise level will be calculated by the cabin pressure controller using actual ambient pressure during the flight. The system now calculates a target cabin pressure and a corresponding pressure rate of change for each of the following cabin pressure control system flight modes: -GROUND: the aircraft is on ground but not within the take-off run;
+-TAKE OFF: the aircraft is performing the take-off run;
+-CLIMB: the aircraft climbs to the cruise flight level;
+-CRUISE: the aircraft is flying at a constant altitude;
+-DESCENT: the aircraft is descending towards the landing field;
+-and ABORT: the flight is aborted and the aircraft returns to the take-off field. EICAS indication: LFE will return to take off field elevation if, the present pressure altitude is below 10 000 ft or 5000 ft above field elevation.
+Information from the FADEC, the ADC and the FMS are used within the cabin pressure controller to determine the current flight mode.
+
+
+
+

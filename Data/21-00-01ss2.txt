@@ -1,0 +1,7 @@
+t=The two ECS packs are installed in the wing-to-fuselage fairing. The AMS controller controls the bleed airflow to each pack independently, through the respective pack flow control valve. During normal operation engine #1 supplies bleed air to pack 1 while engine #2 supplies bleed air to pack 2. Via cross bleed a single bleed source can supply both ECS packs and a single pack is capable of keeping adequate cabin/cargo hold pressurization and temperature.
+
+
+
+
+
+
