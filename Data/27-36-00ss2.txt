@@ -1,0 +1,3 @@
+t=The Stall Warning Protection System (SWPS) has a dual redundant architecture, allowing normal operation with only one channel. In case a single SWPS control channel fails, the other operative channel will continue to monitor for a stall situation and the respective EICAS message is displayed. If one shaker motor fails and activates inadvertently, the pilot can deselect that shaker by using the cutout button on the SPS control panel, in order to provide continuous stall protection on the other, functional shaker.
+
+

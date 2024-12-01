@@ -1,0 +1,11 @@
+t=In direct mode, the P-ACE units incorporate a fixed gain schedule to command the amount of rudder surface movement according to the pilot pedal input, producing 30 degrees of surface motion with full pedal input. With the rudder control system operating in normal mode, the Flight Control Modules (FCM) add further high level functions to the pilot pedal inputs. With increasing airspeed, rudder gain is reduced by the FCM in order to compensate for the increase in rudder effectiveness, and providing structural protection to the rudder surface, vertical fin and empennage. Gain schedule commands such as yaw damping and turn coordination are computed within the AFCS and sent to the Flight Control Modules (FCMs).
+
+
+
+
+
+
+
+
+
+

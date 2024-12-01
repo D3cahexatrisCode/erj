@@ -1,0 +1,14 @@
+t=At the end of this section the student is able to:
+- describe the general purpose and layout of the flight control system
+- explain the components and operation of the primary and secondary flight controls
+- explain the different modes with the fly by wire system
+- explain the components and function of the stall protection system
+- identify and explain the indications and controls of the flight control system
+- provide the correct answers to the questions in this chapter
+
+
+
+
+
+
+

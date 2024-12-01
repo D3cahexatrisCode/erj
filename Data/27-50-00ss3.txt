@@ -1,0 +1,14 @@
+t=Transmission drivelines are installed on the leading and trailing edge of each wing, transmitting torque from the PDU output shaft to the actuators stationed along the wing, using torque shafts and angle gearboxes. The input shaft of each actuator is also a through shaft, transmitting the torque from actuator to actuator, maintaining synchronization within the system. A Position Sensing Unit (PSU) is located at each outboard end of the slat and flap drivelines, providing position feedback to the SF-ACE channels. The SF-ACE uses the information for closed loop computing of the surface position, for detection of asymmetric slat or flap deployment, and for surface position indication on the EICAS.
+
+
+
+
+
+
+
+
+
+
+
+
+

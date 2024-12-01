@@ -1,0 +1,14 @@
+t=The Horizontal Stabilizer Actuator Control Electronics (HS-ACE) is a dual channel active/standby system. During normal operation, one channel operates in the active mode, actually controlling the actuator, while the other is in standby. The FCM alternates the active/standby configuration of the channels following the first power up each day. Channel 1 is powered by Main DC Bus 1, while channel 2 is powered by DC ESS Bus 2. If an error is detected, the monitor lane will stop the electrical motor, in effect shutting down the channel. As a result, the standby channel then becomes the active channel.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+t=A single channel failure within the Slat/Flap-ACE, or a single electric motor failure within a PDU, results in low rate speed operation of the flap/slat system. The advisory message SLAT LO RATE or FLAP LO RATE will be displayed on EICAS. In the event of a double channel failure in the slat or flaps control system, the system will no longer be available. The caution FLAP FAIL and SLAT FAIL are displayed on EICAS respectively. When the Ram Air Turbine is the only source of electric power, the flap and slat channel power by AC BUS 1 and 2 do not receive any electrical power, as only the AC ESS BUS is powered. This results in half speed operation of the system. Additionally, when Ram Air Turbine is the only source of electrical power, the Slat/Flap-ACE will prevent deployment of slats and flaps beyond position three to assure adequate airspeed for the Ram Air Turbine.
+
+
+

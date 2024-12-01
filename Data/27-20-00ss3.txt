@@ -1,0 +1,9 @@
+t=Two electro-hydraulic actuators, or PCUs, drive the rudder control surface. They are controlled by the associated P-ACE, commanding the PCU to drive the rudder surface. The two PCUs connected to the rudder surface operate in an active/standby mode, resulting in one actuator being energized and actively controlling the surface, while the standby PCU acts as a hydraulic damper. The active/standby status of the PCUs is alternated by the P-ACE units at the first power up on ground each day, or automatically switched when a failure is detected. The upper PCU is powered by hydraulic system 1, while the lower PCU is powered by hydraulic system 3.
+
+
+
+
+
+
+
+

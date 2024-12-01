@@ -1,0 +1,14 @@
+t=The elevator control system installation is a fly-by-wire, electro hydraulic control system, providing control around the aircraft pitch-axis. The system is controlled either by the pilots, moving the control column forward or backward, or by the autopilot, taking the place of the pilot input commands. The elevator control system moves the left and right elevator surfaces, which are attached to the horizontal stabilizer. P-ACE and FCM control logic is used to control two hydraulic elevator actuators for each surface, operating in an active/ standby mode. With no mechanical connection between the control column and the elevator surfaces, two independent feel units provide artificial feel and centering to the control columns. The aircraft is trimmed around the pitch axis by repositioning the horizontal stabilizer, using the pitch trim switch on the control yoke or the backup pitch trim switch on the trim control panel in the cockpit.
+
+
+
+
+
+
+
+
+
+
+
+
+

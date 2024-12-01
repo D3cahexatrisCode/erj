@@ -1,0 +1,5 @@
+t=Operating in normal mode, the roll spoilers are also gain scheduled as a function of airspeed. A roll spoiler augmentation command, computed in the FCM, is added to the normal pilot input in order to modify the roll inputs for changes in airspeed or different flaps settings. Generally, an increase in airspeed results in smaller panel deflections, while increasing the flap setting also reduces roll-spoiler authority. In case of loss of airspeed data the respective FCM is removed from the control loop, and the system reverts to direct mode. A fixed gain is then applied to the respective roll spoiler system for the entire flight, independent of airspeed or flap setting. A caution message SPOILER FAULT will be displayed on EICAS. In direct mode, speed brake and ground spoiler are not available.
+
+
+
+

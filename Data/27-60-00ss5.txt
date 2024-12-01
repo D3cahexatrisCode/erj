@@ -1,0 +1,3 @@
+t=The spoiler control system deploys the multi-function spoiler panels symmetrically as in-flight speedbrakes. Moving the lever commands the system to deploy the multi-function spoiler panels proportionally as a function of lever position, up to the in-flight limit of 30 degrees. The speed brake will retract automatically upon selection of flap 3 or advancing the thrust lever beyond Thrust Lever Angle (TLA) 60 degrees. In the event of a disagreement of lever position with actual surface position after automatic retraction, the advisory message SPDBRK LEVER DISAG will be displayed on the EICAS. 
+
+

@@ -1,0 +1,2 @@
+t=The Horizontal Stabilizer Actuator (HSA) is a single electrical-mechanical actuator. Two DC motors drive the actuator in an active/standby configuration, each of them able to drive the actuator with full performance. Stabilizer position is provided to the HS-ACE and is used for monitoring and EICAS indication for example an aural warning to the crew for trim position outside the take-off green band.
+

@@ -1,0 +1,7 @@
+t=The aircraft can be pressure refueled and defueled at the right hand wing leading edge by means of a standard single-point refueling adapter and the associated refuel/defuel control panel. Additionally, the aircraft may be refueled using the gravity refuel ports located on top of the wings. The fuel gauging system provides a highly accurate measure of the fuel in the wing tanks, as well as fuel low-level and temperature indication for display on the EICAS and MFD. Fuel system operation is designed to provide a continuous supply of pressurized fuel to the engines without pilot intervention. However, the Fuel Control Panel located in the cockpit allows the pilot to manually control the electrical fuel pumps to supply both engines and APU from one tank by using the crossfeed function.
+
+
+
+
+
+

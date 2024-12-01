@@ -1,0 +1,11 @@
+t=There are four identical Flight Control Modules (FCM) installed: FCM 1 + 2 are located in the Modular Avionics Unit #1 (MAU 1) in the forward electronics bay, while FCM 3 + 4 are located in the Modular Avionics Unit #3 (MAU 3) in the center electronics bay. The FCM provides the digital interface between the flight control system and the rest of the aircraft avionics systems, and is required for normal-mode operation of the flight control system. The FCM units are connected to the Primary-ACEs via the Controller Area Network Bus (CAN bus), providing digital inputs to the Primary-ACE, which are combined with pilot inputs. This is used to augment pilot inputs for different airspeeds, and provides other high level functions such as Angle-Off-Attack (AOA) limiting to the Primary-ACE units.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+t=The rudder control system is a fly-by-wire, electro hydraulic control system, providing control around the aircraft yaw-axis. The system is controlled by the pilots, autopilot and FCM high level functions. The rudder control system moves a single rudder surface attached to the vertical stabilizer. P-ACE and FCM control logic is used to control two rudder actuators, or PCUs, operating in an active/standby mode. With no mechanical connection between the rudder pedals and the rudder surface, a feel unit provides artificial feel and centering to the rudder pedals. The rudder control system is trimmed manually by using the yaw trim switch on the trim control panel.
+
+
+
+
+
+
+
+
+

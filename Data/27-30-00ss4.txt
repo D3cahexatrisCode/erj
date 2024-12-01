@@ -1,0 +1,4 @@
+t=The PCU pairs connected to each elevator surface operate in an active/standby mode. Resulting in one actuator being energized, and actively controlling the surface, while the standby PCU acts as a hydraulic damper, also providing flutter protection. The active/standby status of the PCUs is alternated by FCMs, through the PCU units following the power up on ground each day, or switched automatically when a failure is detected. The inboard PCUs on each elevator surface are powered by hydraulic system 2. The left outboard elevator PCU is powered by hydraulic system 1, and the right outboard elevator PCU is powered by hydraulic system 3.
+
+
+

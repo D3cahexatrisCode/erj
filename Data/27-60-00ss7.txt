@@ -1,0 +1,8 @@
+t=The dedicated ground spoiler control system consists of four ground spoiler panels, two on each wing, numbered L1, L2 and R1,R2. The ground spoilers are used to reduce the stopping distance of the aircraft. The outboard spoiler pair is supplied by hydraulic system 1, and the inboard pair by hydraulic system 2. The panels are held either in the fully stowed position or fully deployed position (60 degrees). Proximity sensors are installed near the actuator, and when the panel is opened 6 degrees or more it will indicate a not-stowed condition. The signal is used for take-off configuration warning and failure indication on the EICAS.
+
+
+
+
+
+
+

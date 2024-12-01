@@ -1,0 +1,3 @@
+t=The spoiler control system commands five symmetrical pairs of spoiler panels, three pairs of multifunction spoilers located on the outboard wing section and two pairs of dedicated ground spoilers located on the inboard wing section. The system provides roll control to augment roll inputs from the ailerons, in-flight speed brake control to increase aerodynamic drag to reduce airspeed or increase rate of descent, and the system also provides automatic ground- and multifunction spoiler deployment to increase wheel braking efficiency, and aerodynamic drag to reduce the stopping distance after touchdown. A speed brake lever assembly located on the center pedestal in the cockpit is used to command the speedbrakes.
+
+

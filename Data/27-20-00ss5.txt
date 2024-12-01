@@ -1,0 +1,7 @@
+t=Failure such as an actuator runaway or a mechanical disconnect, will be detected by the P-ACE and the failed PCU will be shut down. Control of the surface will automatically be switched to the other PCU. In the event of a jam in pilot's rudder pedal assemblies, the rudder remains active and will be actuated by high-level functions (yaw damping and turn coordination). In case of a jammed PCU actuator the rudder will be hydraulically locked at the current position. The pilot will have sufficient control of the aircraft using the ailerons and the roll spoilers.
+
+
+
+
+
+

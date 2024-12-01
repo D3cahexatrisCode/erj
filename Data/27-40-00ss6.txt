@@ -1,0 +1,11 @@
+t=In the event of a failure of the horizontal stabilizer trim system, the autopilot cannot be engaged, or if already engaged, will disengage automatically. In the event of an electrical emergency, only the HSTA 2 is operational at low rate. A loss of airspeed data from the FCM also results in low rate operation of the horizontal stabilizer, providing structural protection to the surface. In the event of either cockpit trim failure the respective message will be displayed on the EICAS. 
+
+
+
+
+
+
+
+
+
+

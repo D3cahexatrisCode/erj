@@ -1,0 +1,2 @@
+t=The system uses conventional pedal assemblies to drive the fly-by-wire rudder control system. Two independent P-ACE modules drive the upper and lower PCUs, providing the analog rudder control functions implemented in the P-ACE, such as pedal-shaping to vary the pedal-to-surface gearing as a function of pilot's input. Four independent FCM units, located in MAU 1 and 3, provide high level system augmentation to the P-ACE units, such as yaw damping, turn coordination, as well as gain scheduling as a function of airspeed.
+

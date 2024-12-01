@@ -1,0 +1,14 @@
+t= The two PCUs driving one aileron surface are both hydraulically pressurized during normal operation, thus operating in an active/active mode. The left and right inboard PCUs are connected to hydraulic system 2, while the left and right outboard PCUs are connected to hydraulic system 3.
+
+
+
+
+
+
+
+
+
+
+
+
+

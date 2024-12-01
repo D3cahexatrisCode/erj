@@ -1,0 +1,9 @@
+t=The Slat/Flap Control Lever in the cockpit allows pilot input to the slat/ flap control system by converting angular displacement of the lever into electrical signals to the SF-ACE units. A light plate provides reference position markings for surface position selection. The Slat/Flap Control Lever has seven positions, each having a detented arrangement as shown, resulting in the respective slat/ flap surface positions and placarded speeds. Position FOUR is gated in either direction for the go-around. For aircraft configuration logic the position 4 is used only for take off and position 5 for landing, although the Slat/Flap 4 and 5 position have the same surface deflection.
+
+
+
+
+
+
+
+

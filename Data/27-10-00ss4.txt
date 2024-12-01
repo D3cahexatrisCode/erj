@@ -1,0 +1,6 @@
+t=Any single jam of the mechanical components of the system will leave half of the system operational. In case of a jam in either pilot’s control wheel or the associated cable assembly, the pilot is able to control the aircraft using the non-jammed control wheel, by operating the wheel disconnect unit to separate the two halves of the system. In the event of a jammed PCU actuator the respective aileron surface will be hidraulically locked at the current position and the pilot will retain control of the remaining aileron and all the roll spoilers by means of the jam override device. 
+
+
+
+
+

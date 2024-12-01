@@ -1,0 +1,9 @@
+t=After touch down, the FCM units will automatically command all multifunction spoiler and ground spoiler surfaces to the fully extend position in order to increase wheel brake efficiency by reducing aerodynamic lift. The following spoiler logic conditions must be met: Weight On Wheels (WOW) on ground, Thrust Lever Angle (TLA) below 60 degrees and wheel speed input above 45 kts, or airspeed above 60 kts. Following the roll out, the spoilers will automatically retract when wheel speed is below 45 kts. If the throttles are moved beyond 60 degrees (TLA) after landing, the spoiler panels will automatically retract.
+
+
+
+
+
+
+
+

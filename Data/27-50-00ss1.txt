@@ -1,0 +1,5 @@
+t=The EMBRAER high lift system consists of two actuation systems, one controlling eight slat surfaces on the leading edge of the wing (four per wing) and the other one controlling four double slotted flap surfaces on the trailing edge (two per wing). A single control lever, located on the center pedestal in the cockpit, is used to control the movement of slats and flaps. There are seven slat/ flap control lever positions, defining the combined positions of the slat and flap surfaces. Slat and flap motion is sequenced such that slats extend first, and flaps retract first, when the motion command requires both surfaces to move. Deployment of both Slat/Flap surfaces is commanded by two Slat/Flap Actuator Control Electronics (SF-ACE), and electrically operated using two Power Drive Units (PDUs). The PDU consists of a gearbox and two electric motors. Each SF-ACE controls one flap and one slat electric motor.
+
+
+
+

@@ -1,0 +1,13 @@
+t=The flight control module (FCM) incorporates software to combine the roll spoiler commands and the speedbrake commands into a composite command, when turns are flown with speedbrakes deployed. During right turns with speedbrakes deployed, the left wing spoilers will retract partially as the right wing spoilers extend. Conversely, during left turns with speedbrakes deployed, the right wing spoilers will retract partially as the left wing spoilers extend. 
+
+
+
+
+
+
+
+
+
+
+
+

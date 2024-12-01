@@ -1,0 +1,11 @@
+t=The following trim inhibit commands are implemented in the horizontal stabilizer control system: Pushing the pilot's or copilot's quick disconnect switch on the control yoke will disable both HS-ACE channels as long as the switches remain depressed, thus disconnecting the autopilot and stopping any active trim command. Releasing the switch will activate the channel again. Two pitch trim cutout switches are located on the Trim Control Panel in the cockpit. Pressing the buttons will disable the respective HS-ACE channel,  switching it off. The other channel will then become the active channel. In case of stick shaker activation, the HS-ACE is prevented from responding to any pitch up trim commands by a stick shaker signal from the AFCS. 
+
+
+
+
+
+
+
+
+
+

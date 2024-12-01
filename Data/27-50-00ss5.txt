@@ -1,0 +1,14 @@
+t=There are a total of eight slat actuators per side to provide the actuation force to four slat panels mounted on the leading edge of each wing. Electronic skew sensors prevent excessive panel skew, in case of a disconnect in one actuator while the other actuator on the same panel continues to operate. If differential movement of a panel exceeds acceptable limits, the SF-ACEs will shut down the slat system, and the corresponding caution will be displayed on the EICAS.
+
+
+
+
+
+
+
+
+
+
+
+
+

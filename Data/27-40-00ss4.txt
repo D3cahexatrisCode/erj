@@ -1,0 +1,14 @@
+t= The HS-ACE responds to all trim commands with the following priority: Back up trim command, Pilot trim command, copilot trim command and FCM trim command. 
+
+
+
+
+
+
+
+
+
+
+
+
+

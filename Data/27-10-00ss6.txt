@@ -1,0 +1,9 @@
+t=In the event of a disconnect of one aileron PCU from the surface or wing structure, the other PCU attached to the surface will operate normally. The aileron surface will operate normally, but the force authority of the aileron surface will be halved. The aileron PCUs normally share air-loads during flight, and if the FCM detects a difference in load-sharing from the two actuators per aileron surface, and the message AILERON RH FAIL or AILERON LH FAIL will be displayed on the upper right portion of the EICAS display in the cockpit. When the hydraulic supply to one actuator is lost, the unit operates as a damper, and the system continues to operate normally, with the remaining actuator driving the control surface. In the event of a loss of all hydraulic systems, both actuators will be in damping mode, and the aileron surface will remain in the aerodynamic trail position.
+
+
+
+
+
+
+
+

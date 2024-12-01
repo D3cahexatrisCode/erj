@@ -1,0 +1,9 @@
+t=With the elevator control system operating in normal mode, the elevator is gain scheduled as a function of airspeed, reducing elevator movement with increasing airspeeds. The FCM adds additional high level functions to the pilot inputs, such as elevator thrust compensation and AOA limiting. In the event of loss of airspeed information, the FCM is removed from the control loop, and the associated P-ACE reverts into direct mode, using a fixed gain to FLAP / SLAT RETRACTED and a different fixed gain to FLAP / SLAT EXTENDED, to ensure aircraft controlability. The FCM functions like elevator thrust compensatior and AOA limiting are then no longer available.
+
+
+
+
+
+
+
+

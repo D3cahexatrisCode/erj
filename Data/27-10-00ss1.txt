@@ -1,0 +1,10 @@
+t=The lateral control system installation includes both the conventional hydro-mechanical aileron control system and the fly-by-wire electro-hydraulic multifunction spoiler control system, providing roll axis control. The system is controlled either by the pilots, rotating the control wheel left or right, or by the autopilot. The aileron control system controls two aileron surfaces attached to the rear spar of the wings, while the multifunction spoiler control system drives three outboard pairs of spoiler surfaces to assist roll control. A feel- and-centering unit provides artificial feel (force feedback) to the cockpit control wheels. The aileron control system is trimmed manually by using the roll trim switch on the trim control panel, located in the cockpit on the center pedestal. The trim system is operated via the rocker type dual control switch on the trim control panel, commanding the actuator to move, and repositioning the neutral feel position of the aileron system. The actuator is equipped with a timer, limiting a single trim command to three seconds. A quick disconnect switch, located on the pilot and copilot control wheels, disables the roll trim actuator by interrupting DC power to the trim motor, as long as the switches remain depressed. A potentiometer within the actuator provides position indication to the EICAS system.
+
+
+
+
+
+
+
+
+

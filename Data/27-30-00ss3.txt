@@ -1,0 +1,12 @@
+t=The two control columns are connected via a disconnect mechanism located between the two torque tubes. In the event of a jam in one of the control columns, the disconnect mechanism can be actuated by pilots through the disconnect handle in the cockpit, providing continued operation of the system. Following a disconnection the pilot of the non-jammed side retains pitch control by means of on-side elevator. The system will remain disconnected for the remainder of the flight and ground maintenance is required to reset the system.
+
+
+
+
+
+
+
+
+
+
+

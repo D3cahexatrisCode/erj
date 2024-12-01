@@ -1,0 +1,9 @@
+t=The fuel system is designed to provide fuel to both engines and the APU. The fuel system consists of three subsystems: The storage subsystem, which includes vented integral fuel tanks in the aircraft wings; the distribution subsystem, which permits operations like engine feeding, APU feeding, tank refueling and defueling; and finally the fuel indicating subsystem, which provides indications and failure information to the crew and maintenance personnel.
+
+
+
+
+
+
+
+

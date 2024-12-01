@@ -1,0 +1,14 @@
+t=The system consists of two conventional control wheel assemblies for pilot and copilot, used to drive both the fly-by-wire roll-spoilers and the aileron control system. Two forward torque tubes are installed underneath the flight deck - one for each control wheel. Two independent aft torque tubes are located on each side of the center fuselage. Two sets of cables, connected to the forward torque tubes, provide the aileron commands to the aft torque tubes. The right set of cables runs beneath the cabin floor, terminating at the right aft torque tube, while the left set of cables runs along the bottom of the fuselage to provide separation through the rotor burst zone, and terminates at the left aft torque tube. A second set of cables is attached to the aft torque tubes, terminating at the wing quadrants, which drives the input levers to the hydro-mechanical aileron actuators, or PCUs. Cockpit Control Transducers (CCTs), connected to the forward torque tubes, provide control wheel inputs to the multifunction spoiler control system.
+
+
+
+
+
+
+
+
+
+
+
+
+

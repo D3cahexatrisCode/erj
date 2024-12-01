@@ -1,0 +1,13 @@
+t=A total of four flap actuators per side provide the actuation force to extent and retract the flap panels mounted on the trailing edge of each wing. The flap panels are double-slotted configuration consisting of a main flap panel and a aft flap panel for both the inboard and outboard flaps. Movement of the main flap panel, driven by actuators, causes the aft flap panel to deploy relative to the main flap. Electronic skew sensors detect a disconnect  in one flap actuator while the other on the same panel continues to operate. If differential movement of a panel exceeds acceptable limits, the SF-ACEs will shut down the flap system, and the corresponding caution message will be displayed on the EICAS.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+t=The Actuator Control Electronics (ACE) module is the primary component in the flight control system. A total of six ACE units are installed: two Primary-ACE's in the forward electronics bay, two Slat/ Flap ACE's (SF-ACE) in the middle electronics bay, one Primary-ACE and one Horizontal Stabilizer ACE (HS-ACE) in the aft electronics bay. The three Primary-ACE units control the rudder and elevator surfaces, the two SF-ACE units control the slats and flaps, and the HS-ACE unit controls the horizontal stabilizer. Each ACE unit contains two independent channels, providing the direct connection of the cockpit controls to the respective actuators, effectively replacing the cable mechanism of a conventional aircraft. For example, Primary-ACE 1 controls the left outboard elevator actuator through channel one, and the lower rudder actuator through channel two.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+t=There are six multifunction spoiler panels - three on each wing - numbered L3 to L5 and R3 to R5. The multi-function spoilers have three modes of operation: roll augmentation as a part of the lateral control system, speed brake and ground deployment. In the roll augmentation mode, the spoilers are deployed asymmetrically as commanded by the pilot’s and copilot’s control wheel. In the speed brake mode, the spoilers are deployed symmetrically as a function of speed brake handle position to increase the aircraft descent rate. The multi-function spoilers are automatically deployed symmetrically as ground spoilers following landing in order to reduce the stopping distance of the aircraft. The inboard and middle panel pairs are supplied by hydraulic system 1, while the two outboard panels are supplied by hydraulic system 2.
+
+
+

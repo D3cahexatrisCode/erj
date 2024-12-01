@@ -1,0 +1,4 @@
+t=Stall warning is provided by the Auto-Flight Control System (AFCS) by activating the stick shaker motor on the control column. The FCM provides stall protection by means of the Angle Of Attack (AOA) limiting function. Once the stick shaker is activated by the AFCS, the AOA limiting function reduces control column authority in the nose up direction gradually until the control column reaches the aft stop, thereby limiting the angle of attack. The FCM computes an AOA limiting command using angle of attack data, control column position and inertial feedback. The command is sent to the P-ACE units, where it is added to the normal pilot input. If one or more sensors required to perform the AOA limiting function fails, the function is no longer available, and the respective message will be displayed on the EICAS.
+
+
+

@@ -1,0 +1,6 @@
+t=The two halves of the aileron control system are connected via a disconnect mechanism located between the two forward torque tubes, and an override unit mounted to the right aft torque tube. In the event of a jam in one of the cable circuits, the disconnect mechanism can be actuated by the pilots by means of the disconnect handle in the cockpit, separating the two halves of the system. Following a disconnect, half of the system remains operational. If the jam occurs on the copilot’s half of the system, the pilot retains control of the left aileron with normal artificial feel. If the jam occurs on the pilot’s side, the copilot remains in command of the right aileron without artificial feel and roll trim since the feel mechanism is attached to the pilot’s half of the system. Only one pair of multifunction spoilers will remain available after the disconnection. Following a disconnect, the system remains separated for the remainder of the flight, and ground maintenance is required to reset the disconnect unit.
+
+
+
+
+

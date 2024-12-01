@@ -1,0 +1,5 @@
+t=A loss of the hydraulic supply to either one of the PCUs is immediately detected by the pressure sensor in the PCU, and control is automatically switched to the other PCU. A PCU failure will be detected by P-ACE, resulting in the shutdown of a failed PCU. Control of the surface will be automatically transferred to the other PCU. If a jam in one of the elevator PCUs is detected, the respective elevator surface will remain fixed at the position where the jam occurred. The pilot will be able to control the aircraft using the remaining elevator.
+
+
+
+
