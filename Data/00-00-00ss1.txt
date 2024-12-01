@@ -1,0 +1,11 @@
+t=The following is an introduction to this training program. The program is divided into two areas: the display area, where all lessons will be shown, and the main control area, where various function buttons can be selected. The main functions are: The movie controls, the previous lesson button, the next lesson button, the menu button, the options button, the text button, the audio button, the help button and the exit button. Additional features will be described later. Now click on the next lesson button to continue with the introduction.
+
+
+
+
+
+
+
+
+
+

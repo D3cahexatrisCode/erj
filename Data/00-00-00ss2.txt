@@ -1,0 +1,13 @@
+t=The movie control is used to stop or play a selected lesson. Two additional buttons are provided to advance or retard stepwise within the selected lesson. A status indication provides information regarding progress within a lesson, and by clicking on it, also permits you to travel freely within a lesson. The next lesson button calls up the next lesson, and the previous lesson button calls up the previous lesson in sequence. Now click on the next lesson button to continue, and at the end of each following lesson when you wish to continue.
+
+
+
+
+
+
+
+
+
+
+
+
